@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://stevenhorner.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Steven Horner
+subtitle: A lightweight in the Outdoors
+author: Steven Horner
 simple_search: http://google.com/search
 description:
 
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: stevenhorner
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
