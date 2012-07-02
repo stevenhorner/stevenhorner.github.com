@@ -42,6 +42,6 @@ This post is now almost 3 years old but while migrating to the new site I though
 
 * [Ortleib A4 Case][a4] - I use this on most trips with a printed map of my intended route. I then just roll it up and put it in the side of my pack.
 
-* [Thermarest Lite Seat][seat] - Like the pillow I've never used this for years. At 100g I should of bought the NeoAir regular, I never use a seat when I'm sitting I just put my waterproof trousers under my bum.
+* [Thermarest Lite Seat][seat] - Like the pillow I used this a couple of time years ago. At 100g I should of bought the NeoAir regular, I never use a seat when I'm sitting I just put my waterproof trousers under my bum.
 
 * [Montane Terra Pants][terra] - I did buy a new pair but the exact same sizing now has a shorter leg (a bit too short), the belt clip has changed and there is no pull tag on the fly zip. All of these are negatives to me, the old model was better.
