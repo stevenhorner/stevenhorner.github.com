@@ -15,27 +15,33 @@ categories:
 [NeoAir]: http://www.backpackinglight.co.uk/product424.asp
   * [Silk sleeping bag liner][liner]
 [liner]: http://www.backpackinglight.co.uk/product337.asp
-  * [Backpacking Pillow](http://www.backpackinglight.co.uk/product301.asp)
-  * [Repair kit](http://www.backpackinglight.co.uk/product427.asp)
-  * [Ortlieb A4 map case](http://www.backpackinglight.co.uk/product88.asp) (already have a map size one)
-  * [Thermarest Lite Seat](http://www.backpackinglight.co.uk/product137.asp) (needed due to small Neo Air)
+  * [Backpacking Pillow][pillow]
+[pillow]: http://www.backpackinglight.co.uk/product301.asp
+  * [Repair kit][repair]
+[repair: http://www.backpackinglight.co.uk/product427.asp
+  * [Ortlieb A4 map case][a4] (already have a map size one)
+[a4]: http://www.backpackinglight.co.uk/product88.asp
+  * [Thermarest Lite Seat][seat]
+[seat]: http://www.backpackinglight.co.uk/product137.asp) (needed due to small Neo Air
 
-I think that was it, very nearly bought a new pair of [Montane Terra Pants](http://www.backpackinglight.co.uk/product14.asp), my existing pair need re-proofing will try that first. I have worn them on almost every walk I've done for 3 years, so becoming tatty. Now that I've bought some more camping gear, I definitely have to get out on some multi-day walks. I have 2 weeks holiday after this week, now where am I going to go?
+I think that was it, very nearly bought a new pair of [Montane Terra Pants][terra], my existing pair need re-proofing will try that first. I have worn them on almost every walk I've done for 3 years, so becoming tatty. Now that I've bought some more camping gear, I definitely have to get out on some multi-day walks. I have 2 weeks holiday after this week, now where am I going to go?
+[terra]: http://www.backpackinglight.co.uk/product14.asp
 
 #### Update July 2012
 
 This post is now almost 3 years old but while migrating to the new site I thought I would update my thoughts on a couple of the items.
 
-* [NeoAir (Short)][NeoAir] - After 3 years I have recently borrows a regular and I get a far better nights sleep. The short was just a little too short it often caused my knees to ache with my feet and lower legs hanging off the bottom even with a bag under them. It's also warmer when your feet are on a longer NeoAir. My first NeoAir deflated but this was replaced and I've had no problem since. The extra weight of th regular is worth every gram.
+* [NeoAir (Short)][NeoAir] - After 3 years I recently borrowed a regular length and I get a far better nights sleep. The short was just a little too short it often caused my knees to ache with my feet and lower legs hanging off the bottom even with a bag under them. It's also warmer when your feet are on a longer NeoAir. My first NeoAir deflated but this was replaced and I've had no problem since. The extra weight of the regular is worth every gram.
 
-* [Silk Liner][liner] - I've been very happy with this, it keeps my sleeping bag clean and its surprising just how much warmth it adds.
+* [Silk Liner][liner] - I've been very happy with this, it keeps my sleeping bag clean and its surprising just how much warmth it adds. These were no longer listed when I just checked but the [SeatoSummit][liner2] is the same and has more fit options.
+[liner2]: http://www.amazon.co.uk/gp/product/B000OQF2IA/ref=as_li_ss_tl?ie=UTF8&tag=faitocom-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B000OQF2IA
 
-* Backpacking Pillow - I used this twice and found it a waste of time. I just use a stuff sack I;m already carrying now as a pillow.
+* [Backpacking Pillow][pillow] - I used this twice and found it a waste of time. I just use a stuff sack I am already carrying as a pillow.
 
-* Repair Kit - It sits in the bag with my NeoAir but I have never used it and in reality not sure I would really fix it in the middle of nowhere. Pluging the NeoAir into a loch to find where the leak is isn't something I'd really do. On a long trip you may want to fix it, especially if in a very remote area.
+* [Repair Kit][repair] - It sits in the bag with my NeoAir but I have never used it and in reality not sure I would really fix it in the middle of nowhere. Plunging the NeoAir into a loch to find where the leak is isn't something I'd really do. On a long trip you may want to fix it, especially if in a very remote area.
 
-* Ortleib A4 Case - I use this on most trips with a printed map of my intended route. I then just roll it up and put it in the side of my pack.
+* [Ortleib A4 Case][a4] - I use this on most trips with a printed map of my intended route. I then just roll it up and put it in the side of my pack.
 
-* Thermarest Lite Seat - Like the pillow I've never used this for years. At 100g I should of bought the NeoAir regular, I never use a seat when I'm sitting I just put my waterproof trousers under my bum.
+* [Thermarest Lite Seat][seat] - Like the pillow I've never used this for years. At 100g I should of bought the NeoAir regular, I never use a seat when I'm sitting I just put my waterproof trousers under my bum.
 
-* Montane Terra Pants - I did buy a new pair but the exact same sizing now has a shorter leg (a bit too short), the belt clip has changed and there is no pull tag on the fly zip. All of these are negatives to me, the old model was better.
+* [Montane Terra Pants][terra] - I did buy a new pair but the exact same sizing now has a shorter leg (a bit too short), the belt clip has changed and there is no pull tag on the fly zip. All of these are negatives to me, the old model was better.
