@@ -10,4 +10,5 @@ categories:
 - Running
 ---
 
+{% video http://player.vimeo.com/video/41153510 %}
 I finally returned several years after running the first Deerstalker 5k, this time talking Traci into running it with me. Watch the video above for an idea of the fun had, the HD version is better.
