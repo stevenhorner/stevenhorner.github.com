@@ -1,0 +1,10 @@
+---
+date: '2009-08-31 14:13:52'
+layout: post
+slug: crazy
+status: publish
+title: Crazy
+wordpress_id: '295'
+---
+
+

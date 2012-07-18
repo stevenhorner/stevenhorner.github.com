@@ -1,0 +1,13 @@
+---
+date: '2009-07-12 14:36:45'
+layout: post
+slug: training
+status: publish
+title: Training
+wordpress_id: '244'
+tags:
+- fitness
+---
+
+I am following a 12 week half marathon training plan to get me prepared for 20th September and no it isn't the Great North Run. The training so far has been very easy with "Easy" or "Steady" runs. Today was the first time I've felt tired, a 7m "steady" run. The lack of food and the alcohol the night before probably didn't help.   
+View [7m Steady](http://maps.google.co.uk/maps/ms?ie=UTF8&hl=en&t=h&msa=0&msid=113883115040085084370.00046e88e7a3e04e15c1c&ll=54.727743,-1.664858&spn=0.034695,0.072956&z=13&source=embed) in a larger map Above is my run today from Willington to Meadowfield and back. The pace isn't fast at all but its the pace I have to run for my training schedule. For more details on the run [click here](http://connect.garmin.com/activity/8615727).
