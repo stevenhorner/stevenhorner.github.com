@@ -15,7 +15,31 @@ I'm not setting resolutions for 2012, the plan for the year can be summed up wit
 
 > Focus, Fun and Learning
 
-Rather than blathering on, I am going to try to keep my posts short (lightweight) as much as possible this year. Sometime in the next couple of months you will see some changes on this site, but for now that's all I'm saying. **Planned trips/activities ** Scotland Winter Walking (February) Run (March) - I have entered a short offroad race Walking Skye (April) Mountain Leader Training (May) Relaxing Summer Holiday (June) - Maybe climb a mountain UL Summer Summit (July/August) Mountain Leader Assessment (September) - If enough experience **Climbing** Currently top roping indoors at around about 6b, intend to lead climb from February, then progress to rock outdoors in Spring/Summer. **A few things I hope to learn more about:** Dry stone walling Bushcraft & wilderness skills Geology Flora & fauna **Outdoor books on my 2012 reading list:** *Disclaimer these are affiliate links
+Rather than blathering on, I am going to try to keep my posts short (lightweight) as much as possible this year. Sometime in the next couple of months you will see some changes on this site, but for now that's all I'm saying. 
+
+**Planned trips/activities ** 
+
+*   Scotland Winter Walking (February) 
+*   Run (March) - I have entered a short offroad race
+*   Walking Skye (April)
+*   Mountain Leader Training (May)
+*   Relaxing Summer Holiday (June) - Maybe climb a mountain
+*   UL Summer Summit (July/August)
+*   Mountain Leader Assessment (September) - If enough experience
+
+**Climbing** 
+
+Currently top roping indoors at around about 6b, intend to lead climb from February, then progress to rock outdoors in Spring/Summer. 
+
+**A few things I hope to learn more about:** 
+
+* Dry stone walling
+* Bushcraft & wilderness skills
+* Geology Flora & fauna
+
+**Outdoor books on my 2012 reading list:** 
+
+*Disclaimer these are affiliate links
 
   * [Ultimate Navigation Manual - Lyle Brotherton](http://www.amazon.co.uk/gp/product/0007424604/ref=as_li_ss_tl?ie=UTF8&tag=faitocom-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0007424604)![](http://www.assoc-amazon.co.uk/e/ir?t=faitocom-21&l=as2&o=2&a=0007424604)
   * [Granite and Grit: A Walker's Guide to the Geology of British Mountains - Ronald Turnbull](http://www.amazon.co.uk/gp/product/071123180X/ref=as_li_ss_tl?ie=UTF8&tag=faitocom-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=071123180X)![](http://www.assoc-amazon.co.uk/e/ir?t=faitocom-21&l=as2&o=2&a=071123180X)
