@@ -14,6 +14,8 @@ tags:
 - ZigZag
 ---
 
+<iframe src="http://new.socialhiking.org.uk/maps/iframe/stevenhorner/Highland-ZigZag/450" width="600" height="450"></iframe>
+
 This is a slighty shorter and less detailed post than originally intended. I had planned to write a post listing where exactly I am aiming to be each night and what I am carrying with weights of each bit of kit, but in the end I just never got chance. You can read some of what i'm planning and what the Highland ZigZag is [here](http://www.stevenhorner.com/?p=1393).
 
 I also decided that I need a holiday, the last few months have been a bit hectic and forcing myself to stay up late to write what would likely be a poorly written post while tired would be worse than no post at all.
