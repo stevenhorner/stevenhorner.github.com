@@ -4,6 +4,7 @@ layout: post
 slug: off-on-the-highland-zigzag
 status: publish
 title: Off on the Highland ZigZag
+alias: /?p=1440
 wordpress_id: '1440'
 categories:
 - Outdoors

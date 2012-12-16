@@ -4,6 +4,7 @@ layout: post
 slug: footwear-evolution
 status: publish
 title: Footwear Evolution
+alias: /?p=1406
 wordpress_id: '1406'
 categories:
 - Gear

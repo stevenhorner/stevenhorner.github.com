@@ -4,6 +4,7 @@ layout: post
 slug: aonach-eagach-two-potentially-dangerous-errors
 status: publish
 title: Aonach Eagach & Two Potentially Dangerous Errors
+alias: /?p=1568
 wordpress_id: '1568'
 categories:
 - Outdoors

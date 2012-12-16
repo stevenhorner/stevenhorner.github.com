@@ -4,6 +4,7 @@ layout: post
 slug: mapping-revolution
 status: publish
 title: Mapping (R)evolution
+alias: /?p=1465
 wordpress_id: '1465'
 categories:
 - Outdoors

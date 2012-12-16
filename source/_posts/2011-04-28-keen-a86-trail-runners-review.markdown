@@ -4,6 +4,7 @@ layout: post
 slug: keen-a86-trail-runners-review
 status: publish
 title: Keen A86 Trail Runners Review
+alias: /?p=1417
 wordpress_id: '1417'
 categories:
 - Gear

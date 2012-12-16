@@ -4,6 +4,7 @@ layout: post
 slug: cairngorms-everything-but-the-kitchen-sink
 status: publish
 title: Cairngorms - Everything but the kitchen sink
+alias: /?p=1540
 wordpress_id: '1540'
 categories:
 - Outdoors

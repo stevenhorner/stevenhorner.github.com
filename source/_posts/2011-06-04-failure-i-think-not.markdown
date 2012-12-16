@@ -4,6 +4,7 @@ layout: post
 slug: failure-i-think-not
 status: publish
 title: Failure, I think not
+alias: /?p=1445
 wordpress_id: '1445'
 categories:
 - Holiday

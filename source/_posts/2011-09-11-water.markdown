@@ -4,6 +4,7 @@ layout: post
 slug: water
 status: publish
 title: Water
+alias: /?p=1503
 wordpress_id: '1503'
 categories:
 - Gear

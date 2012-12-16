@@ -4,6 +4,7 @@ layout: post
 slug: wanderer-returns
 status: publish
 title: Wanderer Returns
+alias: /?p=1528
 wordpress_id: '1528'
 categories:
 - Climbing

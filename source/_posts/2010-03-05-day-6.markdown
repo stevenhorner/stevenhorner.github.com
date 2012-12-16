@@ -1,9 +1,10 @@
 ---
 date: '2010-03-05 06:53:01'
 layout: post
-slug: day-6
+slug: whw-day-6
 status: publish
-title: Day 6
+title: WHW - Day 6
+alias: /?p=592
 wordpress_id: '592'
 categories:
 - Trip Report
@@ -11,4 +12,17 @@ categories:
 - WHW
 ---
 
-Today was a day off, I considered walking up Beinn Dorain. The cloud cloaking the top changed my mind, along with the lack of crampons & ice axe. [![](http://www.stevenhorner.com/wp-content/uploads/2010/03/l_1600_1200_402AE06E-38B6-4149-B8D5-50B8654A0AA1.jpeg)](http://www.stevenhorner.com/wp-content/uploads/2010/03/l_1600_1200_402AE06E-38B6-4149-B8D5-50B8654A0AA1.jpeg) I'm holed up in the bar, where since breakfast there has been me and a member of staff (Sarah I think). I've had several conversations with her about the West Highland Way, she's hoping to walk it later in the year. Rather than beer, I've stuck to coffee and tea. It looks like the hotel is having some sort of review, people with clipboards checking everything and taking pictures. I certainly can't fault the place (Bridge of Orchy Hotel). My room was the bargain price of £40 for 2, tonight is £15 in the bunkhouse. Rather than turning this into a review of the hotel, I will just recommend if in the area to stop here. They are on Twitter too @Bridgeoforchy1 (Duncan). I'm not sure what time Phil will be here, probably not for several hours yet. He may find me asleep next to the fire. Can't wait to get moving in the morning... [![](http://www.stevenhorner.com/wp-content/uploads/2010/03/l_1600_1200_940B77D4-5CA7-4110-92DD-62D861765114.jpeg)](http://www.stevenhorner.com/wp-content/uploads/2010/03/l_1600_1200_940B77D4-5CA7-4110-92DD-62D861765114.jpeg) I got sick of sitting doing nothing and walked a mile or 2 up the glen for some fresh air.
+Today was a day off, I considered walking up Beinn Dorain. The cloud cloaking the top changed my mind, along with the lack of crampons & ice axe.  
+
+[![](http://dl.dropbox.com/u/2657852/website/images/l_1600_1200_402AE06E-38B6-4149-B8D5-50B8654A0AA1.jpeg)](http://dl.dropbox.com/u/2657852/website/images/l_1600_1200_402AE06E-38B6-4149-B8D5-50B8654A0AA1.jpeg)  
+I'm holed up in the bar, where since breakfast there has been me and a member of staff (Sarah I think). I've had several conversations with her about the West Highland Way, she's hoping to walk it later in the year. Rather than beer, I've stuck to coffee and tea.  
+
+It looks like the hotel is having some sort of review, people with clipboards checking everything and taking pictures. I certainly can't fault the place (Bridge of Orchy Hotel). My room was the bargain price of £40 for 2, tonight is £15 in the bunkhouse.  
+
+Rather than turning this into a review of the hotel, I will just recommend if in the area to stop here. They are on Twitter too @Bridgeoforchy1 (Duncan).  
+
+I'm not sure what time Phil will be here, probably not for several hours yet. He may find me asleep next to the fire. Can't wait to get moving in the morning...  
+
+[![](http://dl.dropbox.com/u/2657852/website/images/l_1600_1200_940B77D4-5CA7-4110-92DD-62D861765114.jpeg)](http://dl.dropbox.com/u/2657852/website/images/l_1600_1200_940B77D4-5CA7-4110-92DD-62D861765114.jpeg)  
+
+I got sick of sitting doing nothing and walked a mile or 2 up the glen for some fresh air.

@@ -4,6 +4,7 @@ layout: post
 slug: kittys-wood-public-rights-of-way
 status: publish
 title: Kitty's Wood & Public Rights Of Way
+alias: /?p=1647
 wordpress_id: '1647'
 categories:
 - Outdoors

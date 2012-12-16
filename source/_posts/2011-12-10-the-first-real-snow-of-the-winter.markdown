@@ -4,6 +4,7 @@ layout: post
 slug: the-first-real-snow-of-the-winter
 status: publish
 title: The First Real Snow of the Winter
+alias: /?p=1583
 wordpress_id: '1583'
 categories:
 - Outdoors

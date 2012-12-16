@@ -4,6 +4,7 @@ layout: post
 slug: ben-nevis-in-winter
 status: publish
 title: Ben Nevis in Winter
+alias: /?p=1358
 wordpress_id: '1358'
 categories:
 - Trip Report

@@ -4,6 +4,7 @@ layout: post
 slug: the-highland-zigzag
 status: publish
 title: The Highland ZigZag
+alias: /?p=1393
 wordpress_id: '1393'
 categories:
 - Walking

@@ -4,6 +4,7 @@ layout: post
 slug: focus-fun-and-learning
 status: publish
 title: Focus, Fun and Learning
+alias: /?p=1610
 wordpress_id: '1610'
 categories:
 - Outdoors

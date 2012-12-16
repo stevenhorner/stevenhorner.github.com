@@ -4,6 +4,7 @@ layout: post
 slug: a-first-year-walking-traci
 status: publish
 title: A First Year Walking - Traci
+alias: /?p=1623
 wordpress_id: '1623'
 categories:
 - Guest

@@ -4,6 +4,7 @@ layout: post
 slug: the-mamores
 status: publish
 title: The Mamores
+alias: /?p=1476
 wordpress_id: '1476'
 categories:
 - Outdoors

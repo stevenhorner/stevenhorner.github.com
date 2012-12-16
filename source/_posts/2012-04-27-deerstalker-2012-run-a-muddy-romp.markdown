@@ -4,6 +4,7 @@ layout: post
 slug: deerstalker-2012-run-a-muddy-romp
 status: publish
 title: Deerstalker 2012 Run - A Muddy Romp
+alias: /?p=1638
 wordpress_id: '1638'
 categories:
 - Outdoors

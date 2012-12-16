@@ -4,6 +4,7 @@ layout: post
 slug: walking-gear
 status: publish
 title: Walking Gear
+alias: /?p=310
 wordpress_id: '310'
 categories:
 - Walking
@@ -27,6 +28,7 @@ categories:
 I think that was it, very nearly bought a new pair of [Montane Terra Pants][terra], my existing pair need re-proofing will try that first. I have worn them on almost every walk I've done for 3 years, so becoming tatty. Now that I've bought some more camping gear, I definitely have to get out on some multi-day walks. I have 2 weeks holiday after this week, now where am I going to go?
 [terra]: http://www.backpackinglight.co.uk/product14.asp
 
+
 #### Update July 2012
 
 This post is now almost 3 years old but while migrating to the new site I thought I would update my thoughts on a couple of the items.
@@ -38,7 +40,7 @@ This post is now almost 3 years old but while migrating to the new site I though
 
 * [Backpacking Pillow][pillow] - I used this twice and found it a waste of time. I just use a stuff sack I am already carrying as a pillow.
 
-* [Repair Kit][repair] - It sits in the bag with my NeoAir but I have never used it and in reality not sure I would really fix it in the middle of nowhere. Plunging the NeoAir into a loch to find where the leak is isn't something I'd really do. On a long trip you may want to fix it, especially if in a very remote area.
+* Repair Kit - It sits in the bag with my NeoAir but I have never used it and in reality not sure I would really fix it in the middle of nowhere. Plunging the NeoAir into a loch to find where the leak is isn't something I'd really do. On a long trip you may want to fix it, especially if in a very remote area.
 
 * [Ortleib A4 Case][a4] - I use this on most trips with a printed map of my intended route. I then just roll it up and put it in the side of my pack.
 

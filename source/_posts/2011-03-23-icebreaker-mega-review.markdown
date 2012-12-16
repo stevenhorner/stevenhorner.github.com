@@ -4,6 +4,7 @@ layout: post
 slug: icebreaker-mega-review
 status: publish
 title: Icebreaker Mega Review
+alias: /?p=1373
 wordpress_id: '1373'
 categories:
 - Gear

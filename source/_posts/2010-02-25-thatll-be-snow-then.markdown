@@ -4,7 +4,23 @@ layout: post
 slug: thatll-be-snow-then
 status: publish
 title: That'll be snow then!
+alias: /?p=525
 wordpress_id: '525'
 ---
 
-Just in time for my walk up the West Highland Way, Mother nature has decided she would like to make it a bit harder for me. The West Highland area of Scotland has seen whiteouts and blizzards for the last 36 hours. Contrary to popular belief I'm not entirely stupid (generally anyway) and will scale back some of my plans if need be. My plans include walking up Ben Lomond and further North, Beinn an Dothaidh. The current conditions will make walking hard enough at valley level and I would be stupid to even attempt to head in either Munros direction. [![](http://www.stevenhorner.com/wp-content/uploads/2010/02/Avalanche.jpg)](http://www.stevenhorner.com/wp-content/uploads/2010/02/Avalanche.jpg) The chart above displays the Avalanche risk on the mountains in the Glencoe area from the [Scotland Avalanche Information Service](http://www.sais.gov.uk/), their site explains the colours but basically Red isn't good. Checking the Met Office & MWIS for Sunday onwards, it shows the weather is improving and by Tuesday when I will be making my decision on going up Ben Lomond or not it says: _"Northeasterly 25 to 30mph, but risk of 40mph gusts 55mph, most likely within and near Loch Lomond NP. Will impede walking on higher areas - with risk of considerable buffeting, particularly toward the south, with severe wind chill."_ This is too far ahead to make any decision, long range weather forecasts aren't always reliable. At the moment I wouldn't be walking any Munros. I want to complete the West Highland Way on foot, not by mountain rescue. [caption id="attachment_527" align="aligncenter" width="529" caption="Met Office Glencoe (Friday)"][![](http://www.stevenhorner.com/wp-content/uploads/2010/02/Met-Office.jpg)](http://www.stevenhorner.com/wp-content/uploads/2010/02/Met-Office.jpg)[/caption] Over the last day I've been glued to the [Kingshouse Hotels](http://www.kingy.com/) live webcam watching the snow go from about an inch to what the picture below now shows: [![](http://www.stevenhorner.com/wp-content/uploads/2010/02/Kingshouse.jpg)](http://www.stevenhorner.com/wp-content/uploads/2010/02/Kingshouse.jpg)
+Just in time for my walk up the West Highland Way, Mother nature has decided she would like to make it a bit harder for me. The West Highland area of Scotland has seen whiteouts and blizzards for the last 36 hours. Contrary to popular belief I'm not entirely stupid (generally anyway) and will scale back some of my plans if need be.  
+
+My plans include walking up Ben Lomond and further North, Beinn an Dothaidh. The current conditions will make walking hard enough at valley level and I would be stupid to even attempt to head in either Munros direction.  
+
+[![](http://dl.dropbox.com/u/2657852/website/images/Avalanche.jpg)](http://dl.dropbox.com/u/2657852/website/images/Avalanche.jpg)  
+The chart above displays the Avalanche risk on the mountains in the Glencoe area from the [Scotland Avalanche Information Service](http://www.sais.gov.uk/), their site explains the colours but basically Red isn't good.  
+
+Checking the Met Office & MWIS for Sunday onwards, it shows the weather is improving and by Tuesday when I will be making my decision on going up Ben Lomond or not it says:  
+_"Northeasterly 25 to 30mph, but risk of 40mph gusts 55mph, most likely within and near Loch Lomond NP. Will impede walking on higher areas - with risk of considerable buffeting, particularly toward the south, with severe wind chill."_  
+
+This is too far ahead to make any decision, long range weather forecasts aren't always reliable. At the moment I wouldn't be walking any Munros. I want to complete the West Highland Way on foot, not by mountain rescue.  
+
+[![](http://dl.dropbox.com/u/2657852/website/images/Met-Office.jpg)](http://dl.dropbox.com/u/2657852/website/images/Met-Office.jpg)  
+
+Over the last day I have been glued to the [Kingshouse Hotels](http://www.kingy.com/) live webcam watching the snow go from about an inch to what the picture below now shows:  
+[![](http://dl.dropbox.com/u/2657852/website/images/Kingshouse.jpg)](http://dl.dropbox.com/u/2657852/website/images/Kingshouse.jpg)
