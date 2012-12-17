@@ -13,7 +13,7 @@ categories:
 
 [![](http://dl.dropbox.com/u/2657852/website/images/Gear1.jpg)](http://dl.dropbox.com/u/2657852/website/images/Gear1.jpg)  
 The older you get the more rubbish Christmas becomes, until you have your own kids and you can see the delight on their faces (so I'm told). Anyway, I decided to recreate the fun of Christmas as  a kid, by buying myself some outdoor gear for my West Highland Way walk. Today when I arrived home, I had 3 packages on my welcome mat and a neighbour knocked on my door a few minutes later with more. The picture above shows some of the things that arrived.  
-
+<!-- more -->
   * [Caldera Keg-F](http://www.antigravitygear.com/proddetail.php?prod=TDCKEG)  
   * [Inov-8 Terroc 330s](http://www.wiggle.co.uk/p/run/8/Inov-8_Terroc_330_Shoes/5360042301/) <--I used a Valentines Day code to save £10  
   * [Icebreaker Merino Mid Hiker Socks](http://www.sportsdirect.com/icebreaker-hiker-mid-sock-419083?src=google)  

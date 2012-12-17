@@ -13,7 +13,7 @@ categories:
 
 [![](http://lh6.ggpht.com/_mwiBNuCX3e4/S_wK06xOp5I/AAAAAAAAQXQ/T5zTiR8KG1M/s400/TGO%20Challenge%202010%20190.JPG)](http://picasaweb.google.co.uk/lh/photo/zHXko6wEq2dcwcDQmJcO2g?feat=embedwebsite)  
 I was up at 4, after some coco pops and dried milk and covering my fet with duct tape I set off at 5am. I noticed that another challenger had turned up during the night. I walked down the road to where it looked like there was a bridge shown on the map, once by the river side there was no bridge just two cables going across and some sort of scientific testing gear. I thought about shimmying across but thought better of it. A ford was shown just down but decided against soaking feet this early into the walk wth 24 miles ahead of me.  
-
+<!-- more -->
 Back to the road it was and heading for Ferney Bridge where a clear bridge was shown. I could see the bridge but what I thought would be the path took me to someone back door. The only other route was through the grounds of the same lodge by their cricket pitch, which had gates and Private signs. So decided to just keep following the road to Edzell rather than wasting time looking for bridges to avoid the road.  
 
 I made good progress and once into my stride the first couple of hours were quite pleasant with hardly any cars on the back road. The traffic picked up slightly as I got closer to Edzell. The hills were becoming noticably smaller, a good sign. Eventually I hobbled into Edzell and the first call was to the pharmacy for some pain killers. The 2 Ibuprofen I'd taken had worn off as had most of the skin from my heel.  

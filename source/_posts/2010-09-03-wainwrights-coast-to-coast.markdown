@@ -21,7 +21,7 @@ tags:
 
 [![](http://dl.dropbox.com/u/2657852/website/images/C2C-Map1-1024x425.jpg)](http://dl.dropbox.com/u/2657852/website/images/C2C-Map1.jpg)[ ](http://dl.dropbox.com/u/2657852/website/images/C2C-Map1.jpg)  
 Tomorrow I will be catching a train (3 actually) from Durham to St Bees with my dad. We are walking Wainwright's Coast to Coast which crosses 3 National Parks (Lake District, Yorkshire Dales & North York Moors). This was planned many months ago before the Julia Bradbury TV programmes and the repeats, which may make it slightly busier than I'd hoped.  
-
+<!-- more -->
 Below is the rough schedule that my dad made, I will be altering these as we go and will try to wildcamp wherever possible. I'm getting tight in my old age and don't want to pay every night for a field, when we could be up a hill for free. He tells me he wants a shower, at least every couple of days, I say [HTFU](http://www.youtube.com/watch?v=6kp5ClrSvNI&feature=youtu.be) (Warning swearing).  
 
 1 - Sat 4th Sept - St Bees to Ennerdale Bridge - 15 mls  

@@ -15,7 +15,7 @@ categories:
 
 **Distance:** 17.8 miles  
 A few weeks ago while working long hours, I sent a tweet (a message on Twitter) asking if anyone fancied a weekend walking in the Lake District. [Phil Turner](http://phil-turner.net/) quickly responded that he would go. He must not of been deterred by the previous trip, which was good fun in the snow.  
-
+<!-- more -->
 Fast Forward a couple of weeks and I was sat in McDonalds in Penrith waiting for Phils train to arrive from Glasgow, while trying my best not to murder several unruly teenagers. We didn't hang around and headed straight for the Youth Hostel at Coniston ([Holy How](http://www.yha.org.uk/find-accommodation/the-lake-district/hostels/Coniston-Holly-How/index.aspx)) which Phil had booked using his SYHA membership. I've never understood why anyone would join the English & Welsh YH when the Scottish is lots cheaper and is valid in the same places.  
 
 The Youth Hostel was deserted, only 8 people including us were staying on the Friday. After checking in we quickly headed to the Black Bull in Coniston for food & drink. I was shocked by Phils choice of Cumberland Sausage platter, destroying my belief that he survived solely on pies. We didn't linger in the pub due to the fact that the walk back to the hostel was unlit and didn't fancy rolling back late.  

@@ -14,7 +14,7 @@ categories:
 ![Andy admiring the view](http://dl.dropbox.com/u/2657852/website/images/Shearings-Fort-William-Trip-061.jpg) 
  
 Following on from the [previous post](http://www.stevenhorner.com/?p=1338) about getting to the hills cheaply, my intention on the trip was to spend 2 nights wildcamping in the Mamores. Sadly the weather had other plans. I closely monitored the [SAIS avalanche forecast](http://www.sais.gov.uk/) and decided I would go and take look. You get days when you know you are not meant to do something, this was to be one of those. 
-
+<!-- more -->
 ![Iced paths](http://dl.dropbox.com/u/2657852/website/images/Shearings-Fort-William-Trip-015.jpg) 
  
 There had been snow overnight when I set off and everywhere was sheet ice, luckily the [OROC 340](http://www.inov-8.com/Products-Detail.asp?PG=PG1&L=26&P=5050973079) spikes gripped perfectly. The 2 miles up to Fort William quickly passed mainly because I was admiring the stunning snowy scenery of the surrounding mountains. As I walked over the hill and down into Glen Nevis a friendly looking dog headed towards me and decided to bite my leg, nice. Luckily it never broke the skin and I carried on only to find the forestry paths closed for logging. I decided that due to the Avalanche warnings, logging and being bitten I would change the plan to Ben Nevis. 

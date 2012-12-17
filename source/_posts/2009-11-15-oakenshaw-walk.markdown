@@ -17,7 +17,7 @@ categories:
 I originally intended to be walking in the Lake District today, but I'm on a mission to save some money. So the £25 petrol for a lakes trip is saved instead.  
 
 I've seen a few pictures of the Hundred Acre Plantation at Oakenshaw on [Darren Christies blog](http://www.whitespider1066.com/) and decided I would re-visit the ponds there.  
-
+<!-- more -->
 The map abovet shows my tracks from the walk along with the elevation and for a change my heart rate. For anyone who doesn't know me or hasn't seen my [old blog](http://stevenhorner.blogspot.com/), I had some heart problems a couple of years ago when I was the fittest I've been.  If you want to know more about it read [this](http://stevenhorner.blogspot.com/2007/07/heart-explanation.html) or [this](http://www.stevenhorner.com/?p=72) old post. Anyway back to todays walk.  
 
 The good thing about walking locally is there's no need to be up at the crack of dawn to drive somewhere. Today's walk didn't start until nearly 11 after a nice lie in. As well as Oakenshaw I also wanted to explore another area that was also Opencast in the 80's (Birk's Wood area). The map above still shows some Opencast workings, but I can't remember there being any for 10 years or more. 

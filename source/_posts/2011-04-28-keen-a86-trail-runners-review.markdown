@@ -18,7 +18,7 @@ categories:
 **Product Link:** [Webtogs](http://www.webtogs.co.uk/Keen_Mens_A86_TR_Trail_Runners_102848-22942.html) 
 
 I was asked by [Webtogs](http://www.webtogs.co.uk/) if I would like to review some Keen shoes and to be honest I was going to say No. I own a pair of Keen boots and some slippers which are comfy, but they have thick soles and are what I'm generally trying to get away from to improve my gait (see [previous post](http://www.stevenhorner.com/?p=1406)). As I was thinking about how to say No politely, I remembered seeing some pictures of some very lightweight Trail runners announced a couple of months ago. Damn pleased I checked the website first. 
-
+<!-- more -->
 The A86s are a big change for Keen, the brand is normally easily identifiable due to the big toe bumpers and large cushioned soles. The A86 are also easily identifiable as Keen footwear but in this case due to the huge brand name on the side. 
 
 These are very light (238g per shoe in UK 8.5). I was walking out the door wearing a pair of Montrail Continental Divides for the last time before sending them to their shoe grave when the postman arrived with the A86s. I quickly ditched the Montrails and the weight difference and feel was unbelievable. I'm sure I've got some thick socks that feel heavier. These are the most comfortable shoes I've ever slipped onto my feet. They make you want to run, which I did several times carrying a full pack (a lightweight one obviously). 

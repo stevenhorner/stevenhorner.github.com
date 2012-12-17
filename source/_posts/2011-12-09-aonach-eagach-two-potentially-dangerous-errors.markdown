@@ -14,7 +14,7 @@ categories:
 
 ![](http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-045.jpg) 
 A couple of cheap hotel deals saw me driving towards Glencoe after breaking the journey North overnight at the Travelodge in Dumbarton. The forecast was far from encouraging, gusts in excess of 60mph and rain. Each time I drive through Glen Coe I dream of walking the Aonach Eagach and every time something happens to stop me. The previous trip I had managed to thwart the Cairngorm demons that did the same in the East of Scotland. 
-
+<!-- more -->
 We were over an hour later than intended after snoozing the alarm one too many times. Recently I've stopped making any rigid plans and basically making it up when I get to a location. As I drove over Rannoch Moor and Buachaille Etive Mor came into view, it was to be option 1. The wind was lower than I expected and an option 2 jumped into my head, screaming to be done, this was the Aonach Eagach. The decision was made to drive to the foot of the track up to Am Bodach and check the conditions. 
 
 ![](http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-006_1.jpg) 

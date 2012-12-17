@@ -14,7 +14,7 @@ categories:
 Before I write about the day I will say from the start, I'm laid here feeling sorry for myself and quite upset.  
 
 I suppose I better explain why first. I'm laid in the shelter with blisters on top of blisters. I've walked 23 miles (5 more than planned) in weather that you would be lucky to get in July/August, it was 24c in the shade, but felt hotter in direct sun. I started walking at 6:45, but was in no rush due to hoping to call at the shop in Laggan (unsure of opening time). I stopped on the way to Laggan to dry the shelter off a bit. Eventually getting there just after 9, I think it was about 6 or 7 miles. Nearly all of which is on the road.  
-
+<!-- more -->
 When planning this route, this was what I was always worried about (18 miles majority on roads). I planned a section avoiding some of the road via a tiny place called Phones, then across the moor down into Kingussie.  
 
 Anyway I continued on my way from Laggan after stocking up on Sausage Rolls for lunch. I used the back roads rather than the very busy road via Newtonmore. The temperature was hot at 9, and it rose as the day went on. I didn't have any suncream, so covered up using my hat and buff.  

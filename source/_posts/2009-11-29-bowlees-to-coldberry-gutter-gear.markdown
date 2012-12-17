@@ -17,7 +17,7 @@ categories:
 **Distance:** 7 miles  
 
 A boggy walk with everything the British weather can throw at you, except for sun.  
-
+<!-- more -->
 This walk I left up to my dad to sort out, it was taken from Country Walking and lets say I will not let my dad do the navigating in the future.  
 
 The weather really was atrocious, with high winds, rain, hail, sleet and snow. Any sensible person would of stopped inside, sensible isn't something I'm accused of very often.  

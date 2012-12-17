@@ -15,7 +15,7 @@ Below are a few of the pictures from the TGO Challenge, you can find the rest [h
 
 [![](http://lh4.ggpht.com/_mwiBNuCX3e4/S_u1opq-2yI/AAAAAAAAPmo/DcjRhOrpXYY/s400/TGO%20Challenge%202010%20012.JPG)](http://picasaweb.google.co.uk/lh/photo/WT3hOg7AJ5zkG3oFPWfTpg?feat=embedwebsite)  
 Heading for the sky (Bealach an Sgairn)  
-
+<!-- more -->
 [![](http://lh4.ggpht.com/_mwiBNuCX3e4/S_vAb2kNRvI/AAAAAAAAPsw/PxciZjpKRQs/s400/TGO%20Challenge%202010%20034.JPG)](http://picasaweb.google.co.uk/lh/photo/eClgWJ1hX-EdvOhO8U3sZQ?feat=embedwebsite)  
 1st Night wildcamp at Loch Affric  
 

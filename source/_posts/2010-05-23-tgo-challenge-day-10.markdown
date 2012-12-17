@@ -14,7 +14,7 @@ categories:
 It was another long day in terms of distance, 17-18 miles from Ballater to Tarfside and walked over Mount Keen (a Munro). The day started with Bacon Sandwiches which Phil cooked in the hostel, we left at about 8:15.  
 
 Shortly after starting to climb out of Ballater, the rain started. The weather wasn't sure what to do, this is the worst kind when walking. Constantly putting jackets on and off.  
-
+<!-- more -->
 The walk was over moorland today and parts of it where signposted, but later heather bashing before joining the big track over Mount Keen. I struggled a bit up Mount Keen with my feet and Phil wasn't stopping, so was slightly worried about my heart. Eventually Phil stopped and I caught up, he said he wasn't going to the top but around the side.  
 
 There was no way I was going to miss the summit, we agreed to meet at the Queens well a few miles further on. It took me a while to get to top, it's one of those where you keep thinking you are there but there's more climbing. Eventually I made it and took some pictures and video but they're all on the camera.  

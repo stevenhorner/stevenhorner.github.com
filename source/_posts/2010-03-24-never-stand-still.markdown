@@ -10,7 +10,7 @@ wordpress_id: '647'
 
 [![](http://dl.dropbox.com/u/2657852/website/images/Newton-Stewart-Sunrise1.jpg)](http://dl.dropbox.com/u/2657852/website/images/Newton-Stewart-Sunrise1.jpg)  
 The last few weeks I don't seem to of had any time to sit and relax, read and enjoy life other than when out walking. Once I've got back home I've either been working or planning the next trip. I need to write a post about how the gear performed on the WHW and the other walks I've done recently, but that may take a while to write.  
-
+<!-- more -->
 [![](http://dl.dropbox.com/u/2657852/website/images/Phil-sad.jpg)](http://dl.dropbox.com/u/2657852/website/images/Phil-sad.jpg)  
 Last weekend I went to Newton Stewart and the Galloway hills to meet up with [Phil](http://phil-turner.net/) while he did some walks for [Walk Highlands](http://www.walkhighlands.co.uk/). To find out more about that you should read [Phils blog](http://phil-turner.net/). The area is a relatively ignored gem with most walkers heading north to the bigger hills, the place appeared deserted other than a large mountain biking event. We tried our Tenkara fishing rods on the Sunday, unfortunately you cant fish rivers in Scotland on Sunday. So we made do with a loch, which is not what the Tenkara is designed for. The picture at the top is from our (un)wild camp, not far from Castle Douglas. The second is returning to the cars with no fish.  
 

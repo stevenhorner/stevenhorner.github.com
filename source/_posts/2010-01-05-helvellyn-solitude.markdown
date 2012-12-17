@@ -14,7 +14,7 @@ categories:
 [![](http://dl.dropbox.com/u/2657852/website/images/Hole-in-the-wall-map-300x168.png)](http://dl.dropbox.com/u/2657852/website/images/Hole-in-the-wall-map.png)  
 
 It has taken me a while to write this up. On the 27th of December after staying sober on boxing day, I set off for Glenridding with the aim of a wildcamp and a good practise with the ice axe & crampons.  
-
+<!-- more -->
 The plan was to walk to the Hole in the Wall via Lanty's Tarn and on up to Helvellyn via Swirral Edge. A walk along the ridge and down to Grisedale Tarn, where I would camp before heading up to St Sunday Crag the following day and returning to Glenridding via Birks.  
 
 The weather conditions had other ideas, I set off after 10 which is quite late for me from the main car park which was a sheet of ice. I reached Lanty's tarn quickly after a few diversions due to paths being diverted. I decided at this point to follow the wall up and around to The Hole in the Wall, there were a few foot prints to follow.  

@@ -17,7 +17,7 @@ I'm not setting resolutions for 2012, the plan for the year can be summed up wit
 > Focus, Fun and Learning
 
 Rather than blathering on, I am going to try to keep my posts short (lightweight) as much as possible this year. Sometime in the next couple of months you will see some changes on this site, but for now that's all I'm saying. 
-
+<!-- more -->
 **Planned trips/activities ** 
 
 *   Scotland Winter Walking (February) 

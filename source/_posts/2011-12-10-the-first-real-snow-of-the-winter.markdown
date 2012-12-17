@@ -15,7 +15,7 @@ categories:
 ![](http://dl.dropbox.com/u/2657852/website/images/Killhope-December-2011-040.jpg) 
 
 I had been planning a weekend wildcamping in the lake district but a dodgy shoulder led to a change of plans. Earlier in the week there was an inch of snow at home, sadly it has all melted now. My inbuilt Snowdar came into action today and after throwing a few things into my pack I was heading along the A689 West up Weardale. 
-
+<!-- more -->
 Earlier in the week the entire top of the dale looked brilliant white, not so anymore but it was still white. The further up the dale I drove the more wintery things were looking. Once the fork towards Nenthead and Alston was taken it was another world and I had a big smile on my face. ![](http://dl.dropbox.com/u/2657852/website/images/Killhope-December-2011-001.jpg) ![](http://dl.dropbox.com/u/2657852/website/images/Killhope-December-2011-003.jpg) 
 
 I pulled into the car park at Killhope Wheel and was soon heading up through the tree stumps which is all that remains of the wood that was here until it was felled a few months ago. There was no sign of anyone else daft enough to be heading into the white cloud above. Once the the open access land was reached I headed directly towards the summit of Killhope law, using more tree stumps and a beck to handrail. ![](http://dl.dropbox.com/u/2657852/website/images/Killhope-December-2011-007.jpg) 

@@ -13,7 +13,7 @@ categories:
 
 ![](http://dl.dropbox.com/u/2657852/website/images/Coledale-October-2010-142.jpg)  
 Last weekend I intended to just stay at home and possibly walk somewhere local due to a lack of funds. [Helen Fisher](http://helenswonderings.blogspot.com/) clearly finds my company so amazing that she insisted on driving me to the Lake Distict. I decided that I would take an entirely back seat and let her plan the entire weekend, we've only walked together 3 times before but I've planned the route on each occasion. In general for the last few years I have tended to plan the routes I walk with others, with the exception being [Phil Turner](http://lightweightoutdoors.com/) (he's always an exception).  
-
+<!-- more -->
 Rather than writing a report on the weekend, you should head over to [Helen Fishers blog](http://helenswonderings.blogspot.com/) and read her [thoughts on the weekend](http://helenswonderings.blogspot.com/2010/10/coledale-zen.html). Oh count how many times she mentions me too!  
 
 ![](http://dl.dropbox.com/u/2657852/website/images/Coledale-October-2010-052.jpg)  

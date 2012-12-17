@@ -14,7 +14,7 @@ categories:
 I set off early just after 7, deciding against calling into the shops for some food. When walking out of Fort Augustus I think I continued along the road further than others went and cut up a dry stream, marked as a path on the map. Two people had set off ahead of me and think I ended up in front.  
 
 Further up the track there's a pink painted lodge (forgotten the name) at this point I had marked my route near it but there didn't appear to be any path over. The double gates looked not to be in use and for fear of being chased with a shotgun by an angry laird I decided to follow the main General Wades road route. This way had a little more ascent but nevermind it was probably faster due to the decent surface.  
-
+<!-- more -->
 I'm not sure if it was the 2 Steak burgers, bacon roll and 4 pints yesterday but today I was a man on a mission. There was a lot of gradual ascent to eventually reach the top of the corriyarick pass, where there was still patches of snow. My average pace must of been over 3 miles an hour even though it was all up hill.  
 
 Lots of people had been warning about the descent down the other side but I made it to the bottom of the zig zag track in about 15 minutes.  

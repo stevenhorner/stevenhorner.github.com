@@ -14,7 +14,7 @@ categories:
 ![Icebreaker Products](http://dl.dropbox.com/u/2657852/website/images/Icebreaker-004.jpg) 
 
 I was sorting through my walking gear and realised that certain manufacturers dominate my gear and the main reason for this is the quality of the their products. One of the dominant names is Icebreaker. Whenever I'm after base layers they are my goto brand, I've tried others but always return. Rather than writing a post on each item, I thought I'd write about them all in this one post. All the items I have bought, except for the Leggings (Long Johns) which were provided to me by Webtogs. All Icebreaker products below are 100% Merino wool from New Zealand. Many of the products come with a label that allows you to track the sheep the wool came from, I've never looked and just see it as a gimmick. The clothing is rated according to the weight of the merino wool used. **
-
+<!-- more -->
 ![Mondo Zip](http://dl.dropbox.com/u/2657852/website/images/Icebreaker-011.jpg)** 
 
 **Mondo Zip (Bodyfit 200)** 

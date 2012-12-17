@@ -11,7 +11,7 @@ categories:
 ---
 
 {% img left http://www.stevenhorner.com/wp-content/uploads/2009/10/Neo-Air-150x150.jpg%}I decided to finally buy a few walking gear bits and bobs I've been wanting. The main thing I fancied was a [Therm-a-Rest Neo Air](http://www.backpackinglight.co.uk/product424.asp), I struggle sleeping on my back and my current [Alpkit Slim Airic ](http://www.alpkit.com/shop/cart.php?target=product&product_id=16260&category_id=253)is a bit thin when sleeping on my side. It's also nearly 3 times heavier and considerably bigger rolled up than the small Neo Air. I have previously bought items from [Backpackinglight.co.uk](http://bit.ly/1Nawlm) (3 years ago) and had received excellent service. So, when I became undecided over which size to purchase I sent an email and within 10 minutes Rose had answered all my questions, thanks Rose. While browsing [bpl](http://bit.ly/1Nawlm) I decided to order a few other things, rather than writing about each I will just list them below. 
-
+<!-- more -->
   * [NeoAir (Short)][NeoAir]
 [NeoAir]: http://www.backpackinglight.co.uk/product424.asp
   * [Silk sleeping bag liner][liner]

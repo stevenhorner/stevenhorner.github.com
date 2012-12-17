@@ -19,7 +19,7 @@ tags:
 
 [![](http://www.stevenhorner.com/wp-content/uploads/2010/09/C2C-068.jpg)](http://www.stevenhorner.com/wp-content/uploads/2010/09/C2C-068.jpg)  
 Many may already know from tweets that our C2C trip ended in Grasmere on day 3. In those 3 days there are so many memories that will no doubt linger far longer than much harder, more successful trips.  
-
+<!-- more -->
 Wainwrights C2C was a trip that I could do with my dad, who has just got into backpacking this year after years of day walks. We did a test trip over [Cross Fell](http://www.stevenhorner.com/?p=895) a few weeks ago without any incident which is surprising with us two.  
 
 Apologies for the post being so long, but wanted to keep it as one post.  

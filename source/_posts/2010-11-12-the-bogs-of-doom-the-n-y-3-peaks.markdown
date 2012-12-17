@@ -13,7 +13,7 @@ categories:
 
 ![](http://dl.dropbox.com/u/2657852/website/images/NY-3-Peaks-October-2010-1832.jpg)  
 I decided I needed a route that would give me an idea of my fitness. The North Yorkshire 3 peaks would be that route, which I had walked twice before. Along the route I encountered the bogs of doom, I fell over after a heart incident and ran several sections. Completing the route in 8 hours 32 minutes. Full Trip report below.  
-
+<!-- more -->
 **Stats & GPX Files:**  
 <iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/54767138'></iframe>
 

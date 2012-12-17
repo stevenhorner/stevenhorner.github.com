@@ -13,7 +13,7 @@ categories:
 
 [![](http://dl.dropbox.com/u/2657852/website/images/Carriage.jpg)](http://dl.dropbox.com/u/2657852/website/images/Carriage.jpg)  
 I am off to walk the West Highland Way at the weekend, so decided I needed one last Wildcamp to test a few bits and bobs out. It's easy to forget what a beautiful area I live in when you've looked at it all your life. There are many hills I've looked up at and thought I want to be up there, yet for some reason I've never gone.  
-
+<!-- more -->
 I decided to correct that and walk up at least 1 hill that I've looked at every time I've driven past, which is a lot, especially when I used drive my car fast around the dale as a 'youngen'. The hill is Carrs Top.  
 
 When I start thinking about going out walking, there's a tendancy to overplan everything. I find myself staring at a map, plotting a route in Memory Map and agonising over every detail. I am trying to get out of this habit, the hills are there to be explored and explore them I shall, on foot not in the house.  

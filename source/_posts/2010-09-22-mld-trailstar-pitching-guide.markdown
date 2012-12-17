@@ -21,7 +21,7 @@ tags:
 
 ![](http://dl.dropbox.com/u/2657852/website/images/Munro-Week-August-2010-054-1.jpg)  
 Below are some simple pitching instructions for the Mountain Laurel Designs Trailstar, which follows on from my earlier [review](http://www.stevenhorner.com/?p=1003). Hopefully these are simple enough to follow.  
-
+<!-- more -->
 ![](http://dl.dropbox.com/u/2657852/website/images/Trailstar-002.jpg)  
 Figure 1  
 

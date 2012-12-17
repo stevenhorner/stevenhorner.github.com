@@ -20,7 +20,7 @@ tags:
 
 [![](http://dl.dropbox.com/u/2657852/website/images/St-Sunday-Crag-September-2010-053.jpg)](http://dl.dropbox.com/u/2657852/website/images/St-Sunday-Crag-September-2010-053.jpg)  
 St Sunday Crag has been on my list of hills to walk all year, yesterday was finally the day I would tick it off the list. The hill was the highest of my unwalked Wainwrights.  
-
+<!-- more -->
 A conversation somewhere on the internet with [Helen Fisher](http://helenswonderings.blogspot.com/), ended up with her joining me on the walk. The plan was to walk from Pattterdale, to Arnison Crag, Birks then finally up to St Sunday Crag. A quick and fairly easy stroll for me these days.  
 
 I arrived in Patterdale at 8:30 (early), Helen had already text to say she was running late due to traffic. I hunted out free parking, no way I was paying £3.50 opposite the hotel. Then I went for a short stroll before returning to the car to listen to some music. It wasn't long before Miss Fisher arrived.  

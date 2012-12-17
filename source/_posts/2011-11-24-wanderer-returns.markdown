@@ -23,7 +23,7 @@ tags:
 ![](http://dl.dropbox.com/u/2657852/website/images/Scotland-September-2011-049.jpg) 
 
 Sometimes it can be good to take a break from things and reflect on life and check that the path you are on, is the one you really want to follow. The break on this site has been part of that process. 
-
+<!-- more -->
 Several months ago I decided I would no longer review Outdoor gear, unless I had bought it with my own money. Shortly after this the whole bloggers reviewing gear conversation blew up on various sites. I commented on one site, but generally decided to keep out of the conversation and wait until things calmed down. My personal opinion is that you can do what you like, it's your site, but personally I would rather disclose if I was given something. The reason for stopping reviewing is nothing to do with the online discussion, it's purely personal. Reviewing gear isn't something that I enjoy and trying to think of something interesting to write feels far too much of a chore (the day job is enough work). That's not why I spend my time in the outdoors and in the online outdoor community. Having said that, I love to read about gear and find out what others think of it. 
 
 In the last week alone I have turned down 3 companies offering gear to review, several people thought I was nuts for saying No. 

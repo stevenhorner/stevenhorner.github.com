@@ -14,7 +14,7 @@ categories:
 I'm gonna keep this post short because I'm tired. It was another early start with a quick call at the supermarket in Braemar for an ice cream for Breakfast. Even early in the morning it was hot.  
 
 Today myself and Phil walked from Braemar to Ballater, while most challengers took the day off. Our route I'm guessing was about 18 miles which we did in about 6 hours.  
-
+<!-- more -->
 The going was mainly on roads and some hard packed forestry tracks, I hate roads. We walked through the grounds of Balmoral Castle and called at the Royal Distillery, which was a bit rubbish.  
 
 Eventually after much road walking and pain in my feet, we made it to Ballater at 3pm. First call was the pub for a lemonade and a pint. Then the Butchers for pies for tomorrow. We then went to the campsite and found it packed with families and nightmare people. Not the sort of place you want to pitch a shelter with no door. So we left and went to the tourist information who directed us to Habitat which is an excellent independent hostel. It's the first time I've not camped since the start.  

@@ -19,7 +19,7 @@ tags:
 ![Footwear](http://dl.dropbox.com/u/2657852/website/images/Footwear-and-Weardale-Skyline-beta-011.jpg) 
 
 I'm currently testing a couple of pairs of minimalist shoes and while I was laid in the garden I had the idea to pull out all the footwear I've walked in over the last few years. Sadly I threw out a couple of pairs of boots last year. 
-
+<!-- more -->
 The black boots at the top left I never actually used in the hills but are similar to the boots I used for several years. The missing boots were the ones you used to see outside the Famous Army Stores named after places in the lake district. 
 
 

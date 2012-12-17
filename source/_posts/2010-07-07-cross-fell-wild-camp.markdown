@@ -17,7 +17,7 @@ categories:
 <embed src="http://www.youtube.com/v/7d3DLikVTGg&amp;hl=en_GB&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed>  
 
 This trip was planned as a test to try two people in the Trailstar. My dad and I set off from Garrigill at lunch time on Saturday to walk the planned 19 miles. The aim was to camp somewhere before Great Dunn Fell, but no firm plans were made and would just see where we found.  
-
+<!-- more -->
 The weather was sunny on the Saturday but with a breeze. I had only had a quick look at the route and clearly neither of us had studied the map when a road extended all the way to the Tees, making the walking a lot easier than expected. Once the river Tees was reached the path was as expected, over grassy moorland. About a mile from Great Dunn Fell, we found a suitable camp spot and setup the Trailstar. My dad has only recently restarted wild camping (probably Scouts in the 60s) and was expecting the night to drag with the Trailstar pitched just after 4pm. The night flew by, my conversation is obviously so great (or put him to sleep).  
 
 There was no problem with the Trailstar and we had plenty of room for us and our gear, it was breezy on Saturday but on Sunday when I eventually woke up it was a lot windier (see video). I strangely enjoyed the wind and rain, it makes you know you really are alive. The low visibility wasn't quite so good, this was the third time we'd walked over Cross Fell together, the first time visibility was even worse (4 feet), the last time was in 32C+ sun.  

@@ -20,7 +20,7 @@ tags:
 
 [![](http://dl.dropbox.com/u/2657852/website/images/Munro-Week-August-2010-225.jpg)](http://dl.dropbox.com/u/2657852/website/images/Munro-Week-August-2010-225.jpg)  
 The Ring of Steall from the name alone has got to be fantastic and very likely hard. Discovering the walk a couple of years ago, it has remained on my To Do list ever since.  
-
+<!-- more -->
 My ["Attack of the Wainwrights"](http://www.stevenhorner.com/?p=935) walk was cancelled due to a dodgy roof, so it left me with several days of holiday and a vision of Scotland. I'd intended to do this walk immediately after the planned Wainwright walk, but half expected it not to happen after 7 days of walking. I now had no excuse.  
 
 [![](http://lh5.ggpht.com/_mwiBNuCX3e4/THGKULbfYSI/AAAAAAAAT80/6NyD1KNo4UU/s400/Munro%20Week%20August%202010%20183.JPG)](http://picasaweb.google.com/lh/photo/Jly_QDPloBv4BRauVNTjfQ?feat=embedwebsite)  

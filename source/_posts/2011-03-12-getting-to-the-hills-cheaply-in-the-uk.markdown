@@ -13,7 +13,7 @@ categories:
 ![View from Hotel front](http://dl.dropbox.com/u/2657852/website/images/Shearings-Fort-William-Trip-008.jpg)  
 
 The cost of getting to the hills is becoming increasingly expensive and with the price of fuel only set to rise it's going to get worse. With this in mind I have started looking at cheaper ways to travel to a variety of diserable locations in the UK and abroad. In the first of what may become a series of articles relating to cheap travel & accommodation I decided to look at bus holidays.  
-
+<!-- more -->
 The majority of people in the UK will know of [Shearings](http://www.shearings.com/home) and my image was of the elderly travelling to the South coast of England, with poor entertainment provided in the hotel and day trips to *cough* exciting locations. Clearly this isn't what caught my attention!  
 
 Besides for the locations on the South Coast they also travel to several in Scotland.  

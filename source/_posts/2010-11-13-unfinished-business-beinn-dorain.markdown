@@ -13,7 +13,7 @@ categories:
 
 ![](http://dl.dropbox.com/u/2657852/website/images/Beinn-Dorain-002.jpg)  
 Beinn Dorain; oh how you have escaped my presence on your summit, each time I've hoped to wander your slopes something has occured. I've almost lost count of the number of times I've intended to walk up Beinn Dorain and have sat in front of the fire in Bridge of Orchy hotel staring at it. This time I would of crawled up if my legs had fallen off, I was determined. Setting off late Friday afternoon with a 5 hour journey ahead I felt more like going to bed. Except my bed for tonight was to be the back seat of the car in the car park at Bridge of Orchy.  
-
+<!-- more -->
 **Stats & GPX Files**  
 <iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/55729871'></iframe>  
 

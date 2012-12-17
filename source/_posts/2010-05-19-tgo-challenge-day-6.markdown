@@ -14,7 +14,7 @@ categories:
 After feeling really down last night, I'd stuck on "The Playlist" that me, Phil & Hendrik had made and I was soon cheered up. Bridge over Troubled Water and then Solitude by Black Sabbath saw to that.  
 
 I set off walking at 6 and before I knew it I'd reached Feshie Bridge. After this all the paths looked much the same, Forest paths and roads through trees, luckily it was cooler than yesterday. I ditched the Sealskinz socks which made my feet feel a bit fresher but can feel every rock through my feet now.  
-
+<!-- more -->
 I've almost destroyed my custom insoles, so may change to originals which should give more cushioning but less support.  
 
 Eventually reaching the first of 2 lochs I started to slow and take in the scenery, stopping at each seat and relaxing a bit more.  

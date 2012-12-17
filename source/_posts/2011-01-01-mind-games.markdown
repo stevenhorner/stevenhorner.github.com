@@ -13,7 +13,7 @@ categories:
 
 ![](http://dl.dropbox.com/u/2657852/website/images/Munro-Week-August-2010-336.jpg)  
 At the moment many are reflecting on 2010 and setting resolutions for 2011. An idea has been brewing for weeks to do a video review of 2010 that would cover the people, places and experiences of the year, It's a lot of work and I've had other things on my mind recently. I don't intend to set any resolutions as such; but may post my goals/aims for the year next week.  
-
+<!-- more -->
 This post is sort of related to the above but more specifically reflecting on the last month, you may (or more likely not) have noticed that I've done very little walking in December.  
 
 The planned trip with [Hendrik](http://www.hikinginfinland.com/), [Petesy](http://www.petesy.co.uk/) and [Johnny](http://www.recipher.co.uk/) was canceled due to airport and road closures but that was at the end of November and I then more or less disappeared from this site. I have written in the past about problems with my heart and specific events like my [North Yorkshire 3 peaks](http://www.stevenhorner.com/?p=1227) episode or [C2C](http://www.stevenhorner.com/?p=972). I have normally dealt with this by getting back up and pushing on immediately much like getting back on a horse, usually pushing harder than when the event happened.  

@@ -12,7 +12,7 @@ categories:
 ---
 
 I have been thinking about how light I could actually go for a day trip or 1 night wildcamp. I bought a Terra Nova Laser 20L pack to try as a daypack before I went to Finland but never had chance to test it before doing the TGO Challenge. When I got back I read a post [Darren](http://www.whitespider1066.com/) had done about getting everything into a SeatoSummit 20L pack. So while I still had everything lying about I thought I'd test my laser pack. Sorry the pictures are rubbish they were taken on an iPhone, as main camera was in the picture.  
-
+<!-- more -->
 [![](http://www.stevenhorner.com/wp-content/uploads/2010/05/packed-225x300.jpg)](http://www.stevenhorner.com/wp-content/uploads/2010/05/packed.jpg)  
 [![](http://www.stevenhorner.com/wp-content/uploads/2010/05/unpacked.jpg)](http://www.stevenhorner.com/wp-content/uploads/2010/05/unpacked.jpg)  
 

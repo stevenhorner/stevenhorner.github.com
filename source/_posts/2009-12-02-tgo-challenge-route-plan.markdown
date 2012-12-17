@@ -13,7 +13,7 @@ categories:
 [![TGO Route Map](http://dl.dropbox.com/u/2657852/website/images/TGO-Route-Map-300x172.jpg)](http://dl.dropbox.com/u/2657852/website/images/TGO-Route-Map.JPG)  
 
 I finished drawing my TGO Challenge route a few days ago, when I say finished I haven't submitted it for checking yet and I haven't drawn the Foul Weather Alternatives (finding this hard to do). I posted the route a couple of days ago on Twitter, but hadn't broken it down into days. These can now be seen in the table below, had to hand code that HTML Table (Wordpress did I miss the WYSIWYG Table tool?)  
-
+<!-- more -->
 <table border="1">
 <tbody>
 <tr>
@@ -92,7 +92,7 @@ I finished drawing my TGO Challenge route a few days ago, when I say finished I 
 <td>8 miles</td>
 </tr>
 </tbody>
-</table>
+</table>  
   
 
 The GPX File I posted on Twitter can be found [here](http://bit.ly/81Dcpt), the rounded figures above total 172 miles (short for the challenge). All of this could change before I submit it and very likely after its checked.  

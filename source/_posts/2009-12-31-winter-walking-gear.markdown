@@ -13,7 +13,7 @@ categories:
 
 [![](http://dl.dropbox.com/u/2657852/website/images/Atmos-25l-225x300.jpg)](http://dl.dropbox.com/u/2657852/website/images/Atmos-25l.jpg)  
 I'm sorting gear out for a trip to the Cairngorms. The intention is to base myself in Rothiemurchus camp site and do day walks. I will be meeting up with [Phil Turner](http://phil-turner.net/) for 1 night, he will be running around in his new [snow shoes](http://phil-turner.net/?p=516).  
-
+<!-- more -->
 I'm taking the gear for a multiday trip, plans are vague so unsure what I'm doing yet. I packed everything into a 50l Osprey Atmos which suddenly seamed very empty, wondered if it would fit into the 25l I'm also taking for day walks. To my amazement everything fitted in, its a bit of a squeeze but its all in. This is when I started to wonder what I've forgotten and thought I better unpack it and write a list. Here goes...  
 
 **Pack**

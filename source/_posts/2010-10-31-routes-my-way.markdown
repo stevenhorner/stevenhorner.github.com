@@ -21,7 +21,7 @@ tags:
 
 ![](http://dl.dropbox.com/u/2657852/website/images/Evernote-Overview-600x485.png)  
 One of my (many) problems in the past was that I held onto masses of paper work, magazines and lots of other stuff. A couple of years ago I started using [Evernote](http://www.evernote.com) which to quote their Website "Makes it easy to remember things big and small from your notable life using your computer, phone, and the web". I messed around snapping pictures of things I wanted to recall later and eventually decided to buy a ScanSnap scanner that allows me to stack documents, press one button and it's all scanned to [Evernote](http://www.evernote.com), which then makes it searchable from any computer or phone.  
-
+<!-- more -->
 You may be wondering what this has to do with the outdoors, well I'm getting there. I often receive strange looks from people when I explain I scan every receipt I ever get, yes even if its for a few pence. Almost every bit of paper that comes into my life is scanned into Evernote. This leads me onto the Outdoors use (finally), I soon realised that I could get rid of those piles of magazines and routes I had cut from various places and store all of them in Evernote.   
 
 ![](http://dl.dropbox.com/u/2657852/website/images/Evernote-Search-1-600x480.jpg)  

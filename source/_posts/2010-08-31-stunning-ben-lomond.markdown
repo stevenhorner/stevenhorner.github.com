@@ -19,9 +19,9 @@ tags:
 - Wildcamp
 ---
 
-[![](http://www.stevenhorner.com/wp-content/uploads/2010/08/Munro-Week-August-2010-146.jpg)](http://www.stevenhorner.com/wp-content/uploads/2010/08/Munro-Week-August-2010-146.jpg)  
+[![](http://dl.dropbox.com/u/2657852/website/images/Munro-Week-August-2010-146.jpg)](http://dl.dropbox.com/u/2657852/website/images/Munro-Week-August-2010-146.jpg)  
 I was supposed to be going on an Attack of the Wainwrights walk when I last posted. My kitchen roof had other ideas, which required urgent repair work the day I was supposed to be setting off. I decided to set off a day and half later and follow my heart which always lies in Scotland...  
-
+<!-- more -->
 I travelled up to Scotland on the Sunday and arrived at Rowardennan at about 5 to find the place crawling with people. The car park was full, with tents and people everywhere, nightmare. My route was to take me to the summit of Ben Lomond via the Ptarmigan route and then find somewhere to camp for the night.  
 
 [![](http://lh4.ggpht.com/_mwiBNuCX3e4/THA0GRXGodI/AAAAAAAAS18/hXucOLYs31w/s400/Munro%20Week%20August%202010%20005.JPG)](http://picasaweb.google.com/lh/photo/-JGItTT03uqv_3FB9IRAFg?feat=embedwebsite)  

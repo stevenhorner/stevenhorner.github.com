@@ -14,7 +14,7 @@ categories:
 This morning Phil and I had planned to be away from the campsite by 7, so I was up and about by 5:45. More or less on time we set off, saying goodbye to Andy who would meet up with us again at the end of the day.  
 
 The first few miles towards the start of the Lairig Ghru is through Forestry very similar to yesterday, although height is gained quite speedily and as we popped out of the tree cover we could see Aviemore in the distance.  
-
+<!-- more -->
 The scenery then changes and the mountains become more prominent, snow covered today. We could see snow up ahead and before long we were walking through it. The previous 2 days had been 24c in the shade, now there was snow.  
 
 The snow became deeper and there were some impressive looking crevases we avoided. Above us there were also cornices. Near the pools of Dee the snow was several feet deep, luckily we generally managed to avoid sinking too much.  

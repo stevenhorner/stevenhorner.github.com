@@ -12,7 +12,7 @@ Just in time for my walk up the West Highland Way, Mother nature has decided she
 
 My plans include walking up Ben Lomond and further North, Beinn an Dothaidh. The current conditions will make walking hard enough at valley level and I would be stupid to even attempt to head in either Munros direction.  
 
-[![](http://dl.dropbox.com/u/2657852/website/images/Avalanche.jpg)](http://dl.dropbox.com/u/2657852/website/images/Avalanche.jpg)  
+[![](http://dl.dropbox.com/u/2657852/website/images/Avalanche.jpg)](http://dl.dropbox.com/u/2657852/website/images/Avalanche.jpg)  <!-- more -->
 The chart above displays the Avalanche risk on the mountains in the Glencoe area from the [Scotland Avalanche Information Service](http://www.sais.gov.uk/), their site explains the colours but basically Red isn't good.  
 
 Checking the Met Office & MWIS for Sunday onwards, it shows the weather is improving and by Tuesday when I will be making my decision on going up Ben Lomond or not it says:  

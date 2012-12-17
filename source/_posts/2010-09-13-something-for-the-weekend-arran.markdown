@@ -21,7 +21,7 @@ tags:
 
 [![](http://dl.dropbox.com/u/2657852/website/images/Arran-September-2010-017.jpg)](http://dl.dropbox.com/u/2657852/website/images/Arran-September-2010-017.jpg)  
 An invite from [Phil Turner](http://lightweightoutdoors.com/) earlier in the week found me in [Ardrossan Marina](http://www.clydemarina.com/) on a Friday night, awaiting his arrival on the train from Glasgow. The journey from the North East of England had been far easier than expected, mainly due to not having to travel as far North as Glasgow. I sat in the car reading Jack Londons "A call of the wild" in the Kindle app on my iPhone, before I knew it the train was pulling in and Mr T arrived.  
-
+<!-- more -->
 The plan was to spend the night sleeping on Phils boat in the marina before getting the ferry across to Arran in the morning. It worked out cheaper and certainly easier to catch the Ferry than sailing across. Probably a whole lot safer too, knowing how things "happen" when we are together. After a visit to the local ASDA for supplies of pies and beer we spent the night catching up before we fell asleep to the sounds of the drunken people leaving the local Italian restaurant.  
 
 We were up in plenty of time to catch the second ferry of the day at 9:40, we decided to pay another visit to ASDA in the hope of sausage sandwiches but they had no hot food. Phil did manage to buy some Peperami sausage rolls or was that the night before, ASDA trips meld into one.  

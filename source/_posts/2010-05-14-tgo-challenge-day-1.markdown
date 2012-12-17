@@ -14,7 +14,7 @@ categories:
 I decided to have a late start for my first day on the challenge, I only had to walk about 13 miles. So I set off from the Kintail Lodge Hotel at 9:30, after most people had already left. There was a woman in a bit of a flap over her partners pack not being comfortable and asked some guy for help.  
 
 I walked down to the shore and dipped my toe in the water and picked up a shell as a souveneir.  
-
+<!-- more -->
 I made good progress but didn't walk too fast, until I caught up with some other challengers. Quickly passing them and for some reason I picked up the pace. The weather was changeable from hot sunshine to downpour, I probably spent an hour of the day putting waterproofs on and off.  
 
 The views were fantastic, only spoiled by the rain. Unfortunately I had to watch my feet a lot due to the ground being very boggy.  

@@ -14,7 +14,7 @@ categories:
 Lots of outdoors bloggers have been featuring guest posts over the last year. I thought it would be a good idea to ask [Traci](http://www.twitter.com/traci_howarth) (my other half) to write about her first real year walking in the outdoors. It's all totally new to her...over to [Traci](http://www.twitter.com/traci_howarth). 
 
 ![](http://dl.dropbox.com/u/2657852/website/images/Scotland-June-2011-051.jpg) 
-
+<!-- more -->
 Up until April 2011 Saturdays and Sundays were spent in the local getting drunk and having hangovers for work on a Monday. ![](http://dl.dropbox.com/u/2657852/website/images/Striding-Edge-Swirral-Edge-April-2011-050.jpg) 
 
 After meeting Steven in the February things started to gradually change. After my first walk in March to the Elephant trees in Weardale with him, then trying to take two of my kids on the same walk a few weeks later and getting lost in torrential rain. Luckily Steven was following to get us on the right track. I then went with him and walked up the Langdales Pikes (how sad, not knowing there would be water on the path haha). Then Striding Edge which I couldn't understand why people were walking along the side instead of the ridge, which is all part of the fun. Coming down Catstye Cam we were skidding down a steep bank of scree, watched by a couple, bet they thought we were mad.

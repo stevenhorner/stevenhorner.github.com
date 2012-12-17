@@ -12,7 +12,7 @@ categories:
 ---
 
 I will break the roundup of the gear I carried on the challenge into multiple posts. My pack weight minus food and water was 7.51kg, this was at the end. This includes several things most would class as wearing like hat, gloves, buff and several other things. There are lots of items that I probably wouldn't take again and could get this under 7kg. Here's the first post with the major items.  
-
+<!-- more -->
 **Pack** - [Golite Jam](http://www.golite.com/Product/ProdDetail.aspx?p=151002110&mc=176&t=&lat=) 2009: I bought this a few months ago when Go Outdoors were selling off last years model for £35. I've now used this on the Challenge, West Highland Way, Finland and a couple of other shorter walks. Its fantastic, light comfortable and holds everything I need. I wish it had a see through mesh pocket at the front as it can be hard to find your stuff in the big front pocket. Otherwise I have no complaints with it and doesn't look too worn either. (732g, you could remove some straps to save weight)  
 
 [![](http://lh3.ggpht.com/_mwiBNuCX3e4/S_u_8uZle7I/AAAAAAAAPsc/Z3h-3NESeGc/s400/TGO%20Challenge%202010%20033.JPG)](http://picasaweb.google.co.uk/lh/photo/aX0HoQ9i4vglH7qbjL9XYA?feat=embedwebsite)  

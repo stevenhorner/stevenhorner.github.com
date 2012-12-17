@@ -27,7 +27,7 @@ categories:
    *   Compression Cords 
    *   Removable Chest Strap and whistle Full 
    *   Frontal Zip Change pocket  
-
+<!-- more -->
 I have been using the Laser 20L for over 6 months now as my day pack and have intended to write up this review for ages. I think it best to start by saying my previous day pack was an Osprey Atmos 25L, which was a good pack but heavy and over engineered. The Atmos weighs 1139g and unfortunately I was talked into buying the Long back by an Assistant in Fishers. Anyway the Laser 20L has almost everything the Atmos has but is built with lighter materials. It probably wouldn't survive a nuclear war like the Atmos but neither would I.  
 
 ![](http://dl.dropbox.com/u/2657852/website/images/TN-Laser-20L-021.jpg)  

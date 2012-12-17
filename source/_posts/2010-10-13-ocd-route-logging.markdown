@@ -13,7 +13,7 @@ categories:
 
 ![](http://dl.dropbox.com/u/2657852/website/images/MemoryMap2.jpg)  
 A [recent post](http://lightweightoutdoors.com/?p=1266) from [Phil Turner](http://lightweightoutdoors.com/) has brought forward a post I had been thinking about for ages. I started to write part of this as a comment and realised it was time to do the actual post.  
-
+<!-- more -->
 Sometimes I wonder if I have part-time OCD, I spend hours logging things. Don't get me started about [Evernote](http://www.evernote.com/) receipt logging or its uses for walking, thats another future post. Why do I only have part-time OCD, well I often eventually become bored with my anal procedures of recording things and will move to another solution.  
 
 When Phil started writing about logging his walks, this immediately peaked my interest. I was hoping he had a magical solution that would be like seeing the pearly gates (hang on isn't that when your dead and I'm an atheist). Anyway on this occassion my delight soon turned into despair as I discovered he was even more useless than me and was also looking for the holy grail (where are these bloody religious ideas coming from tonight).  

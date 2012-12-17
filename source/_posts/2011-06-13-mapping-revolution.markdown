@@ -20,7 +20,7 @@ tags:
 ![Mapping Evolution](http://dl.dropbox.com/u/2657852/website/images/Mapping-Evolution-2011-004.jpg) 
 
 There are many who comment on the use of GPS in the outdoors and have the opinion that it is bad or even dangerous or just not right. You should only be in the outdoors using a compass and an O.S. map or failing that, use the sun and the stars to navigate your way across the wilds of the UK. Everyone is entitled to their opinion and to some extent I agree in part with this (compass part). 
-
+<!-- more -->
 Now let me indulge in some of my past once again, going way back to when I was 10 and sat in Mrs Stewarts class in Peases West School. I had a reputatation for never shutting up, alledgedly to this day they have never known anyone talk quite so much. I was moved to a table at the back of the class with 3 girls, which somehow they thought would make me quieter. Next to where I sat was where the geography papers we had just started to work on were stored. I can remember during a lesson where we were supposed to be drawing I decided to take out my geography work and have a look. I was fascinated by the maps and can remember reading about grid references and the symbols used on maps. The only time I can remember shutting up for more than 2 minutes was during the geography lessons. During secondary school my favourite subject continued to be geography, maybe this was helped by the teacher Mr Maddison, who was enthusiastic and fair. My love affair with maps never went away, but I never had much cause to use them other than a road atlas. Obviously this changed when walking on my own and I was no longer following a map reader, usually my dad with his "shortcuts". 
 
 ![Garmin Etrex](http://dl.dropbox.com/u/2657852/website/images/Etrex..jpg)

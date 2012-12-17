@@ -14,7 +14,7 @@ categories:
 Today we set off at 6:30 from our Derry Lodge wildcamp with the aim of getting to Braemar early for Breakfast in the Old Bakery. There were 9 miles of track and road walking to cover the get there, Phil was on a mission to get there for his 12 piece TGO special breakfast.  
 
 The walking was fairly uneventful and boring until reaching Marr Lodge, which is a huge building which I guess the Laird for the Marr estate would of lived. I believe it is now owned by the National Trust.  
-
+<!-- more -->
 Several challengers were booked in the lodge and you could call in for tea and biscuits. There was no sign of life as we passed by at 8. The next 3 or miles are all on tarmac which I hate at the best of times nevermind when my feet are a mess.  
 
 Anyway we made it into Braemar and the Old Bakery just after 9, only to find the door locked and blinds closed. While waiting for it to open I collected my supplies I'd posted and we sat and waited for what in the end was 2 hours!  

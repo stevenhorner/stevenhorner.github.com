@@ -18,7 +18,7 @@ I've done 2 walks this week both around the Eggleston area, both fairly easy wal
 **Distance :** 8 miles  
 
 I was scanning old walking routes into [Evernote](http://www.evernote.com/) before throwing out the original magazines and this was one one of the 400 routes I've scanned so far. Although I was too busy talking and went the wrong way according to the original route. We ended up jumping a wall to rejoin where we should of been. We also changed the end and decided to walk down the road for the last mile, rather than over the same fields we had already walked on our earlier slight detour.  
-
+<!-- more -->
 There are 2 sections to be aware of, the route follows Eggleton burn up to old mine workings. This isn't  marked as a path on the map but there is a clear path following the covered water course (a man made stream covered with rocks, I think it was "man made" for the mines). The other part to note is over the moors where the path becomes almost impossible to follow which is why I missed it. Oh also the bridge is down at NY988246 but you can hop the stream. If you would like the route click the link below, this includes the original route and my tracks (including detour). I would advise the original route not my detours.  
 
   * [GPX Route](http://dl.dropbox.com/u/2657852/website/files/EgglestonBurn.zip)  

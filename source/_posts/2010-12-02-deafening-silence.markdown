@@ -14,7 +14,7 @@ categories:
 
 ![](http://dl.dropbox.com/u/2657852/website/images/Ben-Lomond-November-2010-134.jpg)  
 Its been eerily quiet on this blog recently, much like the current blanket of snow has made the whole world appear silent and desolate this has been reflected here.  
-
+<!-- more -->
 In reality I've just been busy, walks up Ben Lomond, Helvellyn and an aborted trip to Scotland with [Hendrik](hikinginfinland.com), [Petesy](http://www.petesy.co.uk/) and [Johnny Hall ](http://www.recipher.co.uk/)have kept me occupied.  
 
 ![](http://dl.dropbox.com/u/2657852/website/images/Snow-December-2010-034.jpg)  

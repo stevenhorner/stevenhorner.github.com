@@ -18,7 +18,7 @@ tags:
 ![The Black Cuillin above Allt Dearg Mor](http://dl.dropbox.com/u/2657852/website/images/IMG_20110509_092814-600x450.jpg) 
 
 You may have noticed its been eerily silent on here the last 4 weeks. The [Highland ZigZag](http://www.stevenhorner.com/?p=1440) was short lived, 2 days of walking and 3 days of travelling to be exact. The weather decided not to comply with my plans. The 2 days walking were fantastic for very different reasons. 
-
+<!-- more -->
 ![The cuillin ridge as the cloud started to descend](http://dl.dropbox.com/u/2657852/website/images/P1050445-600x450.jpg) 
 
 Day 1 finally saw me walking on the Black Cullin Ridge something I've wanted to do for years. It may of been the easiest on the ridge, Bruach na Frithe, this was chosen for the supposedly spectacular views of the ridge. 

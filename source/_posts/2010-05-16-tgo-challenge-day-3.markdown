@@ -14,7 +14,7 @@ categories:
 I woke early and eventually got up and made breakfast at about 6. By 7 I was packed and away. I knew I only had 10 miles, possibly less to walk to Fort Augustus.  
 
 A late breakfast was appealing (2nd breakfast). There was just a lot of Forest tracks today, with not much else to see until I glimpsed Loch Ness through the trees. My phone began to chime as reception returned, I started to read the messages and followed the main track (wrong one). Luckily I quickly realised and retraced my steps. Fifteen minutes later and I was walking into Fort Augustus, to be greeted by the smell of food.  
-
+<!-- more -->
 I popped into the petrol station for a lighter for the stove and some batteries before crossing the road for a bacon roll and a latte. It was only 10:45 and the days walking was over.  
 
 Heading to the camp site I was passed by lots of classic cars, which I found out had all been staying noisely at the camp site. I checked in, picked up my supplies and setup the Trailstar before heading into town.  

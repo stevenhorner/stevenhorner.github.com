@@ -17,7 +17,7 @@ categories:
 **Product Page:** [PureKit](http://www.purekit.com/montane-lite-speed-h20-jacket-prod81166/)  
 
 **Overview ** An ultra-lightweight minimalist waterproof jacket, claimed to be the worlds lightest hooded waterproof jacket that is intended for people moving fast and light in the mountains with its roots in mountain running.  
-
+<!-- more -->
 **Features**  
 
 *   Roll-away hood 

@@ -14,7 +14,7 @@ categories:
 
 [![](http://www.stevenhorner.com/wp-content/uploads/2010/07/Crinkle-Crags-09-08-06-024.jpg)](http://www.stevenhorner.com/wp-content/uploads/2010/07/Crinkle-Crags-09-08-06-024.jpg)  
 This post was an idea after one of many long discussions on Facebook with [Helen Fisher](http://twitter.com/HelenJFisher/). We appear to have the same routes and ideas on places to walk like the [PCT ](http://en.wikipedia.org/wiki/Pacific_Crest_Trail)(Helen calls it the PTC), Wainwrights Coast to Coast and dozens of others, the conversation turned to walking with my dad and how cool she thought it was.  
-
+<!-- more -->
 I thought about this and realised that my parents are the reason I started walking and camping in the first place (explained shortly). I have read several books about finding your passion or "Element" and one of them mentioned about looking back over your life, remembering what moments stick in your mind and when you were happiest, this would help find your passion.  
 
 [![](http://www.stevenhorner.com/wp-content/uploads/2010/07/Jay-Steven.jpg)](http://www.stevenhorner.com/wp-content/uploads/2010/07/Jay-Steven.jpg)  

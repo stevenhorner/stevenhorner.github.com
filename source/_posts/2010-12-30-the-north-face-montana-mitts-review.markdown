@@ -17,7 +17,7 @@ categories:
 
 **Disclaimer**  
 Like a few other UK Outdoor bloggers I was asked by [Webtogs](http://www.webtogs.co.uk) if I would review a few items for them. I'm not a gear reviewer and agreed because I've personally bought items from Webtogs and been impressed with the service. I also would only review something that I would genuinely spend my own money on and they agreed I could write whatever I thought.  
-
+<!-- more -->
 **My Needs**  
 I don't have hands in winter I have blocks of ice that I don't feel until Spring when they thaw and they rapidly increase to the temperature of the sun. I've tried various gloves but none really kept my hands warm in winter unless they looked like the things someone would use to protect their hands in a foundary from molten steel. They usually felt about as heavy as steel too. After getting over the feeling that you were a pansy for even thinking of mittens I started trying them on in various shops. The majority looked like a pair of boxing gloves and were about as comfortable.  
 
