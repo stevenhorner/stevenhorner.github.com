@@ -1,5 +1,6 @@
 ---
 date: '2011-12-03 22:22:59'
+comments: true
 layout: post
 slug: cairngorms-everything-but-the-kitchen-sink
 status: publish

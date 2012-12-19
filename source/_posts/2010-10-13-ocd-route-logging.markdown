@@ -1,5 +1,6 @@
 ---
 date: '2010-10-13 22:00:46'
+comments: true
 layout: post
 slug: ocd-route-logging
 status: publish

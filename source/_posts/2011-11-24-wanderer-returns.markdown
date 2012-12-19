@@ -1,5 +1,6 @@
 ---
 date: '2011-11-24 14:00:17'
+comments: true
 layout: post
 slug: wanderer-returns
 status: publish

@@ -1,5 +1,6 @@
 ---
 date: '2009-10-31 14:34:29'
+comments: true
 layout: post
 slug: eggleston-routes
 status: publish

@@ -1,5 +1,6 @@
 ---
 date: '2010-08-31 15:55:32'
+comments: true
 layout: post
 slug: stunning-ben-lomond
 status: publish

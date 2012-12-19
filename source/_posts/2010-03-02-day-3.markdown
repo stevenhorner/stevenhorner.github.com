@@ -1,5 +1,6 @@
 ---
 date: '2010-03-02 09:18:31'
+comments: true
 layout: post
 slug: whw-day-3
 status: publish

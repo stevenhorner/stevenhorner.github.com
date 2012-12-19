@@ -1,5 +1,6 @@
 ---
 date: '2011-05-07 20:53:00'
+comments: true
 layout: post
 slug: off-on-the-highland-zigzag
 status: publish

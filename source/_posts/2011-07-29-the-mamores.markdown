@@ -1,5 +1,6 @@
 ---
 date: '2011-07-29 15:18:24'
+comments: true
 layout: post
 slug: the-mamores
 status: publish

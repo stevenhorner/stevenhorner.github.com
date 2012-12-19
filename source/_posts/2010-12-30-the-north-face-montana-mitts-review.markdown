@@ -1,5 +1,6 @@
 ---
 date: '2010-12-30 19:25:53'
+comments: true
 layout: post
 slug: the-north-face-montana-mitts-review
 status: publish

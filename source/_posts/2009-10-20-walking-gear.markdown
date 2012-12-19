@@ -1,5 +1,6 @@
 ---
 date: '2009-10-20 12:17:33'
+comments: true
 layout: post
 slug: walking-gear
 status: publish

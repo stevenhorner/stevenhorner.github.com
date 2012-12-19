@@ -1,5 +1,6 @@
 ---
 date: '2010-06-14 15:28:48'
+comments: true
 layout: post
 slug: first-run-in-months
 status: publish

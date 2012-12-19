@@ -1,5 +1,6 @@
 ---
 date: '2010-05-12 13:40:23'
+comments: true
 layout: post
 slug: where-the-hell-am-i-now
 status: publish

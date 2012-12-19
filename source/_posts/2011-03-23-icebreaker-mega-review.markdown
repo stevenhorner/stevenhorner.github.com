@@ -1,5 +1,6 @@
 ---
 date: '2011-03-23 21:03:49'
+comments: true
 layout: post
 slug: icebreaker-mega-review
 status: publish

@@ -1,5 +1,6 @@
 ---
 date: '2011-03-05 16:28:54'
+comments: true
 layout: post
 slug: montane-lite-speed-h2o-jacket-review
 status: publish

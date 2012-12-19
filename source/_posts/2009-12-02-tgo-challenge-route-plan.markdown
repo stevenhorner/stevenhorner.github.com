@@ -1,5 +1,6 @@
 ---
 date: '2009-12-02 15:37:27'
+comments: true
 layout: post
 slug: tgo-challenge-route-plan
 status: publish

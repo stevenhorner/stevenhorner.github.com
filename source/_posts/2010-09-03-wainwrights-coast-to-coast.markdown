@@ -1,5 +1,6 @@
 ---
 date: '2010-09-03 13:41:57'
+comments: true
 layout: post
 slug: wainwrights-coast-to-coast
 status: publish

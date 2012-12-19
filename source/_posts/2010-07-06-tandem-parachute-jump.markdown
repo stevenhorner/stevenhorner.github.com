@@ -1,5 +1,6 @@
 ---
 date: '2010-07-06 15:38:42'
+comments: true
 layout: post
 slug: tandem-parachute-jump
 status: publish

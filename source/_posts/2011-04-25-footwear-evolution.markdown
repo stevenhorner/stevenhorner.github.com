@@ -1,5 +1,6 @@
 ---
 date: '2011-04-25 19:48:18'
+comments: true
 layout: post
 slug: footwear-evolution
 status: publish

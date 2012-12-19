@@ -1,5 +1,6 @@
 ---
 date: '2010-02-16 14:16:44'
+comments: true
 layout: post
 slug: its-better-than-xmas
 status: publish

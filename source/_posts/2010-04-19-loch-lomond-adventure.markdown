@@ -1,5 +1,6 @@
 ---
 date: '2010-04-19 02:11:50'
+comments: true
 layout: post
 slug: loch-lomond-adventure
 status: publish

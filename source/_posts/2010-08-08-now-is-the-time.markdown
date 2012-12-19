@@ -1,5 +1,6 @@
 ---
 date: '2010-08-08 12:40:33'
+comments: true
 layout: post
 slug: now-is-the-time
 status: publish

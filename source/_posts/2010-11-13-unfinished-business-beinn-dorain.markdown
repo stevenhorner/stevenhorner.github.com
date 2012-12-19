@@ -1,5 +1,6 @@
 ---
 date: '2010-11-13 17:00:40'
+comments: true
 layout: post
 slug: unfinished-business-beinn-dorain
 status: publish

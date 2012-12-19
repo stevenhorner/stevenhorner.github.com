@@ -1,5 +1,6 @@
 ---
 date: '2009-12-06 12:47:33'
+comments: true
 layout: post
 slug: no-walking
 status: publish

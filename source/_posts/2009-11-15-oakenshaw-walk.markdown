@@ -1,5 +1,6 @@
 ---
 date: '2009-11-15 16:47:41'
+comments: true
 layout: post
 slug: oakenshaw-walk
 status: publish

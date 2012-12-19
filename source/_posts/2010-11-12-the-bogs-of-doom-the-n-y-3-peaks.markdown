@@ -1,5 +1,6 @@
 ---
 date: '2010-11-12 08:00:22'
+comments: true
 layout: post
 slug: the-bogs-of-doom-the-n-y-3-peaks
 status: publish

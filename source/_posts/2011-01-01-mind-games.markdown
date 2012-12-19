@@ -1,5 +1,6 @@
 ---
 date: '2011-01-01 22:15:36'
+comments: true
 layout: post
 slug: mind-games
 status: publish

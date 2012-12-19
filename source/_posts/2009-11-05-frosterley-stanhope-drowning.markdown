@@ -1,5 +1,6 @@
 ---
 date: '2009-11-05 15:33:25'
+comments: true
 layout: post
 slug: frosterley-stanhope-drowning
 status: publish

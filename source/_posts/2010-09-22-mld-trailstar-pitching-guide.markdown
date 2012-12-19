@@ -1,5 +1,6 @@
 ---
 date: '2010-09-22 19:30:32'
+comments: true
 layout: post
 slug: mld-trailstar-pitching-guide
 status: publish

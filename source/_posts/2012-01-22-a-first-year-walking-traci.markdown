@@ -1,5 +1,6 @@
 ---
 date: '2012-01-22 22:42:55'
+comments: true
 layout: post
 slug: a-first-year-walking-traci
 status: publish

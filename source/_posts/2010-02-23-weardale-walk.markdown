@@ -1,5 +1,6 @@
 ---
 date: '2010-02-23 18:26:51'
+comments: true
 layout: post
 slug: weardale-walk
 status: publish

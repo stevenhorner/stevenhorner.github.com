@@ -1,5 +1,6 @@
 ---
 date: '2011-06-13 22:03:32'
+comments: true
 layout: post
 slug: mapping-revolution
 status: publish

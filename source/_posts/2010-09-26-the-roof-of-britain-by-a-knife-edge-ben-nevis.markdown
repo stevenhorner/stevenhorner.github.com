@@ -1,5 +1,6 @@
 ---
 date: '2010-09-26 19:00:33'
+comments: true
 layout: post
 slug: the-roof-of-britain-by-a-knife-edge-ben-nevis
 status: publish

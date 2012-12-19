@@ -1,5 +1,6 @@
 ---
 date: '2010-02-25 12:58:59'
+comments: true
 layout: post
 slug: thatll-be-snow-then
 status: publish

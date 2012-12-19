@@ -1,5 +1,6 @@
 ---
 date: '2010-05-17 09:34:47'
+comments: true
 layout: post
 slug: tgo-challenge-day-4
 status: publish

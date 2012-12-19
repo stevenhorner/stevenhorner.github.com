@@ -1,5 +1,6 @@
 ---
 date: '2010-09-13 11:36:57'
+comments: true
 layout: post
 slug: something-for-the-weekend-arran
 status: publish

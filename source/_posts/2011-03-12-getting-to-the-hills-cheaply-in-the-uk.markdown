@@ -1,5 +1,6 @@
 ---
 date: '2011-03-12 19:21:59'
+comments: true
 layout: post
 slug: getting-to-the-hills-cheaply-in-the-uk
 status: publish

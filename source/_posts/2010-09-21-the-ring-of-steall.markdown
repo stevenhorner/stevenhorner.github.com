@@ -1,5 +1,6 @@
 ---
 date: '2010-09-21 19:00:05'
+comments: true
 layout: post
 slug: the-ring-of-steall
 status: publish

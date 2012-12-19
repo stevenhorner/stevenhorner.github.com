@@ -1,5 +1,6 @@
 ---
 date: '2012-01-18 21:04:49'
+comments: true
 layout: post
 slug: focus-fun-and-learning
 status: publish

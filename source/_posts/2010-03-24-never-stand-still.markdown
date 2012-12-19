@@ -1,5 +1,6 @@
 ---
 date: '2010-03-24 16:25:16'
+comments: true
 layout: post
 slug: never-stand-still
 status: publish

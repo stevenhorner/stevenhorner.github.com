@@ -1,5 +1,6 @@
 ---
 date: '2010-09-08 10:36:49'
+comments: true
 layout: post
 slug: c2c-short-but-eventful
 status: publish

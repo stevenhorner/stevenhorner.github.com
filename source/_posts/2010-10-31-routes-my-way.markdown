@@ -1,5 +1,6 @@
 ---
 date: '2010-10-31 21:07:24'
+comments: true
 layout: post
 slug: routes-my-way
 status: publish

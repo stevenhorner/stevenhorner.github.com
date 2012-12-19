@@ -1,5 +1,6 @@
 ---
 date: '2011-12-09 18:39:08'
+comments: true
 layout: post
 slug: aonach-eagach-two-potentially-dangerous-errors
 status: publish

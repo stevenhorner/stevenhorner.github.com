@@ -1,5 +1,6 @@
 ---
 date: '2010-09-17 07:10:52'
+comments: true
 layout: post
 slug: st-sunday-crag-brought-to-you-by-the-letter-a
 status: publish

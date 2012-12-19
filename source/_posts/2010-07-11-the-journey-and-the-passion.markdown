@@ -1,5 +1,6 @@
 ---
 date: '2010-07-11 07:14:07'
+comments: true
 layout: post
 slug: the-journey-and-the-passion
 status: publish

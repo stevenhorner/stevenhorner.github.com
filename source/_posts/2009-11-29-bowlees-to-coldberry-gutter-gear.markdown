@@ -1,5 +1,6 @@
 ---
 date: '2009-11-29 16:28:35'
+comments: true
 layout: post
 slug: bowlees-to-coldberry-gutter-gear
 status: publish

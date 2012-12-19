@@ -1,5 +1,6 @@
 ---
 date: '2010-05-28 06:43:17'
+comments: true
 layout: post
 slug: tgo-challenge-2010-gear-part-1
 status: publish

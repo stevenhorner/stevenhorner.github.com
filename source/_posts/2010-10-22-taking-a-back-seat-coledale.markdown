@@ -1,5 +1,6 @@
 ---
 date: '2010-10-22 21:40:26'
+comments: true
 layout: post
 slug: taking-a-back-seat-coledale
 status: publish

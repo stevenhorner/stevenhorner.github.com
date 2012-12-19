@@ -1,5 +1,6 @@
 ---
 date: '2010-08-12 09:21:56'
+comments: true
 layout: post
 slug: attack-of-the-wainwrights
 status: publish

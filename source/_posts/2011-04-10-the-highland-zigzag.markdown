@@ -1,5 +1,6 @@
 ---
 date: '2011-04-10 23:07:07'
+comments: true
 layout: post
 slug: the-highland-zigzag
 status: publish

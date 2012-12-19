@@ -1,5 +1,6 @@
 ---
 date: '2010-08-05 09:56:21'
+comments: true
 layout: post
 slug: buachaille-etive-mor
 status: publish

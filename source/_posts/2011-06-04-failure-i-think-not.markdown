@@ -1,5 +1,6 @@
 ---
 date: '2011-06-04 19:35:39'
+comments: true
 layout: post
 slug: failure-i-think-not
 status: publish

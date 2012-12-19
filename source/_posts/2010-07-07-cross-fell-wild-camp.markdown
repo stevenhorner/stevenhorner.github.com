@@ -1,5 +1,6 @@
 ---
 date: '2010-07-07 13:02:44'
+comments: true
 layout: post
 slug: cross-fell-wild-camp
 status: publish

@@ -1,5 +1,6 @@
 ---
 date: '2012-06-06 19:00:12'
+comments: true
 layout: post
 slug: kittys-wood-public-rights-of-way
 status: publish

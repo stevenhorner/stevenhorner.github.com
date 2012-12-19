@@ -1,5 +1,6 @@
 ---
 date: '2009-12-20 16:01:46'
+comments: true
 layout: post
 slug: snowy-walk-to-thornley
 status: publish

@@ -1,5 +1,6 @@
 ---
 date: '2011-01-30 21:03:21'
+comments: true
 layout: post
 slug: terra-nova-laser-20l-pack-review
 status: publish

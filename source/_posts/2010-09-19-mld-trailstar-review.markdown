@@ -1,5 +1,7 @@
 ---
 date: '2010-09-19 19:30:47'
+comments: true
+comments: true
 layout: post
 slug: mld-trailstar-review
 status: publish

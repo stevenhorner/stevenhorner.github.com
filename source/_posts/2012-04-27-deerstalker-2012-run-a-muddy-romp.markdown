@@ -1,5 +1,6 @@
 ---
 date: '2012-04-27 21:05:50'
+comments: true
 layout: post
 slug: deerstalker-2012-run-a-muddy-romp
 status: publish

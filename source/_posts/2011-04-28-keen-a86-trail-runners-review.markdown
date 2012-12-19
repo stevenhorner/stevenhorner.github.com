@@ -1,5 +1,6 @@
 ---
 date: '2011-04-28 19:30:25'
+comments: true
 layout: post
 slug: keen-a86-trail-runners-review
 status: publish

@@ -1,5 +1,6 @@
 ---
 date: '2011-12-10 18:00:13'
+comments: true
 layout: post
 slug: the-first-real-snow-of-the-winter
 status: publish

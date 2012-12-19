@@ -1,5 +1,6 @@
 ---
 date: '2010-03-08 15:22:48'
+comments: true
 layout: post
 slug: whw-day-8-the-end
 status: publish

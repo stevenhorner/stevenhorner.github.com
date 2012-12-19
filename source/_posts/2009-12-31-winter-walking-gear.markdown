@@ -1,5 +1,6 @@
 ---
 date: '2009-12-31 12:15:43'
+comments: true
 layout: post
 slug: winter-walking-gear
 status: publish

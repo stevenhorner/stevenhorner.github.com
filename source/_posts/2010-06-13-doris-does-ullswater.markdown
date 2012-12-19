@@ -1,5 +1,6 @@
 ---
 date: '2010-06-13 13:25:17'
+comments: true
 layout: post
 slug: doris-does-ullswater
 status: publish

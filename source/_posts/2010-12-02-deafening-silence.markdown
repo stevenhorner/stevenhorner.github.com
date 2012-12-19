@@ -1,5 +1,6 @@
 ---
 date: '2010-12-02 19:29:48'
+comments: true
 layout: post
 slug: deafening-silence
 status: publish

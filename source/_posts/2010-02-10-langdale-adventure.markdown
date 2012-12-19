@@ -1,5 +1,6 @@
 ---
 date: '2010-02-10 16:21:02'
+comments: true
 layout: post
 slug: langdale-adventure
 status: publish

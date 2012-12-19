@@ -1,5 +1,6 @@
 ---
 date: '2010-01-05 09:49:47'
+comments: true
 layout: post
 slug: helvellyn-solitude
 status: publish

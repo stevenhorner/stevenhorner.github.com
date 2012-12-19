@@ -1,5 +1,6 @@
 ---
 date: '2012-01-11 10:30:40'
+comments: true
 layout: post
 slug: 2011-where-did-it-go
 status: publish

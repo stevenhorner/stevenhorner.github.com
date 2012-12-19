@@ -1,5 +1,6 @@
 ---
 date: '2011-03-14 18:56:43'
+comments: true
 layout: post
 slug: ben-nevis-in-winter
 status: publish

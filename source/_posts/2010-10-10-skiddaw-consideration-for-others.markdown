@@ -1,5 +1,6 @@
 ---
 date: '2010-10-10 19:30:49'
+comments: true
 layout: post
 slug: skiddaw-consideration-for-others
 status: publish
