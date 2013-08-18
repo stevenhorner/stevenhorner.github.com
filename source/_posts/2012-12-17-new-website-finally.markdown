@@ -22,4 +22,4 @@ If you subscribed to the RSS Feed for the site this also will no longer work, th
 ###So why the change & the delay?  
 I was sick of the site running slowly, which was the result partly of the host [(Godaddy)](http://www.godaddy.com), the platform [(Wordpress)](http://www.wordpress.com) and my configuration of the site. The delay was mainly due to exporting the posts from the Wordpress and losing all the formatting, but the old posts are migrated. What this means is that I can now concentrate on new content, the delay to migrating the site has resulted in 0 posts in the last 6 months. There are several new posts either written or almost complete. I am looking forward to regularly posting again.  
 
-Apologies for the disruption, hopefully due the design of the new site this should not happen again. If you spot any links that do not work or errors please let me know and I will fix them as soon as I can.  
+Apologies for the disruption, hopefully due to the design of the new site this should not happen again. If you spot any links that do not work or errors please let me know and I will fix them as soon as I can.  
