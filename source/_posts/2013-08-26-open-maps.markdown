@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Open Maps"
+date: 2013-08-26 21:00
+comments: true
+categories: maps
+---
+
+![Ben Nevis OpenCycleMap](https://dl.dropboxusercontent.com/u/2657852/website/images/BenNevisOSMCycle1.jpg)
+Following on from my [previous post][1] and the desire for an official map subscription service, I mentioned if the established map providers don't do something radical soon they will start to lose business among the regular public.
+The biggest threat to traditional mapping agencies like [Ordnance Survey][5] or [IGN][6] I believe will come from [OpenStreetMap][3] based maps. Several years ago I remember seeing [OpenCycleMap][4] with it's contour lines and relief shading which look very similar to [Harvey maps][7]. The problem with [OpenStreetMap][3] at the moment depending on the area you are looking at is the holes in the data.
+
+![Ben Nevis Thunderforest Landcape Map](https://dl.dropboxusercontent.com/u/2657852/website/images/BenNevisOSMLandscape1.jpg)
+### Holes in the data?
+Although [OpenStreetMap][3] started in the UK it is a truely worldwide map. In many less developed countries and many developed ones too, [OpenStreetMap][3] is far more accurate and complete than any other map available. Yet if you look at many areas in the UK, things are missing. To use for walking purposes the standard Mapnik layer isn't much good unless you are navigating towns and villages.
+If you want to walk in the hills you need contours, those orange swirly lines on [Ordnance Survey][5] maps. I said above the [OpenCycleMap][4] caught my eye, it is basically just the [OpenStreetMap][3] data styled differently with contours and relief shading added. There are other syles available that also offer Contours like Thunderforest Outdoors or Thunderforest Landscape. These omit much of the data from the standard map that you don't need for outdoor activities but keep things like pubs and toilets.
+
+![Ben Nevis ThunderForest Outdoors Map](https://dl.dropboxusercontent.com/u/2657852/website/images/BenNevisOSMOutdoors1.jpg)
+### Dangerous
+You would think that the Outdoors style would be the one to go for, but take a look at Ben Nevis. It has contours but those contours are STRM (Shuttle Radar Topography Mission) ones that dont' show the vertical drop if you wandered too far from the summit. They only show contours every 90m in the UK, 30m in the USA. In fact it doesn't look a bad descent. 
+
+![Ben Nevis Summit ThunderForest Landscape Map](https://dl.dropboxusercontent.com/u/2657852/website/images/BenNevisOSMB006.jpg)
+
+Take a look at the Landscape style and it adds the vertical drop marked with the solid black line, much like Harvey maps show. Although still those contours are used that just aren't detailed enough. There are areas where the contours don't join up correctly either. Also the Outdoors map oddly omits walls, which I always find help greatly with navigation.
+I'm not exactly selling [OpenStreetMap][3] for walking if it's missing potentially lethal vertical drops. The beauty of [OSM][3] is you can use the data and style it in anyway you like and add other data to create a totally unique map that has the details YOU want.
+
+![OS OpenData Terrain 50 - Ben Nevis Contours](https://dl.dropboxusercontent.com/u/2657852/website/images/BenNevisOSMB002.jpg)
+### What data is available
+If you live in the UK [Ordnance Survey][5] have released some "OpenData" which you can use. They actually released several complete maps but none of these are ideal for walking, they kept the Crown Jewels (Explorer & Landranger). The products that are usefull to supplement [OpenStreetMap][3] are:
+
+*   [OS Terrain 50][8] (replacing LAND-FORM Panorama)
+*   [VectorMap District][9]
+
+VectorMap district is actually an entire map product but we can borrow only the bits we need.
+There are a lot of other sources of data out there for the UK and overseas. [Natural England][10] provide Open Access land data, so you could re-create those shaded orange areas. They provide a lot other data too but most is not needed on a walking map.
+
+![Bodged together Map](https://dl.dropboxusercontent.com/u/2657852/website/images/BenNevisOSMB003.jpg)
+### So what can we create?
+Here's a very quick bodged together map just to see what this data looks like, you can see it's bodged together because it's not layered correctly and it looks to be honest horrendous, but you can see if it was styled, it would have everything we need. Ths was created in a couple of minutes using [Quantum GIS( QGIS)][2], to do this properly and produce a usable map at the end I prefer other tools. In the next post I will explain how to create a usable Outdoors maps using the data mentioned above.
+[1]: http://stevenhorner.com/blog/2013/08/18/map-subscription-service/ "StevenHorner.com - Map Subscription Service"
+[2]: http://www.qgis.org/ "Quantum GIS"
+[3]: http://www.openstreetmap.org/ "OpenStreetMap"
+[4]: http://www.opencyclemap.org/ "OpenCycleMap"
+[5]: http://www.ordnancesurvey.co.uk/ "Ordnance Survey"
+[6]: http://www.ign.fr/ "IGN"
+[7]: http://www.harveymaps.co.uk/ "Harvey Maps"
+[8]: http://www.ordnancesurvey.co.uk/business-and-government/products/terrain-50.html "OS OpenData Terrain 50"
+[9]: http://www.ordnancesurvey.co.uk/business-and-government/products/vectormap-district.html "OS VectorMap District"
+[10]: http://www.gis.naturalengland.org.uk/pubs/gis/GIS_register.asp "Natural England Data sets"
