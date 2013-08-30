@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: WHW | StevenHorner.com]]></title>
+  <link href="http://stevenhorner.github.com/blog/categories/whw/atom.xml" rel="self"/>
+  <link href="http://stevenhorner.github.com/"/>
+  <updated>2013-08-30T12:08:33+01:00</updated>
+  <id>http://stevenhorner.github.com/</id>
+  <author>
+    <name><![CDATA[Steven Horner]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  Liquid error: incompatible character encodings: UTF-8 and CP850
+</feed>

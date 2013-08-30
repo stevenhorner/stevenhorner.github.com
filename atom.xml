@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[StevenHorner.com]]></title>
+  <link href="http://stevenhorner.github.com/atom.xml" rel="self"/>
+  <link href="http://stevenhorner.github.com/"/>
+  <updated>2013-08-30T12:08:33+01:00</updated>
+  <id>http://stevenhorner.github.com/</id>
+  <author>
+    <name><![CDATA[Steven Horner]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Open Maps]]></title>
+    <link href="http://stevenhorner.github.com/blog/2013/08/26/open-maps/"/>
+    <updated>2013-08-26T21:00:00+01:00</updated>
+    <id>http://stevenhorner.github.com/blog/2013/08/26/open-maps</id>
+    <content type="html"><![CDATA[<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/BenNevisOSMCycle1.jpg" alt="Ben Nevis OpenCycleMap" />
+Following on from my <a href="http://stevenhorner.com/blog/2013/08/18/map-subscription-service/" title="StevenHorner.com - Map Subscription Service">previous post</a> and the desire for an official map subscription service, I mentioned if the established map providers don&#8217;t do something radical soon they will start to lose business among the regular public.
+The biggest threat to traditional mapping agencies like <a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a> or <a href="http://www.ign.fr/" title="IGN">IGN</a> I believe will come from <a href="http://www.openstreetmap.org/" title="OpenStreetMap">OpenStreetMap</a> based maps. Several years ago I remember seeing <a href="http://www.opencyclemap.org/" title="OpenCycleMap">OpenCycleMap</a> with it&#8217;s contour lines and relief shading which look very similar to <a href="http://www.harveymaps.co.uk/" title="Harvey Maps">Harvey maps</a>. The problem with <a href="http://www.openstreetmap.org/" title="OpenStreetMap">OpenStreetMap</a> at the moment depending on the area you are looking at is the holes in the data.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/BenNevisOSMLandscape1.jpg" alt="Ben Nevis Thunderforest Landcape Map" /></p>
+
+<h3>Holes in the data?</h3>
+
+<p>Although <a href="http://www.openstreetmap.org/" title="OpenStreetMap">OpenStreetMap</a> started in the UK it is a truely worldwide map. In many less developed countries and many developed ones too, <a href="http://www.openstreetmap.org/" title="OpenStreetMap">OpenStreetMap</a> is far more accurate and complete than any other map available. Yet if you look at many areas in the UK, things are missing. To use for walking purposes the standard Mapnik layer isn&#8217;t much good unless you are navigating towns and villages.
+If you want to walk in the hills you need contours, those orange swirly lines on <a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a> maps. I said above the <a href="http://www.opencyclemap.org/" title="OpenCycleMap">OpenCycleMap</a> caught my eye, it is basically just the <a href="http://www.openstreetmap.org/" title="OpenStreetMap">OpenStreetMap</a> data styled differently with contours and relief shading added. There are other syles available that also offer Contours like Thunderforest Outdoors or Thunderforest Landscape. These omit much of the data from the standard map that you don&#8217;t need for outdoor activities but keep things like pubs and toilets.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/BenNevisOSMOutdoors1.jpg" alt="Ben Nevis ThunderForest Outdoors Map" /></p>
+
+<h3>Dangerous</h3>
+
+<p>You would think that the Outdoors style would be the one to go for, but take a look at Ben Nevis. It has contours but those contours are STRM (Shuttle Radar Topography Mission) ones that dont&#8217; show the vertical drop if you wandered too far from the summit. They only show contours every 90m in the UK, 30m in the USA. In fact it doesn&#8217;t look a bad descent.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/BenNevisOSMB006.jpg" alt="Ben Nevis Summit ThunderForest Landscape Map" /></p>
+
+<p>Take a look at the Landscape style and it adds the vertical drop marked with the solid black line, much like Harvey maps show. Although still those contours are used that just aren&#8217;t detailed enough. There are areas where the contours don&#8217;t join up correctly either. Also the Outdoors map oddly omits walls, which I always find help greatly with navigation.
+I&#8217;m not exactly selling <a href="http://www.openstreetmap.org/" title="OpenStreetMap">OpenStreetMap</a> for walking if it&#8217;s missing potentially lethal vertical drops. The beauty of <a href="http://www.openstreetmap.org/" title="OpenStreetMap">OSM</a> is you can use the data and style it in anyway you like and add other data to create a totally unique map that has the details YOU want.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/BenNevisOSMB002.jpg" alt="OS OpenData Terrain 50 - Ben Nevis Contours" /></p>
+
+<h3>What data is available</h3>
+
+<p>If you live in the UK <a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a> have released some &#8220;OpenData&#8221; which you can use. They actually released several complete maps but none of these are ideal for walking, they kept the Crown Jewels (Explorer &amp; Landranger). The products that are usefull to supplement <a href="http://www.openstreetmap.org/" title="OpenStreetMap">OpenStreetMap</a> are:</p>
+
+<ul>
+<li><a href="http://www.ordnancesurvey.co.uk/business-and-government/products/terrain-50.html" title="OS OpenData Terrain 50">OS Terrain 50</a> (replacing LAND-FORM Panorama)</li>
+<li><a href="http://www.ordnancesurvey.co.uk/business-and-government/products/vectormap-district.html" title="OS VectorMap District">VectorMap District</a></li>
+</ul>
+
+
+<p>VectorMap district is actually an entire map product but we can borrow only the bits we need.
+There are a lot of other sources of data out there for the UK and overseas. <a href="http://www.gis.naturalengland.org.uk/pubs/gis/GIS_register.asp" title="Natural England Data sets">Natural England</a> provide Open Access land data, so you could re-create those shaded orange areas. They provide a lot other data too but most is not needed on a walking map.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/BenNevisOSMB003.jpg" alt="Bodged together Map" /></p>
+
+<h3>So what can we create?</h3>
+
+<p>Here&#8217;s a very quick bodged together map just to see what this data looks like, you can see it&#8217;s bodged together because it&#8217;s not layered correctly and it looks to be honest horrendous, but you can see if it was styled, it would have everything we need. Ths was created in a couple of minutes using <a href="http://www.qgis.org/" title="Quantum GIS">Quantum GIS( QGIS)</a>, to do this properly and produce a usable map at the end I prefer other tools. In the next post I will explain how to create a usable Outdoors maps using the data mentioned above.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Map Subscription Service?]]></title>
+    <link href="http://stevenhorner.github.com/blog/2013/08/18/map-subscription-service/"/>
+    <updated>2013-08-18T22:21:00+01:00</updated>
+    <id>http://stevenhorner.github.com/blog/2013/08/18/map-subscription-service</id>
+    <content type="html"><![CDATA[<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/MapNoService.jpg" alt="No Map Service For You!" /></p>
+
+<p>Over the last year I have been thinking about maps a lot, from using them in my day job, planning adventures in my spare time and for future job plans. Living in the UK the most obvious maps to use are from <a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a> and anyone who has even the most fleeting use for a map will generally be familiar with some of their maps. The paper <a href="http://www.amazon.co.uk/s/?_encoding=UTF8&amp;camp=1634&amp;creative=19450&amp;field-keywords=explorer%20lake%20district&amp;linkCode=ur2&amp;rh=i%3Aaps%2Ck%3Aexplorer%20lake%20district&amp;sprefix=explorer%20lake%20%2Caps%2C169&amp;tag=faitocom-21&amp;url=search-alias%3Daps" title="OS Lake District Maps">Explorer maps of the Lake District</a> that I keep in the boot of my car are looking very worn, although these days they rarely leave the boot. Why do they rarely leave their home?</p>
+
+<p>Like most online outdoor walkers and bloggers I have used digital mapping for years, but always carry a paper map in case my digital device breaks or runs out of power. I rarely look at my paper map unless I want an overview of an area. Generally in somewhere like the Lake District I can recognise most of the landmarks and hills I can see around me. The map I generally have in my pack for this isn&#8217;t an Ordnance Survey map but the <a href="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=faitocom-21&amp;o=2&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=ss_til&amp;asins=1851374671" title="Harvey Lake District Map">Harveys Lake District map</a>, yet this rarely leaves my pack either these days. All of this will be familiar to many outdoor enthusiasts who are embracing modern technology and using Digital mapping more and more.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/HarveyLakeDistrict.jpg" alt="Harvey Lake District Map" /></p>
+
+<p>There are problems with digital mapping and I don&#8217;t mean running out of juice in your GPS device or smartphone. I&#8217;m talking about &#8220;Digital Map Lock In&#8221;, this is the most frustrating and frankly old fashioned thing about digital maps.</p>
+
+<h3>What is Digital Map Lock In?</h3>
+
+<p>In the UK the biggest provider of outdoor mapping data is <a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a>, many (UK people probably) believe them to produce the finest maps in the world. These are the maps used by the majority of people walking in the UK both paper based and digital. Yet due to the way <a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a> licence, restrict and distribute their digital data they have produced and seam to actively encourage each company who uses their maps to produce outdoor mapping programs like <a href="http://www.memory-map.co.uk/" title="Memory-map">Memory-Map</a>, <a href="http://www.routebuddy.com/" title="RouteBuddy">Route Buddy</a>, <a href="http://www.anquet.com/" title="Anquet">Anquet</a> or Mobile specific apps like <a href="http://www.viewranger.com/" title="Viewranger">Viewranger</a> to create their own map format. Their map formats are &#8220;locked&#8221; to their program.</p>
+
+<p>If I buy a digital map for <a href="http://www.memory-map.co.uk/" title="Memory-map">Memory-Map</a>, I can only use it in that program not in <a href="http://www.anquet.com/" title="Anquet">Anquet</a> or anything else. This sounds very familiar to digital music a few years ago, the songs were locked to iTunes or <a href="http://www.napster.com/" title="Napster">Napster</a> (legal version). If you wanted to play them in anything else you were out of luck. Unless you did a little <a href="http://digiex.net/downloads/download-center-2-0/applications/11796-requiem-4-1-remove-itunes-drm-fairplay-music-video-books.html" title="Remove Apple DRM">research</a> and broke the law removing the Digital Rights Management (DRM). What did people do? They downloaded MP3s illegally, the music industry tried taking people to court and dishing out massive fines but did it work, No!</p>
+
+<p>Eventually some of the music industry realised that things were/are changing, the models of old were crumbling and that their old model didn&#8217;t fit with todays generation. <a href="http://www.spotify.com" title="Spotify">Spotify</a> and similar services have appeared that offer consumers everything they had with their illegal sources (<a href="http://en.wikipedia.org/wiki/Napster" title="Wikipedia - Napster">Napster</a>, <a href="http://www.limewire.com/" title="Limewire">Limewire</a>, etc) almost any song they desire in one convenient place and available on any device. People like myself were happy to pay for the service and I have done so every month since the first mobile app was released (3 years ago?). This model still has DRM with its restrictions, but I am happy to pay for it because I can listen to my music on everything I currently use (phone, computers, we browser and even now in programs like <a href="http://xbmc.org/" title="XBMC">XBMC</a>). I like the all I can eat model with the choice of millions of songs rather than the <a href="http://www.amazon.co.uk/MP3-Music-Download/b/?_encoding=UTF8&amp;camp=1634&amp;creative=19450&amp;linkCode=ur2&amp;node=77197031&amp;tag=faitocom-21" title="Amazon MP3 Store">Amazon model</a> of no DRM but paying for each song model. Who has made the most money from me, <a href="http://www.spotify.com" title="Spotify">Spotify</a> by a mile (£9.99/month for 3+ years).</p>
+
+<h3>All You Can Eat Maps</h3>
+
+<p>So what has all this talk of music got to do with maps, well we need the same thing to happen with digital maps. I don&#8217;t want to be stuck using <a href="http://www.memory-map.co.uk/" title="Memory-map">Memory-Map</a> because I chose to buy a map from them 3 years ago or pay <a href="http://www.viewranger.com/" title="Viewranger">Viewranger</a> for the same area again to use it in their app. I want to pay for my <a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a> maps and be able to use them in any program or service and they be constantly up to date. I have no doubt someone is sat there thinking but you can&#8217;t do that with paper maps. Exactly that&#8217;s old fashioned and exactly the problem we have, we want new ideas not old ones.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/Mapping-Evolution-2011-009.jpg" alt="MM Tracker &amp; Memory-Map" /></p>
+
+<p>I&#8217;m sure someone else would point out that <a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a> provide an app for iPhone(<a href="https://itunes.apple.com/gb/app/os-mapfinder/id577097874?mt=8" title="OS MapFinder">OS Map Finder</a>). I think this is the wrong move, I want Ordnance Survey to be the map producers and distributors with other companies providing software and services that use their data. I am happy to pay for a program or service and I have for <a href="http://alpinequest.psyberia.net/" title="AlpineQuest">AlpineQuest</a>, <a href="https://sites.google.com/site/mmtrackerinfo/" title="MM Tracker">MM Tracker</a>, <a href="http://osmand.net/" title="OsmAnd">OSMand+</a> and many others.</p>
+
+<p>What I would like is to pay a small monthly fee to have <a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a> maps available in any program and always up to date. <a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a> actually do already provide this service for business users, its called <a href="http://www.ordnancesurvey.co.uk/business-and-government/products/os-ondemand/index.html" title="OS OnDemand">OS OnDemand</a> and it starts from £1,500 rising to £20,000 per year. Slightly out of reach of the normal outdoor enthusiast. What I believe <a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a> should do is offer a subscription map service for around £5 per month, this would allow me full access to their digital maps (possibly excluding MasterMap). They would provide the service and allow me to allow apps and services to use my subscription in the same way you approve access to your Twitter or Google account. This would provide an extra revenue stream for them, £60 per year from me and likely every other digital map user. This would mean apps like <a href="http://www.viewranger.com/" title="Viewranger">Viewranger</a> would need to charge for their app again, I paid for at least one version of their app already.</p>
+
+<p>Obviously the service would have to allow caching of maps, otherwise the service would be useless in remote areas. Providing always up to date maps at each scale and for the whole of the UK is the incentive that would encourage users to constantly subscribe.</p>
+
+<h3>Why would Ordnance Survey do this?</h3>
+
+<p>In recent years <a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a> have generally had UK mapping to themselves other than the areas <a href="http://www.harveymaps.co.uk/" title="Harvey Maps">Harvey Maps</a> provide, but the average person likely has not seen or used them. I have only seen them available digitally for one program (even worse than OS). There is also a new kid on the block, actually its not that new. <a href="http://http://www.openstreetmap.org/" title="OpenStreetMap">OpenStreetMap (OSM)</a> is celebrating its 9th year, but it is only recently that it is starting to become a realistic alternative to other major map providers like Ordnance Survey or Google for online maps. You may scoff at the thought of navigating the Cairngorms with an <a href="http://http://www.openstreetmap.org/" title="OpenStreetMap">OpenStreetMap</a>, but I believe its now almost possible if combined with contours and a grid.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/landscape.jpg" alt="Thunderforest Landscape Map" /></p>
+
+<p>Anyone who has attended a mountain leader course will have navigated largely using contours. <a href="http://www.amazon.co.uk/s/?_encoding=UTF8&amp;camp=1634&amp;creative=19450&amp;field-keywords=explorer%20lake%20district&amp;linkCode=ur2&amp;rh=i%3Aaps%2Ck%3Aexplorer%20lake%20district&amp;sprefix=explorer%20lake%20%2Caps%2C169&amp;tag=faitocom-21&amp;url=search-alias%3Daps" title="OS Lake District Maps">Ordnance Survey Explorer</a> maps can be very &#8220;busy&#8221; once you learn to use contours correctly. Take a look at <a href="http://www.thunderforest.com/" title="Thunderforest">Thunderforest</a> <a href="http://www.thunderforest.com/landscape/" title="Thunderforest Landscape">Landscape</a> and <a href="http://www.thunderforest.com/outdoors/" title="Thunderforest Outdoors">Outdoor</a> maps for examples that use <a href="http://http://www.openstreetmap.org/" title="OpenStreetMap">OSM</a> data. They are still missing a few things in my opinion but the designer of those styles chose to omit some things like walls and fences. The biggest thing <a href="http://http://www.openstreetmap.org/" title="OpenStreetMap">OpenStreetMap</a> has going for it is that it is open and the data is freely available to use by anyone and can be updated by anyone. So if something is missing go and add it. I don&#8217;t know about you, but I have spotted loads of mistakes on OS maps (intentional or otherwise) it can also take years for things to be added or removed. Not only should <a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a> be worried but so should Google, they already borrowed <a href="http://http://www.openstreetmap.org/" title="OpenStreetMap">OSMs</a> model and now allow you to make updates to their maps using <a href="http://www.google.co.uk/mapmaker" title="Google Map Maker">Google Map Maker</a>. I am digressing, some of these thoughts will likely be discussed in future posts.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/OSVectorMapDistrict.jpg" alt="OS VectorMap District" /></p>
+
+<p>So returning to that question, why would <a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a> do this. Well they could and should provide a service like this now, rather than waiting until <a href="http://http://www.openstreetmap.org/" title="OpenStreetMap">OpenStreetMap</a> have eaten away at their business. If they provided this service now I believe they would be opening up an untapped revenue stream and would be a leader once again. Almost all of the mobile apps available already provide <a href="http://http://www.openstreetmap.org/" title="OpenStreetMap">OpenStreetMap</a> as well as Ordnance Survey. If the free data becomes as good or better why would you pay?</p>
+
+<p><a href="http://www.ordnancesurvey.co.uk/" title="Ordnance Survey">Ordnance Survey</a> needs to provide something that no one else can (currently) offer, don&#8217;t forget there is already free &#8221;<a href="http://www.ordnancesurvey.co.uk/business-and-government/products/opendata-products.html" title="OS OpenData">OpenData</a>&#8221; release by Ordnance Survey that when combined with other free sources of data is potentially far better than what we currently pay for, keep an eye out for future posts.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New Website: Finally]]></title>
+    <link href="http://stevenhorner.github.com/blog/2012/12/17/new-website-finally/"/>
+    <updated>2012-12-17T19:30:00+00:00</updated>
+    <id>http://stevenhorner.github.com/blog/2012/12/17/new-website-finally</id>
+    <content type="html"><![CDATA[<p>Finally I have moved to a new host <a href="http://www.github.com">(Github)</a> and away from <a href="http://www.wordpress.com">Wordpress</a> to <a href="http://www.octopress.org">Octopress</a>. This process started almost 12 months ago, but I am now almost finished. A lot of hard decisions have been made regarding the site, what to keep and what to remove. There is still a new theme to create but I didn&#8217;t want to delay any longer.</p>
+
+<h3>Old Links to StevenHorner.com</h3>
+
+<p>I won&#8217;t get into the technical side of it but I made a decision a lot of years ago that resulted in the inability to forward links to the new site. My advice to anyone setting up a site, enable permalinks.<br/>
+Old links from external sites will take you to a custom error page which has links to the most popular posts:</p>
+
+<ul>
+<li><a href="http://www.stevenhorner.com/blog/2010/09/19/mld-trailstar-review/">MLD Trailstar Review</a></li>
+<li><a href="http://www.stevenhorner.com/blog/2010/09/22/mld-trailstar-pitching-guide/">MLD Trailstar Pitching Guide</a></li>
+<li><a href="http://www.stevenhorner.com/blog/2011/03/05/montane-lite-speed-h2o-jacket-review/">Montane Lite-Speed H2O Jacket Review</a></li>
+<li><a href="http://www.stevenhorner.com/blog/2010/10/31/routes-my-way/">Routes: My Way</a></li>
+</ul>
+
+
+<h3>RSS Feed</h3>
+
+<p>If you subscribed to the RSS Feed for the site this also will no longer work, this time it&#8217;s not me but Google who have stopped supporting Feedburner. If like me, you love RSS Feeds you can resubscribe by using the link at the top right of the site.</p>
+
+<h3>So why the change &amp; the delay?</h3>
+
+<p>I was sick of the site running slowly, which was the result partly of the host <a href="http://www.godaddy.com">(Godaddy)</a>, the platform <a href="http://www.wordpress.com">(Wordpress)</a> and my configuration of the site. The delay was mainly due to exporting the posts from the Wordpress and losing all the formatting, but the old posts are migrated. What this means is that I can now concentrate on new content, the delay to migrating the site has resulted in 0 posts in the last 6 months. There are several new posts either written or almost complete. I am looking forward to regularly posting again.</p>
+
+<p>Apologies for the disruption, hopefully due to the design of the new site this should not happen again. If you spot any links that do not work or errors please let me know and I will fix them as soon as I can.</p>
+
+<h3>Update 18th August 2013</h3>
+
+<p>Another 8 months and nothing posted. There have been lots of reasons from drive failures and loss of completed posts to back problems and whole host of other things.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Kitty's Wood & Public Rights Of Way]]></title>
+    <link href="http://stevenhorner.github.com/blog/2012/06/06/kittys-wood-public-rights-of-way/"/>
+    <updated>2012-06-06T19:00:12+01:00</updated>
+    <id>http://stevenhorner.github.com/blog/2012/06/06/kittys-wood-public-rights-of-way</id>
+    <content type="html"><![CDATA[<p><img src="http://dl.dropbox.com/u/2657852/website/images/B2-Blocked-A.jpg" alt="Footpath Blocked" /></p>
+
+<p>Something is stirring in many small villages and towns throughout England &amp; Wales. In normally quiet villages, people are angrily discussing the latest happenings in the woods and fields around them. People who normally keep themselves to themselves are beginning to stand up and share their voice. So what&#8217;s causing these normally quiet villagers to break their silence?</p>
+
+<!-- more -->
+
+
+<p>In a word &#8220;Access&#8221; or Public Rights of Way (PROW), in England &amp; Wales there are around 140,000 miles of off-road routes that are classed as Public Rights of Way (PROW), that&#8217;s over 5.5 times around the earth. These are shown on Ordnance Survey Explorer maps in green and Landranger maps in red. To be classified as a PROW a route needs to appear on the &#8220;Definitive maps&#8221; held by the local authorities. This then means that you legally have a right to use the route and the landowner should not obstruct or divert it (<a href="http://www.ramblers.org.uk/info/britain/access-for-walkers-in-britain">see Ramblers page for more information</a>). So why are people becoming angry if they have 140,000 miles of paths to walk. In 2000 the government introduced The Countryside and Rights of Way Act which contained a cut-off date of 1 January 2026 for rights of way not on definitive maps. After this date those paths will be lost to public use. There have been estimates that up to half the walked paths in England &amp; Wales are not recorded. You could find a path that has been walked for generations suddenly lost. 2026 may sound a long way off but add to the fact that almost all local authorities have a backlog of years to add these paths. According to <a href="http://www.grough.co.uk/magazine/2012/05/14/access-group-welcomes-government-plans-to-update-lost-paths-on-maps">Grough</a>, Staffordshire County Council has a 17 year backlog which is set to get worse. Suddenly 2026 isn&#8217;t so far away.</p>
+
+<p>Most of us, myself included don&#8217;t pay too much attention to reports like these until we feel the effects ourselves. Then suddenly there&#8217;s a wake up call, in my case paths I have walked since I first put one foot in front of the other are suddenly barbed wired across and blocked off. I live in a small village in County Durham called Roddymoor, to the South of the village there are woods known as &#8220;Kitty&#8217;s Wood&#8221;, which previously was the site of mining and a coke works. These were landscaped over in the late 1960&#8217;s and the wood was planted and footpaths put in.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/B2-Blocked-B.jpg" alt="Footpath and Stile blocked" /></p>
+
+<p>The land was owned by <a href="http://www.durham.gov.uk/">Durham County Council</a> and leased as Roddymoor Farm and the paths were maintained by the Farm and the Council. Locals from Roddymoor, Crook, Billy Row and the surrounding area walked these paths for decades with no problems. The farm closed a few years ago and the Council took back management of the land, who in these budget cutting times decided to sell the land. The land was put up for auction in 2012 and eventually the land was sold to a few buyers, Kitty&#8217;s Woods included. Shortly after this problems started arising.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/C1-Blocked-A.jpg" alt="Stile &amp; Path Blocked" /></p>
+
+<p>Paths were suddenly blocked with barbed wire and felled trees, walkers became angry and contacted the Council. They were told the paths were not PROW and did not appear on the &#8220;Definitive Map&#8221;, the new landowner was perfectly in his rights to close the paths they had. This will be the first time most will of heard of PROW, Definitive maps, etc. now what do they do. There are still some official PROW through the wood but less than half of the ones people have walked for over 40 years.</p>
+
+<p>I will stress here the new landowner has done nothing wrong, the paths which are on the Definitive maps are open. The Council also can&#8217;t do anything now about these paths, unless they are added to the &#8220;Definitive map&#8221;. The annoying thing to many who have walked these, is that the Council did maintain them, owned the land and never prevented anyone. They could have and should have added the paths as PROW years ago but we can only deal with the present situation.</p>
+
+<p><strong>So what can you do now?</strong></p>
+
+<p>The only option open to walkers prevented access is to fill out a &#8220;Public Right of Way User Evidence Form&#8221; for each path, along with any details you can provide. For a path to be added to the &#8220;Definitive map&#8221; it needs to be have been used for over 20 years. The Council need as many people to fill these out as possible providing as many details as you can. The forms are a nightmare to complete and most would look at requests for grid references and copies of maps and give up. It has taken days to fill out the forms. To make it easier for anyone with no access to mapping or any idea how to find grid references I have provided the forms below to download for each path with the grid references completed and the map with route drawn on. You can download and draw on these, adding any details you like. These should make the process a lot quicker. If you would like a blank form <a href="http://dl.dropbox.com/u/2657852/website/files/User_evidence_form.pdf">click here</a> (Impossible to find on the Council site?)</p>
+
+<p><a href="http://dl.dropbox.com/u/2657852/website/images/OverviewMapLarge.jpg"><img src="http://dl.dropbox.com/u/2657852/website/images/OverviewMapLarge.jpg" alt="Kitty's Wood Path Overview Map" /></a></p>
+
+<p><strong>Key to Map:</strong></p>
+
+<ul>
+<li>Black dashed line = Existing PROW</li>
+<li>Red dashed line = Path NOT marked as PROW</li>
+<li>Purple dashed line = Existing PROW footpath should be bridleway (my opinion)</li>
+</ul>
+
+
+<p>The Downloads below will hopefully be helpful and save time, the path names are made up for my use to reference them. See overview map to help identify which path is which, click the image to make it larger.</p>
+
+<p><strong>Downloads:</strong></p>
+
+<ul>
+<li><a href="http://dl.dropbox.com/u/2657852/website/files/OverviewMap.pdf">Kitty&#8217;s Wood Path Overview Map</a> &lt;&#8211; Above map as a PDF</li>
+<li><a href="http://dl.dropbox.com/u/2657852/website/files/User_evidence_form.pdf">Blank Form</a></li>
+<li><a href="http://dl.dropbox.com/u/2657852/website/files/Definitive_Map_extract.pdf">Durham County Council Definitive Map Extract</a></li>
+<li>Path B2 <a href="http://dl.dropbox.com/u/2657852/website/files/PathB2Form.pdf">Form</a> &amp; <a href="http://dl.dropbox.com/u/2657852/website/files/PathB2Map.pdf">Map</a></li>
+<li>Path C1 <a href="http://dl.dropbox.com/u/2657852/website/files/PathC1Form.pdf">Form</a> &amp; <a href="http://dl.dropbox.com/u/2657852/website/files/PathC1Map.pdf">Map</a></li>
+<li>Path E1 <a href="http://dl.dropbox.com/u/2657852/website/files/PathE1Form.pdf">Form</a> &amp; <a href="http://dl.dropbox.com/u/2657852/website/files/PathE1Map.pdf">Map</a></li>
+<li>Path F1 <a href="http://dl.dropbox.com/u/2657852/website/files/PathF1Form.pdf">Form</a> &amp; <a href="http://dl.dropbox.com/u/2657852/website/files/PathF1Map.pdf">Map</a></li>
+<li>Path F1B <a href="http://dl.dropbox.com/u/2657852/website/files/PathF1BForm.pdf">Form </a> &amp; <a href="http://dl.dropbox.com/u/2657852/website/files/PathF1BMap.pdf">Map</a></li>
+<li>Path H1 <a href="http://dl.dropbox.com/u/2657852/website/files/PathH1Form.pdf">Form</a> &amp; <a href="http://dl.dropbox.com/u/2657852/website/files/PathH1Map.pdf">Map</a></li>
+<li>Existing Path 43 <a href="http://dl.dropbox.com/u/2657852/website/files/Path43Form.pdf">Form</a> &amp; <a href="http://dl.dropbox.com/u/2657852/website/files/Path43Map.pdf">Map</a> &lt;&#8211;Should be a Bridleway</li>
+</ul>
+
+
+<p><strong>Further Information:</strong></p>
+
+<ul>
+<li><a href="http://northernpies.blogspot.co.uk/2012/06/trouble-in-kittys-wood.html">Mike Knipe recent post on Kitty&#8217;s Wood</a></li>
+<li><a href="http://www.durham.gov.uk/Pages/prow.aspx">Durham County Councils Online Definitive Map</a></li>
+<li><a href="http://www.durham.gov.uk/Pages/Service.aspx?ServiceId=613">Durham County Councils PROW section</a></li>
+<li><a href="http://www.ramblers.org.uk/Volunteer/News/ROWconsultation">The Ramblers - Don&#8217;t Lose Your Way Campaign</a></li>
+<li><a href="http://www.ramblers.org.uk/mediacentre/archive/2003/crimepaths">The Ramblers - DEFRA and public rights of way</a></li>
+<li><a href="http://www.ramblers.org.uk/info/britain/access-for-walkers-in-britain">The Ramblers - Access for Walkers</a> &lt;&#8211; Good overview article</li>
+<li><a href="http://www.grough.co.uk/magazine/2012/05/14/access-group-welcomes-government-plans-to-update-lost-paths-on-maps">Grough - Access group welcomes Government plans to update lost paths on maps</a></li>
+<li><a href="http://www.grough.co.uk/magazine/2010/03/25/paths-face-extinction-unless-government-adopts-plan">Grough - Paths face extinction unless Government adopts plan</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Deerstalker 2012 Run - A Muddy Romp]]></title>
+    <link href="http://stevenhorner.github.com/blog/2012/04/27/deerstalker-2012-run-a-muddy-romp/"/>
+    <updated>2012-04-27T21:05:50+01:00</updated>
+    <id>http://stevenhorner.github.com/blog/2012/04/27/deerstalker-2012-run-a-muddy-romp</id>
+    <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/41153510" width="1024" height="575" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p>I finally returned several years after running the first Deerstalker 5k, this time talking Traci into running it with me. Watch the video above for an idea of the fun had, the HD version is better.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A First Year Walking - Traci]]></title>
+    <link href="http://stevenhorner.github.com/blog/2012/01/22/a-first-year-walking-traci/"/>
+    <updated>2012-01-22T22:42:55+00:00</updated>
+    <id>http://stevenhorner.github.com/blog/2012/01/22/a-first-year-walking-traci</id>
+    <content type="html"><![CDATA[<p>Lots of outdoors bloggers have been featuring guest posts over the last year. I thought it would be a good idea to ask <a href="http://www.twitter.com/traci_howarth">Traci</a> (my other half) to write about her first real year walking in the outdoors. It&#8217;s all totally new to her&#8230;over to <a href="http://www.twitter.com/traci_howarth">Traci</a>.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Scotland-June-2011-051.jpg" alt="" /></p>
+
+<!-- more -->
+
+
+<p>Up until April 2011 Saturdays and Sundays were spent in the local getting drunk and having hangovers for work on a Monday. <img src="http://dl.dropbox.com/u/2657852/website/images/Striding-Edge-Swirral-Edge-April-2011-050.jpg" alt="" /></p>
+
+<p>After meeting Steven in the February things started to gradually change. After my first walk in March to the Elephant trees in Weardale with him, then trying to take two of my kids on the same walk a few weeks later and getting lost in torrential rain. Luckily Steven was following to get us on the right track. I then went with him and walked up the Langdales Pikes (how sad, not knowing there would be water on the path haha). Then Striding Edge which I couldn&#8217;t understand why people were walking along the side instead of the ridge, which is all part of the fun. Coming down Catstye Cam we were skidding down a steep bank of scree, watched by a couple, bet they thought we were mad.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Glaramara-and-Allen-Crags-065.jpg" alt="" /></p>
+
+<p> Glaramara and Allen crags were next, after walking up a steep bank to a gate then sitting down to take my jacket off because I was hot, there was an awful smell. Steven said it was me, yeah right. After sitting for a few minutes resting we looked down at our feet and there was a dead sheep hence the smell haha blind as bats. As we got further up Steven decided he was going to run to the top of another small mountain no way was I, so I waited sheltering from the wind, which was blustery on the top. Coming down we ran, Steven had his buff on his head. He looked exactly like the roadrunner haha. To cool off we paddled in deep pools, where Steven got a drink in his kuksa from a waterfall.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Scotland-June-2011-056.jpg" alt="" /></p>
+
+<p> After walking in the lakes, Steven took me to Scotland camping for his birthday in June. Ben Nevis and the CMD arete was my next challenge. We walked a different way to everyone else wading through heather and been attacked by millions of flies it was a hot day, so really hard going. I didnt have the energy to talk, which probably pleased Steven. As we started climbing up to Cairn Mor Dearg there was an old woman, I was really impressed she had got that far, I was really tired by then and had to climb up to Ben Nevis after that. The CMD arete was great to climb, loved every minute of it, although it was hard work i dont know where the CMD arete ended and Ben Nevis began. I just know climbing the last bit to Ben Nevis was really steep and cloud started covering everything behind us, was quiet eeiry (save yourself i shouted to him haha) not long after we reached the top we had a rest and something to eat before setting off to walk back down the tourist route. It&#8217;s a strange mountain, red hot walking up, got a bit sunburn on my neck, really cold and windy on the top, then not long after we set off to walk back down there was a large patch of snow. Pleased we didn&#8217;t walk up that way though, it was quite boring.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Scotland-June-2011-099.jpg" alt="" /></p>
+
+<p> July and Scafell Pike the highest mountain in England, lots of people about and Stevens fall haha (not funny Traci). Not a very memorable mountain apart from the fall, we walked to the top, remember my knees hurting on the way down and an ignorant group of foreign young people who had their packs blocking the path on the way down so it was hard to get round, thats when Steven wobbled on a boulder and fell off, god my sides were aching with laughing he hurt his knee in the process, think he got a bit sick of me as I laughed all the way back to the car.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Scotland-September-2011-047.jpg" alt="" /></p>
+
+<p> Bidean nam Bian September, I find the first part of climbing a mountain is the hardest. I get out of breath very quickly, on this day there was a man with short arms climbing in front of us. I kept thinking how strong he was, he wasn&#8217;t even out of breath and here I was stopping for a rest constantly. I thought it was hard, which i like. There was a ledge sticking out which we climbed onto for photos. After reaching the top we decided while we were there it would be stupid not to climb up Stob Coire Sgreamhach. On the way down there is a kind of scramble drop, if that makes sense, we had to wait till a couple climbed up before we could go down. The lost Valley was like a place out of the Land that time forgot. I remember my knees were really hurting walking back to the car and the last bit felt like it was never going to end, that&#8217;s the worst my knees have felt. As we got back to the car there were bus loads of holiday makers getting ther photos taken with the Three Sisters behind them.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-052.jpg" alt="" /> <img src="http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-045.JPG" alt="" /></p>
+
+<p> Aonagh Eagach November, my all time favourite. Windy when we set off, coat on then off all the way to the top. Scrambling over the tops we only passed three people and saw a couple in the distance. A really hard scramble I thought and after climbing down the side of one part, I think Steven was trying to finish me off, a nearly fell off. Spinning round and looking down at a drop I thought this is it, then Steven climbed back down and pushed me back into the mountain. I was still stuck, it was slippy underfoot and i thought if i take my foot out of here I am still going to fall, the rock was really muddy and I remember saying my £160 coat is gonna be covered in muck, and my nose is running. What a stupid thing to think about, while my arms were wrapped round a rock, but as you can tell I made it back to the top. After having lunch we set off on the rest of the scramble. Darkness was setting in and we still had to decide which way to climb down, I wasn&#8217;t bothered whichever was the quickest, Steven decided we would try Clachaig gulley. &#8220;I can see the pub from here&#8221;, what a long way down. I was annoying Steven sliding, getting my feet stuck on rocks and him having to catch me and laughing at nothing in particular, &#8220;I can still see the pub from here&#8221;. I was getting bored and the end wasn&#8217;t getting any nearer, it felt like hours before we reached the bottom and it was dark. Hallelujah, nice pint of cider in the pub, before setting off and walking three miles with head torches in torrential rain and pitch blackness back to the car.</p>
+
+<p> End of 2011 and start of 2012 on top of Killhope Law with Steven in the freezing cold with a small bottle of whisky, seeing in the New Year. My weekend binges in the local are no more, found two things I enjoy doing more 1) Spending time with Steven 2) Walking up Mountains.</p>
+
+<p> Looking forward to this year, I am going to run the <a href="http://www.ratraceadventure.com/notorious/dsindex.html">Deerstalker</a> race in March in fancy dress which should be a laugh. I will be like a pig in mud, getting used to being dirty, makes a refreshing change from dresses and high heels.</p>
+
+<p> My first wild camp in April on Skye, don&#8217;t know what to expect. I&#8217;ve only camped on a campsite with showers and lights. Told Steven I am taking my foundation and mascara which he says I dont need (but I do ), don&#8217;t want to scare the wildlife haha. Hopefully more climbing mountains and reaching a higher level than <a href="http://www.twitter.com/stevenhorner">Steven</a> and <a href="www.twitter.com/joncraddock">Jonathan</a> rock climbing ( thats a joke ). I will never be better than them. Followed by a summer holiday, somewhere hot with a small mountain in maybe ; ) of course there will be a mountain in it haha.</p>
+
+<p> <em>Traci hasn&#8217;t got a blog of her own but you can follow her on <a href="http://www.twitter.com/traci_howarth">Twitter</a>.</em></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Focus, Fun and Learning]]></title>
+    <link href="http://stevenhorner.github.com/blog/2012/01/18/focus-fun-and-learning/"/>
+    <updated>2012-01-18T21:04:49+00:00</updated>
+    <id>http://stevenhorner.github.com/blog/2012/01/18/focus-fun-and-learning</id>
+    <content type="html"><![CDATA[<p>I&#8217;m not setting resolutions for 2012, the plan for the year can be summed up with:</p>
+
+<blockquote><p>Focus, Fun and Learning</p></blockquote>
+
+<p>Rather than blathering on, I am going to try to keep my posts short (lightweight) as much as possible this year. Sometime in the next couple of months you will see some changes on this site, but for now that&#8217;s all I&#8217;m saying.</p>
+
+<!-- more -->
+
+
+<p><strong>Planned trips/activities </strong></p>
+
+<ul>
+<li>Scotland Winter Walking (February)</li>
+<li>Run (March) - I have entered a short offroad race</li>
+<li>Walking Skye (April)</li>
+<li>Mountain Leader Training (May)</li>
+<li>Relaxing Summer Holiday (June) - Maybe climb a mountain</li>
+<li>UL Summer Summit (July/August)</li>
+<li>Mountain Leader Assessment (September) - If enough experience</li>
+</ul>
+
+
+<p><strong>Climbing</strong></p>
+
+<p>Currently top roping indoors at around about 6b, intend to lead climb from February, then progress to rock outdoors in Spring/Summer.</p>
+
+<p><strong>A few things I hope to learn more about:</strong></p>
+
+<ul>
+<li>Dry stone walling</li>
+<li>Bushcraft &amp; wilderness skills</li>
+<li>Geology Flora &amp; fauna</li>
+</ul>
+
+
+<p><strong>Outdoor books on my 2012 reading list:</strong></p>
+
+<p>*Disclaimer these are affiliate links</p>
+
+<ul>
+<li><a href="http://www.amazon.co.uk/gp/product/0007424604/ref=as_li_ss_tl?ie=UTF8&amp;tag=faitocom-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=0007424604">Ultimate Navigation Manual - Lyle Brotherton</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=faitocom-21&amp;l=as2&amp;o=2&amp;a=0007424604" alt="" /></li>
+<li><a href="http://www.amazon.co.uk/gp/product/071123180X/ref=as_li_ss_tl?ie=UTF8&amp;tag=faitocom-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=071123180X">Granite and Grit: A Walker&#8217;s Guide to the Geology of British Mountains - Ronald Turnbull</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=faitocom-21&amp;l=as2&amp;o=2&amp;a=071123180X" alt="" /></li>
+<li><a href="http://www.amazon.co.uk/gp/product/0954151100/ref=as_li_ss_tl?ie=UTF8&amp;tag=faitocom-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=0954151100">Hill Walking: The Official Handbook of the Mountain Leader and Walking Group Leader Schemes</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=faitocom-21&amp;l=as2&amp;o=2&amp;a=0954151100" alt="" /></li>
+<li><a href="http://www.amazon.co.uk/gp/product/095415116X/ref=as_li_ss_tl?ie=UTF8&amp;tag=faitocom-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=095415116X">Rock Climbing: Essential Skills &amp; Techniques (Mountain Leader Training Handb) - Libby Peter</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=faitocom-21&amp;l=as2&amp;o=2&amp;a=095415116X" alt="" /></li>
+<li><a href="http://www.amazon.co.uk/gp/product/0715328425/ref=as_li_ss_tl?ie=UTF8&amp;tag=faitocom-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=0715328425">The Complete Guide to Climbing and Mountaineering - Pete Hill</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=faitocom-21&amp;l=as2&amp;o=2&amp;a=0715328425" alt="" /></li>
+<li><a href="http://www.amazon.co.uk/gp/product/0954151135/ref=as_li_ss_tl?ie=UTF8&amp;tag=faitocom-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=0954151135">Winter Skills: Essential Walking and Climbing Techniques</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=faitocom-21&amp;l=as2&amp;o=2&amp;a=0954151135" alt="" /></li>
+<li><a href="http://www.amazon.co.uk/gp/product/0723251754/ref=as_li_ss_tl?ie=UTF8&amp;tag=faitocom-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=0723251754">The Wild Flower Key (Revised Edition) - Francis Rose</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=faitocom-21&amp;l=as2&amp;o=2&amp;a=0723251754" alt="" /></li>
+<li><a href="http://www.amazon.co.uk/gp/product/0007236859/ref=as_li_ss_tl?ie=UTF8&amp;tag=faitocom-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=0007236859">Collins Complete Guide - British Trees: A photographic guide to every common species</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=faitocom-21&amp;l=as2&amp;o=2&amp;a=0007236859" alt="" /></li>
+<li><a href="http://www.amazon.co.uk/gp/product/1551051222/ref=as_li_ss_tl?ie=UTF8&amp;tag=faitocom-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=1551051222">Bushcraft: Outdoor Skills and Wilderness Survival - Mors Kochanski</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=faitocom-21&amp;l=as2&amp;o=2&amp;a=1551051222" alt="" /></li>
+<li><a href="http://www.amazon.co.uk/gp/product/1905264941/ref=as_li_ss_tl?ie=UTF8&amp;tag=faitocom-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=1905264941">The Natural Navigator - Tristan Gooley</a><img src="http://www.assoc-amazon.co.uk/e/ir?t=faitocom-21&amp;l=as2&amp;o=2&amp;a=1905264941" alt="" />
+I would recommend watching Alan Titchmarshs - <a href="http://www.amazon.co.uk/gp/product/B0002XOZQU/ref=as_li_ss_tl?ie=UTF8&amp;tag=faitocom-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=B0002XOZQU%22>British%20Isles&lt;/a>&lt;img%20src=%22http://www.assoc-amazon.co.uk/e/ir?t=faitocom-21&amp;l=as2&amp;o=2&amp;a=B0002XOZQU&#8221;>British Isles: A Natural History</a> if you didn&#8217;t see it on the BBC in 2004, excellent in conjunction with Ronald Turnbulls <a href="http://www.amazon.co.uk/gp/product/071123180X/ref=as_li_ss_tl?ie=UTF8&amp;tag=faitocom-21&amp;linkCode=as2&amp;camp=1634&amp;creative=19450&amp;creativeASIN=071123180X">Granite and Grit</a>.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2011  - Where did it go?]]></title>
+    <link href="http://stevenhorner.github.com/blog/2012/01/11/2011-where-did-it-go/"/>
+    <updated>2012-01-11T10:30:40+00:00</updated>
+    <id>http://stevenhorner.github.com/blog/2012/01/11/2011-where-did-it-go</id>
+    <content type="html"><![CDATA[<p><img src="http://stevenhorner.github.com/pics/Mamores%20July%202011%20001.JPG" alt="" /></p>
+
+<p>I wrote a long post looking back at 2011, reviewing gear, trips and all sorts of stuff. I decided to bin it though and instead the main things to take from the year were the excellent trips with <a href="http://www.twitter.com/philoutdoors">Phil</a>, <a href="www.twitter.com/tramplite">Colin</a>, <a href="http://www.twitter.com/tookiebunten">Tookie</a>, my dad &amp; of course <a href="http://www.twitter.com/traci_howarth">Traci</a>:</p>
+
+<!-- more -->
+
+
+<ul>
+<li><a href="http://www.stevenhorner.com/?p=1540">Cairngorms Everything but the kitchen sink</a></li>
+<li>Cairngorms with <a href="http://www.twitter.com/philoutdoors">Phil</a>, <a href="www.twitter.com/tramplite">Colin</a> &amp; <a href="http://www.twitter.com/tookiebunten">Tookie</a> - <a href="http://www.stevenhorner.com/?p=1476">The Mamores </a></li>
+<li>Ben Nevis via CMD</li>
+<li><a href="http://www.stevenhorner.com/?p=1358">Ben Nevis in Winter</a></li>
+<li><a href="http://www.stevenhorner.com/?p=1568">Aonach Eagach</a></li>
+<li>Bidean nam Bian</li>
+</ul>
+
+
+<p>All of those trips were with others, an exception to this would be my wander onto the <a href="http://www.stevenhorner.com/?p=1445">Black Cuillin</a> prior to the start of the <a href="http://www.stevenhorner.com/?p=1445">Highland ZigZag</a> which was stunning.</p>
+
+<p>When it comes to gear, the most notable thing is the lack of it. During 2011 I barely bought any, yes I received a few free things to test before saying No to anymore. It can be hard not to spend your hard earned money on more gear, when everywhere you look you are being told how fantastic this, that or the other is but generally I resisted. Possibly the reason for this is my focus on my finances and my desire to become debt free, the key to this is <a href="http://www.youneedabudget.com/">YNAB</a> which I would highly recommend checking out.
+<img src="http://farm9.staticflickr.com/8143/7456924492_58237a8972_b.jpg" alt="" /></p>
+
+<h2>What did I learn</h2>
+
+<ul>
+<li>I enjoy walking with others more than solo (which I do still enjoy).</li>
+<li>I no longer want I.T. to be my main job and would like to work in the outdoors in some way.</li>
+<li>I don&#8217;t need that new shiny kit.</li>
+<li>Lightweight backpacking philosophy can be transfered to the rest of my life (less stuff).</li>
+<li>Enjoy yourself no matter what!</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The First Real Snow of the Winter]]></title>
+    <link href="http://stevenhorner.github.com/blog/2011/12/10/the-first-real-snow-of-the-winter/"/>
+    <updated>2011-12-10T18:00:13+00:00</updated>
+    <id>http://stevenhorner.github.com/blog/2011/12/10/the-first-real-snow-of-the-winter</id>
+    <content type="html"><![CDATA[<p><img src="http://dl.dropbox.com/u/2657852/website/images/Killhope-December-2011-040.jpg" alt="" /></p>
+
+<p>I had been planning a weekend wildcamping in the lake district but a dodgy shoulder led to a change of plans. Earlier in the week there was an inch of snow at home, sadly it has all melted now. My inbuilt Snowdar came into action today and after throwing a few things into my pack I was heading along the A689 West up Weardale.</p>
+
+<!-- more -->
+
+
+<p>Earlier in the week the entire top of the dale looked brilliant white, not so anymore but it was still white. The further up the dale I drove the more wintery things were looking. Once the fork towards Nenthead and Alston was taken it was another world and I had a big smile on my face. <img src="http://dl.dropbox.com/u/2657852/website/images/Killhope-December-2011-001.jpg" alt="" /> <img src="http://dl.dropbox.com/u/2657852/website/images/Killhope-December-2011-003.jpg" alt="" /></p>
+
+<p>I pulled into the car park at Killhope Wheel and was soon heading up through the tree stumps which is all that remains of the wood that was here until it was felled a few months ago. There was no sign of anyone else daft enough to be heading into the white cloud above. Once the the open access land was reached I headed directly towards the summit of Killhope law, using more tree stumps and a beck to handrail. <img src="http://dl.dropbox.com/u/2657852/website/images/Killhope-December-2011-007.jpg" alt="" /></p>
+
+<p>When I say directly, it isn&#8217;t easy to walk directly over this terrain in the summer, nevermind when its covered in snow and every few feet you fall down a hole or over a tree stump. I didn&#8217;t take a map, I&#8217;ve walked this a few times and know the way. I did have the map on my phone and a compass. It would be fairly hard to get too lost up here for long if you have a compass, just head South and you will hit the main road to Nenthead, head East and hit the road to Allenheads eventually. <img src="http://dl.dropbox.com/u/2657852/website/images/Killhope-December-2011-011.jpg" alt="" /></p>
+
+<p>The trip to the summit was quicker than expected and as is now customary Kuksa summit pictures were taken.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Killhope-December-2011-021.jpg" alt="" /> <img src="http://dl.dropbox.com/u/2657852/website/images/Killhope-December-2011-024.jpg" alt="" /></p>
+
+<p>I then headed towards what is called a shooters hut, it&#8217;s abandoned now, either that or they are particularly hard up. I stopped to take a few pictures of the impressive snow drifts before running a short distance down the track until a public right of way heads back over the ridge and around to where the Open Access land started. <img src="http://dl.dropbox.com/u/2657852/website/images/Killhope-December-2011-043.jpg" alt="" /></p>
+
+<p>As I descended back towards the road another set of footprints had walked a few hundred yards up the hill before turning around and heading back, shame they missed a nice walk. I loved this walk in the snow, not every trip needs to be an epic. This was only 3.5 miles.</p>
+
+<iframe src="http://www.shareyouradventure.com/map/perma/3859/iframe" width="600" height="350"></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Aonach Eagach & Two Potentially Dangerous Errors]]></title>
+    <link href="http://stevenhorner.github.com/blog/2011/12/09/aonach-eagach-two-potentially-dangerous-errors/"/>
+    <updated>2011-12-09T18:39:08+00:00</updated>
+    <id>http://stevenhorner.github.com/blog/2011/12/09/aonach-eagach-two-potentially-dangerous-errors</id>
+    <content type="html"><![CDATA[<p><img src="http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-045.jpg" alt="" />
+A couple of cheap hotel deals saw me driving towards Glencoe after breaking the journey North overnight at the Travelodge in Dumbarton. The forecast was far from encouraging, gusts in excess of 60mph and rain. Each time I drive through Glen Coe I dream of walking the Aonach Eagach and every time something happens to stop me. The previous trip I had managed to thwart the Cairngorm demons that did the same in the East of Scotland.</p>
+
+<!-- more -->
+
+
+<p>We were over an hour later than intended after snoozing the alarm one too many times. Recently I&#8217;ve stopped making any rigid plans and basically making it up when I get to a location. As I drove over Rannoch Moor and Buachaille Etive Mor came into view, it was to be option 1. The wind was lower than I expected and an option 2 jumped into my head, screaming to be done, this was the Aonach Eagach. The decision was made to drive to the foot of the track up to Am Bodach and check the conditions.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-006_1.jpg" alt="" /></p>
+
+<p>The Aonach Eagach was clear of cloud, as were almost all the Munros in the area except for Bidean nam Bian. Things were looking good but the conditions at the top could be considerably different to the sheltered glen. We headed up the steep track towards Am Bodach, I agreed with Traci that we would make a decision once we reached the summit and then again at Meall Dearg.We weren&#8217;t going to take any chances on the ridge if the conditions didn&#8217;t look good.
+<img src="http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-038.jpg" alt="" /></p>
+
+<p>Strangely the higher we climbed the more the wind receded, by the time we made it to Meall Dearg, there was barely any wind. No clouds were heading our direction either, we had a window. The only thing I was slightly worried about was the daylight.
+<img src="http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-049.jpg" alt="" /></p>
+
+<p>When walking alone it&#8217;s easy to judge my own pace even over difficult terrain but when walking with others it&#8217;s not so easy. Traci is fit and far from slow so we set off along the Aonach Eagach. We made good progress passing 3 people coming towards us, who didn&#8217;t look particularly happy.By about half way I made a comment that it was far easier than I was expecting. Yes there were drops down into the glen below and some climbs up and down but nothing that felt difficult or dangerous.</p>
+
+<p>Maybe I spoke too soon. I waited for Traci and looked up at a longish climb upwards and said &#8220;this may get fun&#8221;, while I was waiting I noticed a very obvious path to my right which descended then joined a bit further along or so it appeared. This was error number 1. I led us around the right (North) side of the ridge. As we descended it became increasingly wet, mossy and slippy and we were descending more than I would of expected. I am not sure what went through my mind to take this route, it&#8217;s a ridge route why did I descend to one side. As we descended, the route became narrower and even wetter until there wasn&#8217;t really a route. I could still see what had looked like a path heading back up further along. But by now I would guess we were at a higher grade than scrambling, it felt like climbing. I was leading the way, then trying to help Traci place her feet and hands. We appeared to be almost at the bottom of &#8220;route&#8221; but there was a very steep, wet and slippy down climb onto a very narrow grassy ledge. I made it down without any problems but Traci is shorter and struggled and felt she was slipping. She lost her grip with her right hand and foot, swinging round while clinging on with her left hand. I can remember the moment perfectly, it was almost like everything slowed down around me. Luckily I was very close and pressed her back into the rock helping her find something to grip. <img src="http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-055.jpg" alt="" /></p>
+
+<p>Traci like myself was strangely calm considering she could of very easily of fallen. For a few seconds I think Traci was slightly shook up (as you would expect) and didn&#8217;t want to move her hand . Yet less than a minute later she continued on as if nothing had happened. Most people would probably of frozen with fear and refused to move, clearly Traci is not most people. A few minutes later we were back on the ridge looking back at where we should of walked. I have no idea why I chose to go around the side or even if that really is a route. <img src="http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-057.jpg" alt="" /> <img src="http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-058.jpg" alt="" /> <img src="http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-060.jpg" alt="" /></p>
+
+<p>The pinnacles that followed, one of which is the grade 2 I believe felt tame by comparison. Near the end of the ridge we could see four people heading for Sgorr nam Fiannaidh, we weren&#8217;t far behind them but couldn&#8217;t see them when we reached the summit. That was the Aonach Eagach over but everyone knows it&#8217;s the descent when most accidents happen and we couldn&#8217;t relax yet the Clachaig is still some distance away. <img src="http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-068.jpg" alt="" /></p>
+
+<p>I had read ages ago about the gulley down to the Clachaig, several people had different opinions on it. Some saying it&#8217;s dangerous and should be avoided (deaths have happened), while others think there is nothing wrong with it. I decided to take a look at it, if it looked too steep or difficult we would head back up and head further long and descend via the col before the Pap of Glencoe. The path is cairned and well marked higher up and we decided we would descend the gulley (the path next to the gulley). This was a mistake (error number 2), it wasn&#8217;t particularly difficult or in the dry weather, very slippery. It was just very slow going, Traci was becoming tired and decided it a good idea to slide at one point down some rock.
+<img src="http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-076.jpg" alt="" /></p>
+
+<p>I&#8217;m not sure it would be an exageration to say it took as long to descend the gulley to the Clachaig, as it did to cross the Aonach Eagach. We were beginning to think the pub was a mirage. We reached the grass and the road at the bottom just as the last of the of the light went. Descending in darkness would of been dangerous.</p>
+
+<p>We still had the walk along the road to the car in the dark but we had earned a pint and a rest. Reluctantly we left the main hotel bar, the climbers bar was closed for refurbishments. It was now drizzling, waterproofs were slipped into and head torches worn. The route march back to the car passed happily uneventfully.</p>
+
+<p>We had slightly more of an adventure than I had intended, lessons were learned but I still have no idea why I didn&#8217;t stick to the ridge. I have a GPX file of our tracks, but it&#8217;s hard to read on the map. The 1:10k maps which don&#8217;t have contours may help to identify exactly where I made a detour.</p>
+
+<p>I will be returning at least once next year in the summer to walk the ridge correctly, possibly in the winter too.</p>
+
+<iframe src="http://www.shareyouradventure.com/map/perma/3857/iframe" width="600" height="350"></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cairngorms - Everything but the kitchen sink]]></title>
+    <link href="http://stevenhorner.github.com/blog/2011/12/03/cairngorms-everything-but-the-kitchen-sink/"/>
+    <updated>2011-12-03T22:22:59+00:00</updated>
+    <id>http://stevenhorner.github.com/blog/2011/12/03/cairngorms-everything-but-the-kitchen-sink</id>
+    <content type="html"><![CDATA[<p><img src="http://dl.dropbox.com/u/2657852/website/images/Cairngorms-November-2011-040.jpg" alt="" /></p>
+
+<p>Day 1 = 1 mile <br>
+Day 2 = 16 miles <br>
+Day 3 = 22 miles <br>
+Total = 39 miles <br>
+Munros = 2</p>
+
+<p>Last year it seamed every other week I was out walking with Phil Turner, both of us have been so busy this year that the trips have been few and few far between until recently. Remarkably I emailed a date when I was free and the stars must of aligned and Phil was also free. A couple of weeks later and I arrived at Turner Towers to see him watching a live video of @pilgrimchris walking through the woods and responding to messages Phil was typing to him. This was a demonstration of Bambuser, impressive if you have a decent signal (I rarely do where I walk).
+<img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20111112_081712.jpg" alt="" /></p>
+
+<!-- more -->
+
+
+<p>The original plan had been to walk an EPIC Cairngorms Colin Ibbotson route, but we needed nice weather to do it justice. The forecast was for very strong winds and low cloud, a change of plan was needed. On route North we decided to head towards Braemar and the Linn of Dee. I had never driven to Braemar before, the road is a bit of a nightmare and I&#8217;ve no idea how they ever get any skiing surely the road is permanenty shut. Eventually we arrived at the Linn of Dee around 3pm (£2 parking). The plan which had evolved on the way was to camp in some trees a mile from the car, it was beginning to get dark and windy. Camping in trees in the wind, probably isn&#8217;t the best idea (we survived). The spot was perfect, sheltered, flat and close to the the river, a few minutes after arriving I had the Trailstar pitched and Phil had his Gossamer Gear Tarp up. It was starting to get dark and it wasn&#8217;t long before food was eaten and we retired to our shelters.</p>
+
+<p>This time of year, the nights are long, very long. Eventually after listening to a few Podcasts I dozed off and after what seamed like a week I woke expecting it to be 6am, only to find it was 1am. What do you do when you find yourself wide awake wild camping with several hours spare. Unfortunately for me I had forgotten to bring my Kindle, I tried reading on my phone but after it slipped out my hand a few times hitting me in the face I gave up on that. I listened to music for a while, but got bored of that too (I really need to update my Spotify playlists). Eventually I gave up with digital distractions and listened to the wind and the river, my thoughts drifted to plans for the future and lots of different ideas. At some point I nodded off and woke a few hours later and waited for the sound of movement from Phil, luckily it wasn&#8217;t too long.</p>
+
+<p>After our breakfasts we had a quick discussion and decided to stay low for the day, due to the MWIS forecast for gales again. This included the classic TGO Challenge FWA route through Glen Feshie which lots of people rave about. The majority of the days walking until we reached Glen Feshie is quite barren and not the sort of terrain I normally enjoy, the North Pennines and North York Moors are on my doorstep and maybe this familiarity with bleak landscapes shape my regular desire for &#8220;pointy bits&#8221;. Possibly it&#8217;s the reading list I have or the walking companions but I am now noticing far more than in the past. Rather than rushing from point to point, walks certainly feel more like a journey with discoveries on route. Actually walking with the map in hand and constantly picking things out as you pass helps with this, previously I tended to just check my position on an O.S. map on my phone at regular intervals but the smaller area shown doesn&#8217;t allow you to spot things in the distance. I always carry a map but often never look at it other than in camp or at a food stop. Making the route up as we walked added something to this trip.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/Cairngorms-November-2011-008.jpg" alt="" /></p>
+
+<p> White Bridge (presumably it was once white?) was passed a couple of miles after setting off. We then headed for Red House with its warning signs. It has a nice little platform bodged together if you fancy sleeping here. The building looked fairly sound if a little drafty with no door but I have no door on the Trailstar.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/Cairngorms-November-2011-009.jpg" alt="" /></p>
+
+<p> Our route then followed Geldie Burn and the continuation of the very obvious track, my map reading skills weren&#8217;t exactly needed yet. We stopped for tensies (like elevensies but earlier, a food stop) opposite the ruins of Geldie Lodge where the track becomes a bit narrower and shortly after boggier. The next section from Geldie Lodge to Eidart Bridge is a bit moist in places but with some pacer pole olympic jumps most can be avoided. Eidart bridge isn&#8217;t the nicest looking bridge it looks like some scaffolding across the river but the falls beneath are beautiful and could make for some nice photos on a less grey day. The target for dinner (lunch to those strange Southerners) was what Phil described as a horse hut, where he had seen wild horses previously. Horses with a hut don&#8217;t sound very wild to me but I decided not to question him about it. The &#8220;hut&#8221; was of the wild camping variety, it had 1.5 walls and a roof. I&#8217;ve noticed even after 2 years of knowing Phil he is still easily pleased with Horner and corner references. He took great delight in taking a picture of me eating my dinner in the corner of the 1.5 walled &#8220;hut&#8221;.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/Cairngorms-November-2011-024.jpg" alt="" /></p>
+
+<p> We started to see trees lining the water side as we entered Glen Feshie and we were greeted by several deer, unfortunately they didn&#8217;t look too magnificent due to only their guts remaining at the side of the track. They looked quite fresh, presumably shot and gutted recently. I was beginning to wonder why people liked Glen Feshie so much, but the further we walked the more I understood. The area just South of Ruigh Aiteachain looked stunning as the sun started to dip behind the hills and a wide open area presented itself.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/Cairngorms-November-2011-025.jpg" alt="" /></p>
+
+<p> Ruigh Aiteachain bothy is a 2 roomed building with sleeping platform/bunks in one room and the fire in the other. I have visited several bothy but have never slept in any. Phil wasn&#8217;t too thrilled when I mentioned this, he muttered something about mice and it being a busy bothy not far from a road. He then rushed out to try the &#8220;luxury&#8221; toilet. The &#8220;luxury&#8221; toilet is a drain with a kermode above, you have to collect a bucket of water first from above. You really wouldn&#8217;t want to be in a rush, best not to eat too many Mountain House meals.</p>
+
+<p> Shelters were again pitched, this time about 100 yards from the bothy. We had walked all day and not seen a single person. There was evidence that people were staying in the bothy that night, several carrier bags of food and gear hanging up. Probably another reason Phil ran from the building, the people not the food. As the sun retreated further and the darkness began to take hold, a couple of people appeared at the bothy. They hung around outside for quite a while before disappearing inside, while we sat leaning against trees reading. Shortly after we retreated to our own domains where I dozed listening to music. Just before 7pm I saw a headtorch approaching the bothy quickly. Soon after I began to hear loud noises inbetween the songs I was listening to. I realised it wasn&#8217;t Phil having a party under his tarp, someone in the bothy was playing a guitar. I think the guitar playing went on for ages, I am pleased we didn&#8217;t sleep in there.</p>
+
+<p> Again I woke up in the early hours, this time thinking someone had turned a spotlight on or the bothy dwellers had decided to add a light show to accompany the guitar. Once the sleep was rubbed from my eyes, the spotlight was revealed as the moon. The next hour was spent watching stars in the clear sky, at some point sleep returned and I woke at 4am and made some coffee. 2 hours until the agreed wakeup time, lost in my own thoughts the time disappeared surprisingly quickly.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/Cairngorms-November-2011-032.jpg" alt="" /></p>
+
+<p> The only problem with the route we had chosen was that the only obvious options open to us was either crossing over the mountains or returning the way we had came. We both wanted to gain some height, we left the overnight spot in the early morning darkness and easily found the vehicle track heading up next to Allt Choire Chaoil. As the height was gained, the wind increased, an inviting path to our left lead to a small hill (sub 900m). I continued on after a few glances from Phil. I hate tracks that you can see for what seams like miles, this was one of those. Views of Meall Dubhag distracted my attention from the wind and the track.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/Cairngorms-November-2011-049.jpg" alt="" /></p>
+
+<p> Once above 900m the area became relatively flat but here the plateau is covered with peat hags, unlike the rocky plateau around Ben Macdui. On this occassion we were pleased of the shooters track, avoiding lots of boggy messiness. We stopped for food as the track crossed Coachan Dubh, at this point Phil realised the mice he had complained about inhabiting bothies had taken their revenge. While he was sleeping they had helped themselves to his Kit Kat, he still ate the remains (of the Kit Kat not the mice).
+ <img src="http://dl.dropbox.com/u/2657852/website/images/Cairngorms-November-2011-047.jpg" alt="" /> <img src="http://dl.dropbox.com/u/2657852/website/images/Cairngorms-November-2011-057.jpg" alt="" /></p>
+
+<p> So far we were lucky and been afforded good visibility. This being the Cairngorms when we set off from our stop in a slight dip, the cloud had started to descend. We headed to Tom Dubh (most obvious feature) now that the track was coming to an end. The visibility was now down to around 15-20m or was that feet I can&#8217;t remember now. I&#8217;m sure Phil had a grin, he was going to get a chance to practise his navigation. I&#8217;d been reading Ultimate Navigation and improving mine but enjoyed watching someone else navigate (probably still be there if I did the navigating). A bearing was taken and we followed it to a stream (whatever they call them in Scotland), the followed it up to the ridge.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Cairngorms-November-2011-059.jpg" alt="" /></p>
+
+<p> There was no way I was missing out Munros when we were this close and I was pleasantly surprised when Phil agreed. We couldn&#8217;t see anything on the ridge and the path up to Sgor an Lochain Uaine (Angels Peak) went upwards into the cloud forever. When I know I&#8217;m not far from from a summit I always forget any tiredness and speed up (unless walking with Colin and he almost runs by me). Sadly there was absolutely no view from the summit, but of course the summit Kuksa pictures were taken anyway.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Cairngorms-November-2011-068.jpg" alt="" /> <img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20111113_125513.jpg" alt="" /></p>
+
+<p> The next summit along the ridge was Cairn Toul, I&#8217;m sure there was a comment made about maybe taking a path around it if there was one (bet Phil is pleased he didn&#8217;t). We descended in the cloud over rocky ground before the path started to ascend again, the cloud started to thin slightly and we were lucky enough to see a Brocken Spectre again (second time this year). The route up to the summit of Cairn Toul cleared as Phil squirted Peanut butter into his mouth from a Tomato sauce bottle. The realisation that we were about to see an inversion was all the fuel I needed as I raced for the summit.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20111113_131438.jpg" alt="" /></p>
+
+<p> At the summit shelter we were indeed presented with an inversion, intially only the highest peaks were poking out from the cloud. The cloud continued to descend revealing ever more mountains. I have no idea how long we stood there in awe of the view, taking pictures and identifying mountains. I had forgotten to charge my camera, luckily the phone didn&#8217;t do a bad job when the camera eventually gave up. We could see Lochnagar briefly before the cloud reclaimed it. I would guess we were at the summit for an hour, it then started to dawn on us that we had a long walk back to the car. We reluctantly started the descent, then reascent up Stob Boire an t-Saighdeir before once again descending to the path down Coire Odhar and Corrour bothy. We didn&#8217;t have the time to bag Bod an Deamhain (The Devil&#8217;s Point), which was still shrouded in cloud until we reached Corrour anyway.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/Cairngorms-November-2011-080.jpg" alt="" /> <img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20111113_133830.jpg" alt="" /> <img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20111113_140106.jpg" alt="" /></p>
+
+<p> There was no time to hang about at Corrour either, we checked if it was occupied, it wasn&#8217;t. We had been talking about sharing my spare dehydrated meal at the bothy but we knew we would lose light rapidly soon. We decided to head down Glen Dee to White Bridge then back to the Linn of Dee where my car awaited. The path is very faint (or not where the O.S. say it is) and boggy where it splits near Corrour (we missed it). We managed to join the path and continued our boggy journey at pace, as the light faded. Initially in the darkness I wore an e+Lite but it wasn&#8217;t up to the job over the uneven bog and was swapped for a Tikka Plus.</p>
+
+<p> I would guess we walked for at least an hour in the darkness before reaching White Bridge, and a good track to follow. It was a relief to finally be on an easy track with less than an hour to the end, behind us at White Bridge was a bright light aproaching faster than we were walking. Eventually we realised it wasn&#8217;t a vehicle but a man on a bike with headtorch and bike lights. By now we were tired and both dreaming of the fish and chips in Braemar, the thought spurred us on.</p>
+
+<p> We arrived to an empty car park, except for 1 Landrover driving by. In the previous 2 days we had seen no one except for a couple of people at the bothy and the man on his bike. There were many, many more stand out moments on this trip. This is long enough without describing ptarmagins, snow buntings, horses, etc.</p>
+
+<p> Day 3 felt like 22 miles, especially when it included two 4000 foot peaks with short daylight hours. In hindsight I wonder if walking via Derry Lodge, instead of Glen Dee would of been the better option.</p>
+
+<p> We were denied those fish and chips in Braemar, it was shut along with almost every other eatery we passed. The MacDonalds at Perth tasted fantastic, which shows how hungry we must of been. I don&#8217;t think myself and Phil ever do boring trips when we walk together.</p>
+
+<p> <iframe src="http://www.shareyouradventure.com/map/perma/3226/iframe" width="600" height="350"></iframe></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Wanderer Returns]]></title>
+    <link href="http://stevenhorner.github.com/blog/2011/11/24/wanderer-returns/"/>
+    <updated>2011-11-24T14:00:17+00:00</updated>
+    <id>http://stevenhorner.github.com/blog/2011/11/24/wanderer-returns</id>
+    <content type="html"><![CDATA[<p><img src="http://dl.dropbox.com/u/2657852/website/images/Scotland-September-2011-049.jpg" alt="" /></p>
+
+<p>Sometimes it can be good to take a break from things and reflect on life and check that the path you are on, is the one you really want to follow. The break on this site has been part of that process.</p>
+
+<!-- more -->
+
+
+<p>Several months ago I decided I would no longer review Outdoor gear, unless I had bought it with my own money. Shortly after this the whole bloggers reviewing gear conversation blew up on various sites. I commented on one site, but generally decided to keep out of the conversation and wait until things calmed down. My personal opinion is that you can do what you like, it&#8217;s your site, but personally I would rather disclose if I was given something. The reason for stopping reviewing is nothing to do with the online discussion, it&#8217;s purely personal. Reviewing gear isn&#8217;t something that I enjoy and trying to think of something interesting to write feels far too much of a chore (the day job is enough work). That&#8217;s not why I spend my time in the outdoors and in the online outdoor community. Having said that, I love to read about gear and find out what others think of it.</p>
+
+<p>In the last week alone I have turned down 3 companies offering gear to review, several people thought I was nuts for saying No.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Scarborough-10K.jpg" alt="" /></p>
+
+<p>While the site may of been quiet, away from the online world, my life has been anything but sedentary. After an operation on my heart I decided to start running regularly again and entered an race for the first time in years. The <a href="http://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=scarborough%2010k&amp;source=web&amp;cd=1&amp;ved=0CDoQFjAA&amp;url=http%3A%2F%2Fwww.yorkshirecoast10k.co.uk%2F&amp;ei=xz3OTumOFobe8QPMloTGDw&amp;usg=AFQjCNGiDnstSHTWOhh7qznBWGAl7VGa4Q">Scarborough 10K</a> which somehow I persuaded Traci (Girlfriend) to enter and we successfully completed the course. I may not of been happy at my time but the main thing is that my heart appears to be fixed and I will now need to find another excuse for being rubbish.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20111023_165854-600x450.jpg" alt="" /></p>
+
+<p>A couple of years ago I started bouldering at <a href="www.durhamclimbingcentre.co.uk/">Durham Climbing Centre</a>, but the stop start nature of it caused problems with the ticker. Now that everything is OK, I have been climbing at <a href="www.sunderlandwall.co.uk/">Sunderland Wall</a> for the last few months with <a href="http://jonathancraddock.com">Jonathan Craddock</a> and more recently <a href="http://twitter.com/#!/traci_howarth">Traci</a> too. I&#8217;m still not very good, but have managed to climb up to F6b+ top roping. The next stage is to learn Lead climbing, then progress to rock outdoors next year.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20111113_131438.jpg" alt="" /></p>
+
+<p> There hasn&#8217;t been a lack of walking either, a couple of trips with <a href="http://twitter.com/#!/philoutdoors">Phil Turner</a> most recently an Epic couple of days in the Cairngorms which delighted us with inversions, Broken Spectres, 4000 feet summits and night walking. An earlier trip also included <a href="http://twitter.com/#!/tramplite">Colin Ibbotson</a> and <a href="http://twitter.com/#!/tookiebunten">Tookie Bunten</a> in the Cairngorms and a trio of Trailstars.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/Cairngorms-September-2011-073.jpg" alt="" /> <img src="http://dl.dropbox.com/u/2657852/website/images/Aonach-Eagach-2011-045.jpg" alt="" /></p>
+
+<p> Somehow I have been fortunate enough to find someone who is nuts as me (<a href="http://twitter.com/#!/traci_howarth">Traci</a>) and is happy (so she says) to wander up mountains, climb walls, run and generally put up with me talking about the outdoors. Over the last few months I&#8217;ve dragged Traci up several mountains including Bidean nam Bian, Ben Nevis, Scafell Pike, Helvellyn, boggy hills in Weardale and last weekend across the Aonach Eagach. Before meeting me she&#8217;d never done anything like this.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/Scotland-September-2011-047.jpg" alt="" /></p>
+
+<p> Walking with others is something I really enjoy, while I love solitude at times too. It is a very different experience walking with more than just my Kuksa for company. The majority of memorable trips have been shared experiences. Over the years I have encouraged and taken walking many friends, often their first experience of walking and the outdoors. I love doing this and a natural progression is to work towards the <a href="http://www.mltuk.org/">Mountain Leader qualification</a> which I have now embarked on. Hopefully I will attend the training course in May next year, I have far more than the required 20 &#8220;Quality&#8221; mountain days needed. Several months later I will then need to pass the Assessment and then will be a Summer Mountain Leader (fingers crossed). I have a plan in place which will hopefully take me to where I want to be in a couple of years and for the first time, what I&#8217;m doing and where I&#8217;m going feels like the correct path.</p>
+
+<p> So what is going to happen to this site? <br>
+ Now that I have formally announced no more reviews I can focus on the things I enjoy again, writing about my experiences, skills learned and observations. I mentioned above that I have a plan for the next couple of years, so much so that I have almost all my holiday scheduled until March 2013. This includes the <a href="http://ultralightsummit.com/2011/10/31/the-polls-are-closed/">Ultralight Backpackers Summit</a> <a href="http://www.hikinginfinland.com">Hendrik Morkel</a> is organising in Slovenia next year (dates to be confirmed). These trips and my experiences <strong>will</strong> now be more regularly written up on here.</p>
+
+<p> I have 2 other Outdoor related sites in the pipeline, both involve a lot of work but once there is something to show I will write about it here. Thanks to everyone I have walked with and spoken to online. I have returned!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Water]]></title>
+    <link href="http://stevenhorner.github.com/blog/2011/09/11/water/"/>
+    <updated>2011-09-11T16:15:20+01:00</updated>
+    <id>http://stevenhorner.github.com/blog/2011/09/11/water</id>
+    <content type="html"><![CDATA[<p><img src="http://dl.dropbox.com/u/2657852/website/images/Ullswater-Doris-049.jpg" alt="" /></p>
+
+<p>Water the single most important thing to us humans. You could get away without shelter or food for several days or weeks but not so for water. Supposedly we can last 3 days without water, but long before that you would experience headaches, probably dizziness and obviously a total lack of energy. Even though it&#8217;s so important many of us backpackers don&#8217;t give it much thought or we just do what we&#8217;ve always done.</p>
+
+<!-- more -->
+
+
+<p>I like the idea that each time you go on a trip you should try something new and I have experimented over the last year or two trying to gauge how much water to carry depending on the environment and the expected weather conditions. Below is a shortened summary showing how my usage has changed (top oldest).</p>
+
+<p><strong>Day Walks </strong></p>
+
+<ul>
+<li>1L Flask of tea &amp; 500ml orange juice</li>
+<li>2 x 500ml water bottle</li>
+<li>1 x 500ml water bottle &amp; Kuksa</li>
+</ul>
+
+
+<p><strong>Overnighter </strong></p>
+
+<ul>
+<li>2L Camelbak, Sigg bottle &amp; 1lLPlatypus for camp</li>
+<li>2 x 500ml water bottle &amp; 1L Platypus for camp</li>
+<li>1 x 500ml water bottle, Kuksa &amp; 1L Platypus for camp</li>
+</ul>
+
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20110911_123407.jpg" alt="" /></p>
+
+<p>There can be huge differences in the volume of water needed for a trip, I&#8217;ve had several trips where I have got it wrong, going back several years. One that comes to mind was walking the Wainwrights around Ennerdale, after a wildcamp on Haystacks I filled the 2L Camelbak and the 500ml <a href="http://www.webtogs.co.uk/Sigg_Traveller_60cl_Water_Bottle_271-1753.html">SIG bottle</a> before setting off. The day turned out to be hot and back in 2007 I was carrying a lot more in my pack than today, after walking over Brandreth, Green Gable, Great Gable, Kirk Fell, Pillar, Scoat Fell, Steeple and Haycock I had run out of water and hadn&#8217;t realised how low the water level had become due to the Camelbak being hidden in the pack. There was no water up high and I was feeling the effects, very sluggish, headaches and I just wanted to sit down. On this occassion I checked the map and made a detour to Silver cove and found a stream thankfully bubbling away. I was in the lake district beneath me was Ennerdale which I obviously could of headed for. I had an added problem on this trip, this was probably the first occassion when I began to notice I had a heart problem and just wanted to lie down and sleep, the water problem just made it worse.</p>
+
+<p>I had other occassions when I ran out of water on day walks due to not knowing how much water was remaining in the camelbak. On one of these the pipes froze in winter, you can get insulated pipes which the person I was walking with had, theirs froze too. This was the end of using reservoirs hidden in my pack. Something that could be worth a look is the new <a href="http://www.camelbak.com/Sports-Recreation/Accessories/Flowmeter.aspx">flow meter</a> from Camelbak which has a display that lets you know how much water is remaining among other information. I find looking at a clear bottle much simpler and cheaper. I find turning a water bottle upside down in winter prevents the opening freezing, water freezes from the top down.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/Fullscreen-capture-11092011-132336.bmp.jpg" alt="" /></p>
+
+<p> I have never treated water with any form of filter, tablet or any other method. This is likely due to the areas I choose to walk being mountainous and/or remote. Although I have walked with people who spent 10 minutes filtering water through an inline filter while I stood there scooping water with my Kuksa and drinking it. This was a from a fast moving stream in the North York Moors. Some may think I am stupid but I try to choose a source of water that hopefully wouldn&#8217;t be contaminated, I have never been ill. If I walked through more urban areas or lots of flat farmed areas I may think differently.</p>
+
+<p> This is my personal choice, I&#8217;ve seen many walkers carry 5+ litres of water in the Lake District or Scotland and never need to stop to fill up. They generally do need to stop due to carrying 5+kg of water weight on their backs though. I mentioned earlier its the skill of judging what water maybe available, clearly if you are walking in hot dry areas or polluted ares of the world you will NEED to carry much more water.</p>
+
+<p> Two of my favourite pieces of kit are my Kuksa and Platypus, the Kuksa I bought while on a trip to Finland and was introdused to them by <a href="http://www.hikinginfinland.com">Hendrik Morkel</a>. Since then it is attached to my pack on every trip I make. It&#8217;s not just used for taking pictures on summits, it&#8217;s main use is to scoop water whenever I pass a stream. You could use a far lighter plastic cup but it&#8217;s just not the same as a carved wooden kuksa. The 1L platypus is one of those bits of kit that is just so simple you give it no thought. It rolls up to nothing and sits in the very top of my pack waiting until the last water point of the day where I will fill it up for my camp water.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20110911_121908.jpg" alt="" /></p>
+
+<p> I&#8217;ve used the same platypus for the last 4-5 years and it has never leaked or developed any problems. <a href="http://www.webtogs.co.uk/">Webtogs</a> asked if I wanted to test a hydration system a couple of months ago, I already had this post in mind so asked for another <a href="http://www.webtogs.co.uk/Platypus/">Playtpus</a>. I could of chosen a more expensive <a href="http://www.webtogs.co.uk/Camelbak/">Camelbak</a> but I prefer the simple system I&#8217;ve developed. I received the <a href="http://www.webtogs.co.uk/Platypus_Hoser_1_Litre_100712.html">Hoser </a>which features a pipe so you can hide the bladder in your pack and drink using the bite valve without having to do a strange yoga stretching position to remove a bottle from your pack side pockets. The bite valve isn&#8217;t as nice as Camelbaks but it works, having said Camelbaks are better I dislike the newer style shut off valve on Camelbaks. Their old valve was far easier to operate one handed. The <a href="http://www.webtogs.co.uk/Platypus_Hoser_1_Litre_100712.html">Hoser</a> doesn&#8217;t feature a shut valve, this could be a problem as the bite valve becomes old and water seeps out but I haven&#8217;t used it for long enough. An <a href="http://www.webtogs.co.uk/Platypus_Shutoff_Valve_101435.html">upgraded valve</a> is available as an upgrade.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/Skitched-image0-600x438.png" alt="" /> <img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20110911_154924.jpg" alt="" /></p>
+
+<p> The <a href="http://www.webtogs.co.uk/Platypus_Hoser_1_Litre_100712.html">Hoser</a> features a very simple clip that allows you to attach the pipe to your pack or clothes, I would remove it though as its a bit unnescessary most packs have loops you can easily push the bite valve into rather than using the extra metal clip.</p>
+
+<p> I already mentioned that I decided I no longer want to use a water reservoir with pipes, be it a camelbak or a <a href="http://www.webtogs.co.uk/Platypus_Hoser_1_Litre_100712.html">Hoser</a> due to finding it hard to track how much water I was drinking and how much is remaining. So why ask for a <a href="http://www.webtogs.co.uk/Platypus_Hoser_1_Litre_100712.html">Hoser</a>, I wanted the main reservoir not the pipe and may on future trips abroad use an inline filter to fill up my other water containers. The Platypus has changed slightly since I bought my original years ago. The new ones are made of slightly less rigid plastic, have a loop to either hang or pick it up by and the entry/exit to the platypus is now on the corner. Having the entry/exit on the corner makes sense if you are using it in a hydration system, all the water will be funneled towards the pipe due the shape of the reservoir. Camelbak pipes exit near the centre at the bottom and the last bit of water can be hard to suck through. Camelbaks also have seperate fill up/pipe exits giving 2 possible points of failure rather than the 1 on the Platypus.</p>
+
+<p> The only criticism I would have of the Platypus is they can take considerably longer to fill due to the small simple top. The Hoser doesn&#8217;t come with a standard cap like my old one, because it is intended to be used with the pipe and bite valve. Most bottle tops from fizzy drinks containers do fit though or you could buy some <a href="http://www.webtogs.co.uk/Platypus_Closure_Cap__pack_of_two__101432.html">official closure caps</a> from Platypus. As well as a criticism, it is also an advantage, keeping it incredibly simple is one less thing to go wrong. Several times I&#8217;ve struggled to remove the large opening cap from Camelbaks when they have stuck, almost breaking my thumbs to open them, slight exageration but it hurt. Platypus may of already of answered this with their Big Zip but Keep It Simple Stupid (Kiss) comes to mind with less to go wrong and leak I will stick to my current system.
+ <img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20110911_155016.jpg" alt="" /></p>
+
+<p> So to summarise my water system for walking in the British mountains: I always carry my Kuksa to drink whenever I pass a stream or other water source, 1 or 2 500ml clear water bottles and a <a href="http://www.webtogs.co.uk/Platypus_Hoser_1_Litre_100712.html">1L Platypus</a> minus the hose/pipe for camp at night or for when water maybe scarce at higher levels during the day. This isn&#8217;t really a review of the Platypus there&#8217;s not much to review and the best recommendation is I asked for another over several other more expensive fancy systems.</p>
+
+<p> <strong>Gear Mentioned</strong></p>
+
+<ul>
+<li> <a href="http://www.webtogs.co.uk/Platypus_Hoser_1_Litre_100712.html">Platypus 1L Hoser</a> = £15.99 (Webtogs)</li>
+<li> <a href="http://www.webtogs.co.uk/Sigg_Traveller_60cl_Water_Bottle_271-1753.html">Sigg 60cl Traveller</a> = £14.99 (Webtogs)</li>
+<li> <a href="http://www.webtogs.co.uk/Platypus_Closure_Cap__pack_of_two__101432.html">Platypus Closure Caps x2</a> = £3.99 (Webtogs)</li>
+<li> <a href="http://www.webtogs.co.uk/Platypus_Shutoff_Valve_101435.html">Platypus Shutoff Valve</a> = (Webtogs)</li>
+<li> <a href="http://www.google.co.uk/products/catalog?q=camelbak+antidote&amp;hl=en&amp;prmd=ivns&amp;bav=on.2,or.r_gc.r_pw.&amp;biw=1280&amp;bih=909&amp;um=1&amp;ie=UTF-8&amp;tbm=shop&amp;cid=4745813139539568444&amp;sa=X&amp;ei=RsFsTp_KFYbm-gaexoz2BA&amp;ved=0CF8Q8wIwAQ">Camelbank Reservoir</a> - £21 (Best Price)</li>
+<li> <a href="http://www.google.co.uk/products/catalog?q=camelbak+flow+meter&amp;hl=en&amp;um=1&amp;ie=UTF-8&amp;tbm=shop&amp;cid=6445640845516168167&amp;sa=X&amp;ei=hcFsTvK3OtCN-wabnbXvBA&amp;ved=0CFMQ8wIwAA">Camelbak Flow Meter</a> = £16 (Best Price)</li>
+<li> <a href="http://www.google.co.uk/search?q=kuksa&amp;hl=en&amp;tbm=shop&amp;aq=f">Kuksa</a> = £22 (Best price) 500ml water bottle = Free use one someone is throwing out</li>
+</ul>
+
+
+<p> I would be interested in other peoples water systems and what they use, please let me know in the comments.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Mamores]]></title>
+    <link href="http://stevenhorner.github.com/blog/2011/07/29/the-mamores/"/>
+    <updated>2011-07-29T15:18:24+01:00</updated>
+    <id>http://stevenhorner.github.com/blog/2011/07/29/the-mamores</id>
+    <content type="html"><![CDATA[<p><img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-059.jpg" alt="" /></p>
+
+<p>The Mamores, if you haven&#8217;t heard of them you are missing out on some of the finest mountains in Britain. If you&#8217;ve been lucky enough to walk up Ben Nevis on a clear day you will have noticed them to the South, the opposite side of Glen Nevis. These have been on my ever increasing To Do list for years. Last year I walked 4 of the 10 Munros that make up the Mamores as part of the <a href="http://www.stevenhorner.com/?p=998">Ring of Steall</a>, sadly the tops were in cloud almost all day but it was still a fabulous walk. I then tried to walk them in March on my <a href="http://www.stevenhorner.com/?p=1338">Shearing trip</a> but had to change plans due to their high avalanche risk. In May they were included in my <a href="http://www.stevenhorner.com/?p=1393">Highland ZigZag</a> route which I ended very early. Fast forward 2 months&#8230;</p>
+
+<!-- more -->
+
+
+<p><a href="http://www.lightweightoutdoors.com/">Phil Turner</a> contacted me about doing some pointy bits together, we hadn&#8217;t had a trip since the <a href="http://lightweightoutdoors.com/?p=1959">Three Beinns</a> route in March on Arran. Our trips are always memorable for one reason or another and I very rarely pass on the opportunity to walk together. Phil was going to be walking Ben Nevis helping the Deaf and Blind Michael to the summit and suggested walking in the area the following day. The Mamores jumped into my head, before I got chance to reply Phil suggested <a href="http://www.stevenfallon.co.uk/">Steve Fallons</a> route over them. Great minds think alike (not sure we fit in that category).</p>
+
+<p>A few messages later and the details were arranged along with <a href="http://twitter.com/#!/tramplite">Colin Ibbotson</a> walking with us too, a training session before his Colorado Trail trip 2 weeks later. Finally I was going to meet Colin, although I was slightly worried about trailing in his dust as he floated over the mountains with ease.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-008.jpg" alt="" /></p>
+
+<p>A couple of weeks later I was at the start of the route with Colin being eaten by midge while we waited for Phil. He was 40 minutes late but we let him off, he had spent 18 hours the day before on the previously mentioned DeafBlind Ben Nevis trip. Another 15 minutes later after Phil had packed his <a href="http://www.tramplite.com/">Tramplite</a> pack Colin was loaning him, we were finally heading up out of the glen through the trees. Once out of the trees there was a steep climb up onto the ridge (if it could be called a ridge), before this though we needed some water and Phil sent Colin down to the Allt a&#8217; Choire Dheirg to fill all our Platypus, he was in training after all. More likely Phil and I could probably do with the rest before tackling the steep ascent ahead.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-009.jpg" alt="" /></p>
+
+<p>The ascent was easier than expected, gaining height rapidy and soon reaching the ridge leading up to Mullach nan Coirean and being presented with breath taking views in every direction. The weather was excellent, although a breeze would of been welcome. Cloud was covering several of the higher peaks like Ben Nevis and Aonach Mor but this just added a little drama to the view. I almost forgot the obligatory Kuksa Munro summit shot, luckily Phil reminded me. Mullach nan Coirean done, only 9 more Munros to go.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-013.jpg" alt="" /> <img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-024.jpg" alt="" /></p>
+
+<p>The next target Stob Ban was easier than expected, maybe due to the views or possibly because we were busy talking. We had been taking it quite easy, Colin was being kind and slowing for us along with sitting admiring the view and enjoying the weather on each summit. It was now after 4pm, having not set off until 12. We could see a perfect wildcamping spot with running water from Lochan Coire nam Miseach, it was agreed we would wildcamp for the night. A shorter day than I was expecting.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-034.jpg" alt="" /></p>
+
+<p>Shelters were soon setup my <a href="http://www.stevenhorner.com/?p=1003">Trailstar</a>, Vango Helium 200? (Phil) and <a href="http://www.mountainlaureldesigns.com/shop/product_info.php?cPath=21&amp;products_id=175">Solo Trailstar</a> (Colin). After a few hours admiring the view, talking, cooking and feeding the midge we disappeared to our own shelters for the night with assurances from Phil that he would be awake by 6.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-040.jpg" alt="" /></p>
+
+<p> The following morning I had proof that miracles really do happen, I heard Phil moving about just before 6am. I&#8217;d been awake for a couple of hours contemplating, what exactly I can no longer remember. By 7 we were heading up to just beneath Sgurr an Iubhair and along the Devils Ridge. The views were even better than the day before with clearer skies, except for Ben Nevis and the Aonachs which were crowned with cloud. It was already sweltering or maybe it was just the exersion from ascending to the ridge. This was my second time on the Devils Ridge which conjures up images of deathly drops and clinging on by the fingernails. Yet in reality its very tame, there is one very short section that could add some scrambling fun but we bypassed this on the way to Sgurr a&#8217; Mhaim. The last pull up to the summit stuck in my mind that it went on forever and was expecting a false summit but happily I was wrong. I was last up there while on the Ring of Steall and couldn&#8217;t see anything for cloud, today the views were breath taking or was that due to chasing after Colin.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-051.jpg" alt="" /></p>
+
+<p> I started to cross the scrambly section on our return while the others went around again but there&#8217;s one slightly more difficult section, nothing too difficult, but I decided rather than making the others wait while I put away my poles that I would retreat and follow them instead. The ridge looks more impressive with your back to Sgurr a&#8217; Mhaim. As we walked back along the Devils Ridge we were treated to a rare sight, a Broken Specktre (none of us had seen one before). We eventually returned to where we had joined the ridge earlier and could see our campsite of less than 2 hours earlier.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-055.jpg" alt="" /></p>
+
+<p> The next target was Sgurr an Iubhair which felt like quite a pull up to its summit at 3284 feet from the top there are once again fabuous views in every direction. This has been promoted to Munro status in 1984 and then subsequently stripped of it again. Colin declared that it was a Munro in his eyes, its certainly high enough and feels like one. So its now an Ibbotson Munro, we maybe should of planted a flag!</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-064.jpg" alt="" /></p>
+
+<p> The next pointy bit on the route is Am Bodach which stuck in my mind last time as having a very steep ascent when I walked it in reverse, so a steep descent this time, I don&#8217;t mean I walked backwards. The ascent this time was much easier gradually rising to a quite large flat summit with views that just keep getting better the further we walk. The 3 of us sat on the top trying to name as many mountains as we could and looking them up on the map. Certain mountains stand out and yes we could see Schiehallion 35 miles away, as well as much closer mountains and ridges like the Aonach Eagach, yet what stood out the most was Sgorr Dhearg and Sgorr Dhonuill not mountains that any of us were familiar with. We spent 30 minutes at the summit enjoying lazing in the sun, eating and taking Kuksa summit shots.</p>
+
+<p> The descent from Am Bodach in these conditions was a little disappointing after I had been declaring how steep it was to Colin and Phil. The last time I walked it I could only see a short distance in front of me, thats my excuse. What did become quite apparant on this trip is how much fast I descend compared to others. The same can be said of Colin when ascending, he motors by everyone even when he is taking it easy, while Phil and myself were usually weezing trying to catch our breath with racing hearts.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-079.jpg" alt="" /></p>
+
+<p> I am not sure why buy I can&#8217;t remember much of Stob Coire a&#8217; Chairn either on this trip or on my previous ascent. It could be that the eye is drawn to An Gearanach and An Garbhanach or back to Sgurr a&#8217; Mhaim. Possibly there could be some sort of memory erasing device located at the summit, which could explain how the day disappeared so fast. I can remember reaching the Bealach a&#8217; Chadha Riabhaich where we left our bags before climbing up the rocky fun route up to the Munro of An Gearanach, although An Garbhanach which you cross on the way is the better mountain. Without our bags which were actually very ligthweight, we almost floated to the top or was that due to the Mountain House Flatulence. Up until this point we had seen no one, suddenly just after one of us noted the fact lots of people appeared out of nowhere. We didn&#8217;t hang around for long, quickly turning tail and heading back to our packs.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-092.jpg" alt="" /></p>
+
+<p> Rather than reascending Stob Coire a&#8217; Chairn we headed down to fill up on water and contoured around the side over boggy ground rejoining the path and heading up towards Na Gruagaichean, although there is a &#8220;sharp gap&#8221; as described by Steve Fallon. The gap was quite easy, I decided to get a head start on Colin and descended the gap quickly and rather than waiting for the others to catch up. I headed straight up towards the summit, but I could feel Colin chasing me down. On reaching the top we met a guy who has walked up from Kinlochleven and after a couple of minutes discussion Phil reached the top and mentioned that a woman was passing him on the way down, she fell head first, stuck her arm out which Phil grabbed and somehow swung her around landing on her feet. Sounds like she was lucky.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-094.jpg" alt="" /></p>
+
+<p> By now Phil and myself were beginning to tire, I&#8217;m not as fit as I used to be and Phil isn&#8217;t used to Pointy bits. There was a discussion regarding myself and Phil just walking up to Binnein Mor and then heading back down. Colin wanted to walk the extra 2 Munros. Once again we jettisoned out packs and stored them this time a lot higher at 3400 feet before climbing to the summit of Binnein Mor which is at 3707ft is the highest of the Mamores. Kuksa pictures were quickly taken before rushing back to our packs, considerably more slowly than the start of the day. Phil and myself had made the decision to miss the last 2 Munros, I just felt drained my legs and feet weren&#8217;t complaining just a general lack of energy. Colin was determined to walk the last 2 Munros, we agreed to meet him at the small loch beneath Binnein Beag after Sgurr Eilde Mor. We lay on the gassy bank with our packs as we watched Colin race off with far more energy than is human after a long very hot day in the mountains.</p>
+
+<p> <img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-096.jpg" alt="" /></p>
+
+<p> Once Colin disappeared from view we followed the route down to Coire a&#8217; Bhinnein where several kuksas of water were consumed as we watched Colin almost sprinting to the the summit of Sgurr Eilde Mor. It was clear now how much Colin must of been holding back for us, either that or he could almost taste the food we were planning to eat at the end. Pressing on to the redezvous point at the small loch, Phil and myself propped ourselves up behind a bolder. We tried to spot Colin but couldn&#8217;t see him anymore, I shut my eyes for a second and dozed off. The next thing I remember was Colin arriving, agreeing to meet us at the other side of Binnein Beag. Once back to my feet after my sleep I felt sick. My legs still felt fine but I had a lack of energy, but walked around to where we hoped Colin would descend. Thankfully Phil produced some cake from his pack which he gave me, it was obvious I just needed some fuel. I don&#8217;t normally eat very much when I walk but with the heat and ascent I&#8217;d munched through everything I had taken with me except for one dehydrated meal. This clearly wasn&#8217;t enough food, the list below is the food I had on the trip which includes other food Phil handed out earlier in the day. I think he was just trying to lighten his pack but I&#8217;m glad he was.</p>
+
+<p> <strong>Food:</strong></p>
+
+<ul>
+<li>5 x Chocolate Chip Clif Bar</li>
+<li>3 x Honey Stinger Bar</li>
+<li>2 x Cadburys Brunch Bars</li>
+<li>1 x Mars Bars</li>
+<li>2 x Peperami</li>
+<li>1 x <a href="https://www.fuizionfreezedriedfood.com/productitem.aspx?prodid=5c3d4675-fa06-4fb7-bec5-66710f5cd8fe">Fuizion Lamb Stew with Pearl Barley</a></li>
+<li>1 x Squeeze Energy gum sweets (packet)</li>
+</ul>
+
+
+<p> <strong>From Phil:</strong></p>
+
+<ul>
+<li>1 x Apple Slice</li>
+<li>1 x Coop Cake</li>
+<li>1 x Brioche</li>
+</ul>
+
+
+<p> <strong>Unused</strong></p>
+
+<ul>
+<li>1 x Mince Hotpot</li>
+</ul>
+
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-099.jpg" alt="" /></p>
+
+<p>Once I had eaten the donated cake it was as if my batteries were restored. This was probably helped knowing that we only had descent remaining, if another Munro lay before us I imagine the energy would quickly recede. Colin eventually found us and we began the very boggy descent towards the Water of Nevis. I eventually gave up trying to find a dry line downwards and just headed as direct as I could. I was soon stood in the middle of Water of Nevis with a big smile on my face enjoying cool water flowing over my feet. Colin and Phil soon had the same look on their faces. The end was almost in site in my mind, we crossed Tom a&#8217; Choinneachaidh which is a very boggy area, where in wetter weather I can imagine sinking up to the waist in peat. Once we reached the path it was given a new name which would be inappropriate for children to read but it basically means its not very good. My Forerunners GPS batteries finally gave up, just as mine were now restored. It said we had already done 21 miles over the 2 days, Colin more. This doesn&#8217;t sound very much but with the ascent and the heat it felt much further.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Mamores-July-2011-100.jpg" alt="" /></p>
+
+<p>We still had 3 miles to the cars, but these flew by thinking about food. We passed a small waterfall with Phil asking if it was An Steall, the waterfall was probably only about 10 feet high. He would soon see the massive falls which as always looked stunning, this time in the evening light. Several people were passed setting up tents, it looked like about 10 people were trying to stop in a 3 or 4 man tent. By now we were in Road Runner mode with the road reached and the thought of food in all our minds. It had been a fantastic trip with superb weather and company. The trip was finished off with a Nevis burger each in the Glen Nevis Inn before we all headed our separate ways home. In my case a 5.5 hour journey, arriving home at 3am.</p>
+
+<p>This was one of those rare trips where everything just slotted together, I can&#8217;t wait for the next and wish Colin all the best on his Colorado Trail.</p>
+
+<p>There are lots of lessons from this trip the largest being the volume of food consumed, far more than I was expecting. I still had a full meal which would of been sufficient but when walking with others you don&#8217;t really want to hold everyone up by stopping to cook. I was quite surprised how much energy I had after the cake, thanks for that Phil. This will likely be the last time I write such a detailed report.</p>
+
+<iframe src="http://new.socialhiking.org.uk/tracks/iframe/stevenhorner/The-Mamores" width="600" height="400"></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mapping (R)evolution]]></title>
+    <link href="http://stevenhorner.github.com/blog/2011/06/13/mapping-revolution/"/>
+    <updated>2011-06-13T22:03:32+01:00</updated>
+    <id>http://stevenhorner.github.com/blog/2011/06/13/mapping-revolution</id>
+    <content type="html"><![CDATA[<p><img src="http://dl.dropbox.com/u/2657852/website/images/Mapping-Evolution-2011-004.jpg" alt="Mapping Evolution" /></p>
+
+<p>There are many who comment on the use of GPS in the outdoors and have the opinion that it is bad or even dangerous or just not right. You should only be in the outdoors using a compass and an O.S. map or failing that, use the sun and the stars to navigate your way across the wilds of the UK. Everyone is entitled to their opinion and to some extent I agree in part with this (compass part).</p>
+
+<!-- more -->
+
+
+<p>Now let me indulge in some of my past once again, going way back to when I was 10 and sat in Mrs Stewarts class in Peases West School. I had a reputatation for never shutting up, alledgedly to this day they have never known anyone talk quite so much. I was moved to a table at the back of the class with 3 girls, which somehow they thought would make me quieter. Next to where I sat was where the geography papers we had just started to work on were stored. I can remember during a lesson where we were supposed to be drawing I decided to take out my geography work and have a look. I was fascinated by the maps and can remember reading about grid references and the symbols used on maps. The only time I can remember shutting up for more than 2 minutes was during the geography lessons. During secondary school my favourite subject continued to be geography, maybe this was helped by the teacher Mr Maddison, who was enthusiastic and fair. My love affair with maps never went away, but I never had much cause to use them other than a road atlas. Obviously this changed when walking on my own and I was no longer following a map reader, usually my dad with his &#8220;shortcuts&#8221;.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Etrex..jpg" alt="Garmin Etrex" /></p>
+
+<p>History lesson over (or was that Geography). Once I started walking more, I bought a GPS, a <a href="https://buy.garmin.com/shop/shop.do?pID=6403">Garmin eTrex</a> and <a href="http://www.memory-map.co.uk/">Memory Map</a>. The first test with the eTrex wasn&#8217;t exactly as successfull as I hoped and I was watching the stupid direction arrow telling me to be 50 feet the wrong side of the fence. I soon learned to ignore the direction arrow and if following a pre-plotted route, just look at the route on the screen. As long as you keep on or near the line on the screen you were somewhere close. The first real test was on Cross Fell, when the fog came in and we could only see a couple feet ahead. A sense of relief was felt whenever you fell over a cairn, which confirmed we were on track (hopefully). This trip hit home just how useful a GPS can be. Yes you could use a compass, but the GPS was far quicker and easier to use in thick fog, when you can&#8217;t even tell you a climbing up hill.</p>
+
+<p>I don&#8217;t quite understand why people can be against GPS, I believe you should embrace technology if it makes life easier or just more fun. I said earlier I sort of agree with people who say you should use a map and compass, I believe you should have the skills to do so. Batteries go flat, GPS can break and having a map and compass as a backup could save your life. There are negatives that I have been guilty of in my past to using a GPS. I have sometimes spent half of the walk staring at the GPS screen rather than looking at my surroundings and enjoying them.</p>
+
+<p>The next evolution in mapping &amp; GPS for me was when O.S. maps started appearing on GPS. I had an old windows mobile phone (SPV C500) that I connected a bluetooth GPS too and could then use Memory map on, this was fantastic at pin pointing where you were at a glance. The screen was tiny and it wasn&#8217;t always the most reliable, but it was so much easier seeing a little dot marking your location. I then used Viewranger on a Nokia N95, this is still the best solution I have ever used but the phone died on me. I went back to a Windows Mobile phone with a larger screen for a few months to pin point my location. The larger screen made it more usuable and you could follow routes on the device.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Mapping-Evolution-2011-009.jpg" alt="iPhone and Android Mapping" /></p>
+
+<p>Well over a year ago O.S. maps started appearing on the iPhone. This was perfect I could use the iPhones excellent screen and carry one less device. The main problem with the iPhone is its battery life, but because of the battery life I started using GPS less.</p>
+
+<p>I&#8217;m skipping over lots here, but other people have wrote plenty of reviews of the GPS software for iPhones all of which are better than what I&#8217;d write. The perfect solution I found was to plan the route in memory map on the computer, as I have done for years and study the map before setting off. Then if at any point you are unsure where to go, check on the phone where you are and which path/route to take. On the iPhone I normally didn&#8217;t keep memory map running and tended to put the phone in flight mode if on a multi day trip, only turning it back on when needed. Whenever I stop for a drink or to admire the view take the paper map out and visualise the route you are taking and any notable features. I employed this strategy on my TGO route last year, I never once needed to use the compass, but had it in case it was called for.</p>
+
+<p>Many may think this takes some of the romance out of walking, but the way I use GPS and maps now allows me more time to spend looking at my surrounding rather than looking at a paper map, taking bearings and following a compass needle. I now navigate more by sight (except in poor weather) following landmarks or contours I know I need to lookout for. This is also what you should do with a compass, but it&#8217;s far easier to look at a screen and know in 2 seconds that you are going the correct way and not several miles off course.</p>
+
+<p>Visualising the route from a map before and during the walk allows me to continue my love of maps, using an Phone with O.S. mapping allows me to indulge gadget love and employing this strategy allows me to constantly stare in awe at this amazing British landscape we call home.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Stanhope-Dene-MM-Tracker-003.jpg" alt="MM Tracker" /></p>
+
+<p>I switched a couple of months ago from an iPhone to a Nexus S running Android. I delayed the switch due to Memory Map not being available on Android. Yes there is <a href="http://www.viewranger.com/">Viewranger</a>, but I already have an investment in Memory Map. ViewRanger is a better solution if starting from scratch except for the lack of a PC based program. You could get around this by using one of the many online O.S. map route editors. What I found instead of an official Memory Map app was the excellent <a href="https://market.android.com/details?id=com.meixi">MM Tracker</a> which reads the Memory Map files. MM Tracker costs £5.76 for the full version which does everything the official app on the iPhone did, with new features added continually. The official Android app still hasn&#8217;t appeared as far as I am aware and will likely cost considerably more.</p>
+
+<p>** I originally wrote this article when I had many of the old devices mentioned and had taken several pictures, sadly somehow I have lost all the original pictures and I no longer have the windows mobile or Nokia devices. Apologies for the poor quality pictures.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Failure, I think not]]></title>
+    <link href="http://stevenhorner.github.com/blog/2011/06/04/failure-i-think-not/"/>
+    <updated>2011-06-04T19:35:39+01:00</updated>
+    <id>http://stevenhorner.github.com/blog/2011/06/04/failure-i-think-not</id>
+    <content type="html"><![CDATA[<p><img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20110509_092814-600x450.jpg" alt="The Black Cuillin above Allt Dearg Mor" /></p>
+
+<p>You may have noticed its been eerily silent on here the last 4 weeks. The <a href="http://www.stevenhorner.com/?p=1440">Highland ZigZag</a> was short lived, 2 days of walking and 3 days of travelling to be exact. The weather decided not to comply with my plans. The 2 days walking were fantastic for very different reasons.</p>
+
+<!-- more -->
+
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/P1050445-600x450.jpg" alt="The cuillin ridge as the cloud started to descend" /></p>
+
+<p>Day 1 finally saw me walking on the Black Cullin Ridge something I&#8217;ve wanted to do for years. It may of been the easiest on the ridge, Bruach na Frithe, this was chosen for the supposedly spectacular views of the ridge.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20110509_114445-600x450.jpg" alt="Bruach na Frithe summit" />
+<img src="http://dl.dropbox.com/u/2657852/website/images/P1050448-600x450.jpg" alt="A brief glimpse of Am Bastier" /></p>
+
+<p>I had hoped to also bag Am Bastier but the weather had other plans and I couldn&#8217;t see a thing. Something I learned very quickly was that the Ordnance Survey maps are rubbish for the Black Cullin, get yourself a Harveys map. Sadly I had no view when on the ridge the cloud was down and it was very windy. I waited around for a while but decided I could be waiting all day and I had someone to meet.</p>
+
+<p>At the end of day 1 I met <a href="http://www.lightweightoutdoors.com/">Phil Turner</a> at the bus stop outside the Sligachan Hotel and we headed to the Glen Brittle campsite for the start of Phils Famous Highlands Drovers route and my Highland ZigZag. It&#8217;s a great little campsite but quite exposed as several people found when their tents were flattened by the wind. Happily my Trailstar and Phils Duomid had no problems.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20110509_175104-600x450.jpg" alt="Phil on the beach at Glen Brittle" /></p>
+
+<p>The next day the wind was even stronger and rain decided to join the party. It wasn&#8217;t your regular rain drops either, it was like someone was throwing billions of mugs of water at you. The path I walked the day before to the foot of the Cuillin had turned into a river and the Allt Dearg Mor had changed from a beautiful river with pools and waterfalls to a raging torrent. I tried to take a picture for comparison and the camera broke within 5 seconds of taking it out due to the rain. We reached the Sligachan hotel just after 10am, our halfway point for the day and huddled in the doorway of Seumas Bar next to several bikers waiting for it to open.</p>
+
+<iframe title="Twitvid video player" class="twitvid-player" type="text/html" width="480" height="360" src="http://www.twitvid.com/embed.php?guid=CEJ6N&#038;autoplay=0" frameborder="0"></iframe>
+
+
+<p>To say the pair of us were wet would be like saying the Sahara is a bit sandy. We were drenched and Phil said he wasn&#8217;t walking any further that day. There was no way I was going to argue with the decision. Although as we had walked along Glen Brittle I found myself with one of my odd beaming smiles on my face, loving every second of being out in the elements. It&#8217;s times like those that you relish the outdoors and they make you feel more alive. As we walked along I said I&#8217;d rather be there than at work any day even in those conditions.</p>
+
+<p>We booked into the Bunkhouse later in the day and I made a difficult decision after reading every forecast I could get hold of, that I would return home. It was obvious the weather was set for the foreseeable future. My plans were to be well above 2000 feet for most of the next 3 weeks. That wasn&#8217;t going to be possible, I suppose it was possible, but I was unlikely to see anything and would struggle to stay on my feet as the wind reached speeds over 100mph. Would you fancy doing the Aonach Eagach in that, which is where I&#8217;d planned to be on the day with highest winds, I made the correct decision. That&#8217;s Scotlands weather for you and should be expected as the norm rather than the expeception, you wont then be disappointed.</p>
+
+<p>While the trip may sound like a total failure I don&#8217;t see it like that. I loved every second on Skye and especially the Black Cuillin. I loved being at the mercy of the elements almost as much (honestly). As I was leaving on the bus I was already being asked on other trips and I had several ideas of my own.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Weardale-Wander-034-600x450.jpg" alt="Forget-me-knots" /></p>
+
+<p>In the 2.5 weeks that followed I spent several days walking and exploring locally, playing with fire, taking pictures, geocaching, sleeping, planning and basically just reviewing everything from my gear to my own thoughts, feelings and plans. It was very different to what I had intended but it was probably what I needed at that moment in my life more than any mountain (did I just write that?)</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Lyke-Wake-Walk-019-600x450.jpg" alt="Wild Camping on the Lyke Wake Walk" /></p>
+
+<p>One of the trips I did was with John Garner from <a href="http://sheddwellersmoments.blogspot.com/">Sheddwellers moments</a>, we&#8217;ve walked together in the past and we both work in Middlesbrough. John sent me a message as I was returning home asking if I fancied the Lyke Wake Walk over a couple of days. It&#8217;s normally done as a 24 hour challenge, but he wanted some wildcamping. I&#8217;d been considering attempting it in under 14 hours as a personal challenge, but this sounded perfect. The short report: missed the bus, several pints before the start, setting up camp near the missile warning station then reading the radiation warnings next morning, the most boring walking I&#8217;ve ever done over featureless moors, a few more pints, great walking over lots of small hills, lots of gear talk, Johns rain skirt and getting to the end with a pint minutes before it tossed down. Great trip :-)</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Glaramara-and-Allen-Crags-060-600x450.jpg" alt="Nutter in the lakes, oh its Traci" /></p>
+
+<p>The weeks and months before the planned Highland ZigZag was a busy time at work and over the last few months my day has consisted of getting up at about 5am for work and getting home again some time between 6-9pm by which time I&#8217;m shattered. In the end the change to my plans has helped me focus on what is important to me and my mind is back to its normal self (a million ideas a second). Hopefully there should be a few changes to this site and if I FOCUS a related backpacking site should spring up in the next couple of months that people may find useful (I hope). I will do the Highland ZigZag in the future, it better not be a distant one either..</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Off on the Highland ZigZag]]></title>
+    <link href="http://stevenhorner.github.com/blog/2011/05/07/off-on-the-highland-zigzag/"/>
+    <updated>2011-05-07T20:53:00+01:00</updated>
+    <id>http://stevenhorner.github.com/blog/2011/05/07/off-on-the-highland-zigzag</id>
+    <content type="html"><![CDATA[<iframe src="http://new.socialhiking.org.uk/maps/iframe/stevenhorner/Highland-ZigZag/450" width="600" height="450"></iframe>
+
+
+<p>This is a slighty shorter and less detailed post than originally intended. I had planned to write a post listing where exactly I am aiming to be each night and what I am carrying with weights of each bit of kit, but in the end I just never got chance. You can read some of what i&#8217;m planning and what the Highland ZigZag is <a href="http://www.stevenhorner.com/?p=1393">here</a>.</p>
+
+<!-- more -->
+
+
+<p>I also decided that I need a holiday, the last few months have been a bit hectic and forcing myself to stay up late to write what would likely be a poorly written post while tired would be worse than no post at all.</p>
+
+<p>Having said the above, my pack weighed 7.64kg including 1 litre of water, 3 days food, fuel and many items others leave out of their pack weights or class as worn (hat, gloves, buff, etc).</p>
+
+<p>The walk starts on Monday 9th May with hopefully a warmup jaunt up one or two of the Munros in the Black Cuillin, before meeting up with <a href="http://www.lightweightoutdoors.com">Phil Turner </a>for probably 4 days together. We will then go our seperate ways and the Munros start for me.</p>
+
+<p>I don&#8217;t intend to update the blog until I return home. Instead I will be tweeting, see <a href="http://www.twitter.com/stevenhorner">here</a> or the right side of this site (not shown on mobile version of site)</p>
+
+<p>I&#8217;m hoping the map at the top of the page actually works from Monday using the magic of <a href="http://new.socialhiking.org.uk">Social Hiking</a>, updates to the map may be few and far between due to signal and battery issues.</p>
+
+<p>So keep an eye on <a href="http://www.twitter.com/stevenhorner">my tweets</a> and I will write it all up when I return. Thanks for taking the time to read this and apologies if it doesn&#8217;t make a lot of sense (written on my phone).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Keen A86 Trail Runners Review]]></title>
+    <link href="http://stevenhorner.github.com/blog/2011/04/28/keen-a86-trail-runners-review/"/>
+    <updated>2011-04-28T19:30:25+01:00</updated>
+    <id>http://stevenhorner.github.com/blog/2011/04/28/keen-a86-trail-runners-review</id>
+    <content type="html"><![CDATA[<p><img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20110402_125935.jpg" alt="Keen A86 Trail Runners" /></p>
+
+<p><strong>Price:</strong> £67.49
+<strong>Weight:</strong> 238g (UK 8.5) - my scales
+<strong>Product Link:</strong> <a href="http://www.webtogs.co.uk/Keen_Mens_A86_TR_Trail_Runners_102848-22942.html">Webtogs</a></p>
+
+<p>I was asked by <a href="http://www.webtogs.co.uk/">Webtogs</a> if I would like to review some Keen shoes and to be honest I was going to say No. I own a pair of Keen boots and some slippers which are comfy, but they have thick soles and are what I&#8217;m generally trying to get away from to improve my gait (see <a href="http://www.stevenhorner.com/?p=1406">previous post</a>). As I was thinking about how to say No politely, I remembered seeing some pictures of some very lightweight Trail runners announced a couple of months ago. Damn pleased I checked the website first.</p>
+
+<!-- more -->
+
+
+<p>The A86s are a big change for Keen, the brand is normally easily identifiable due to the big toe bumpers and large cushioned soles. The A86 are also easily identifiable as Keen footwear but in this case due to the huge brand name on the side.</p>
+
+<p>These are very light (238g per shoe in UK 8.5). I was walking out the door wearing a pair of Montrail Continental Divides for the last time before sending them to their shoe grave when the postman arrived with the A86s. I quickly ditched the Montrails and the weight difference and feel was unbelievable. I&#8217;m sure I&#8217;ve got some thick socks that feel heavier. These are the most comfortable shoes I&#8217;ve ever slipped onto my feet. They make you want to run, which I did several times carrying a full pack (a lightweight one obviously).</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20110402_130147.jpg" alt="Keen A86 TR" /></p>
+
+<p><strong>Fit</strong></p>
+
+<p>The A86s unlike some other makes, don&#8217;t feel like I&#8217;m wearing clown shoes and my feet have a bit more room in the toe box than Inov-8 212s which feel longer and slightly narrower. Those crazy curved laces aren&#8217;t just for show, they do an excellent job of fitting the shoe snugly to your foot, yet never feel like they are gripping too tight. The heel cup grips firmly giving you confidence without being uncomfortable.</p>
+
+<p><strong>Grips</strong></p>
+
+<p>The grips can be best described as odd, from pictures it&#8217;s hard to get a sense of how they actually look. They are not flat circles but are angled (side photos are better for illustration). Keen call it &#8220;the dot matrix, multidirectional 3 mm traction lugs&#8221; This should allow them to cut into the ground. I was very dubious at first and on my initial walk I found the grips completely covered and clogged with mud but to be fair this would of happened to all but the most aggressive soles. On every other surface that day, grass, gravel, dirt track etc there were no issues. To test the grips further I decided to have a wander along Striding Edge, not somewhere you want to slip. No matter how hard I tried they never failed me, until I came to a nice scree run off Catstye Cam. In comparison to my partners boots these were like a fly in a spiders web, sticking to the ground.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20110402_130959.jpg" alt="Oh No they might get muddy" /></p>
+
+<p>After my initial skepticism I&#8217;ve been impressed, although the last few weeks have been very dry and I&#8217;ve had no real opportunity to test on wet rock.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Footwear-and-Weardale-Skyline-beta-026.jpg" alt="Slight wear" /></p>
+
+<p>The angled design of the grips presents a narrow edge to the ground which is going to wear quite quickly on harder surfaces. I can see the edges have worn very slightly after the 60+ miles I&#8217;ve done in them.</p>
+
+<p><strong>Uppers</strong></p>
+
+<p>The uppers are made of very fine mesh which you can see through if you hold them up to the light. This is excellent for ventilation which has been needed on recent trips. This also allows for very quick drying when crossing streams. There&#8217;s also minimal toe protecting with small toe bumpers and thicker material to prevent toe bashing (I had no problems on Striding Edge). Strangely Keens website says &#8220;Weather: Wet - water resistant&#8221;. They can&#8217;t have any lining I can see straight through them. Oh that mesh does let quite a bit of dust in the shoes, my feet were black.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Footwear-and-Weardale-Skyline-beta-0211.jpg" alt="Keen A86 Trail Runners" /></p>
+
+<p><strong>Design</strong></p>
+
+<p>The design may not be to everyone tastes, they do shout &#8220;Look At Me&#8221;. Shoes are the few items of clothing that I tend to choose quite loud colours, my <a href="http://www.inov-8.com/Products-Detail.asp?PG=PG1&amp;L=26&amp;P=5050973079">OROC Banana shoes</a> are a perfect example. I really love the design and there are 4 to choose from, although most UK shops only have 2 (the best ones). I wore them one night to the pub and they didn&#8217;t look out of place. <a href="http://www.keenfootwear.com/product/ss11/shoes/men/trailhead/a86%20tr/classic%20blue!keen%20yellow">Keens website</a> lets you see what they look like with different coloured jeans!</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Striding-Edge-Swirral-Edge-April-2011-085.jpg" alt="Keen A86 gripping on Swirral Edge" /></p>
+
+<p><strong>Pros:</strong> very light, glove like fit, looks <BR>
+<strong>Cons:</strong> grips may wear quickly?</p>
+
+<p><strong>Conclusion</strong></p>
+
+<p>The best way to sum up my feelings about the A86s is to mention they have caused me a huge dilemma. I was all ready to do my forthcoming <a href="http://www.stevenhorner.com/?p=1393">Highland ZigZag walk</a> in my trusty Terrocs but the A86s feel so comfortable that I&#8217;m really struggling to make a decision. I do need to mention that I am used to walking in lightweight shoes and if you jump into these from a pair of big Scarpa boots you may find feeling the ground uncomfortable at first. These are now picked as my first choice shoes when going out walking. I will buy another pair when these eventually do wear out (hopefully not for some time)</p>
+
+<p>You really need to try these on, take advantage of Wegtogs 365 days return policy. I doubt you will want to return them &lt;&#8211; They didn&#8217;t ask me to say any of this, I genuinely love their service and <a href="http://www.webtogs.co.uk/help/Why_Buy_From_Webtogs.html">policies</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Footwear Evolution]]></title>
+    <link href="http://stevenhorner.github.com/blog/2011/04/25/footwear-evolution/"/>
+    <updated>2011-04-25T19:48:18+01:00</updated>
+    <id>http://stevenhorner.github.com/blog/2011/04/25/footwear-evolution</id>
+    <content type="html"><![CDATA[<p><img src="http://dl.dropbox.com/u/2657852/website/images/Footwear-and-Weardale-Skyline-beta-011.jpg" alt="Footwear" /></p>
+
+<p>I&#8217;m currently testing a couple of pairs of minimalist shoes and while I was laid in the garden I had the idea to pull out all the footwear I&#8217;ve walked in over the last few years. Sadly I threw out a couple of pairs of boots last year.</p>
+
+<!-- more -->
+
+
+<p>The black boots at the top left I never actually used in the hills but are similar to the boots I used for several years. The missing boots were the ones you used to see outside the Famous Army Stores named after places in the lake district.</p>
+
+<p>Footwear in the picture:</p>
+
+<ul>
+<li><strong>Generic steel toe capped boots</strong></li>
+<li><strong>Aldi Boots</strong> &#8211; Walked Ben Nevis in these a few years ago</li>
+<li><strong>Caterpiller trail shoes</strong></li>
+<li><strong>Montrail Continental Divides</strong> &#8211; My first real foray into lightweight footwear</li>
+<li><strong>Inov-8 310</strong> &#8211; 5 years old and I still run in these</li>
+<li><strong>Inov-8 345</strong> &#8211; Old model, my only GoreTex lines shoes bought for Val d&#8217;isere (use for work now)</li>
+<li><strong>Inov-8 Terroc 330</strong> &#8211; My main walking shoe, insides dropped to bits</li>
+<li><strong>Keen Taarghee II</strong> &#8211; Bought for winter walking with Kahtoolas but prefer shoes now</li>
+<li><strong>Merrell Continuums?</strong> &#8211; These cut my feet to bits</li>
+<li><strong>Inov-8 Terroc 33</strong>0 &#8211; Another pair</li>
+<li><strong>Inov-8 Orroc 340</strong> &#8211; Spiky shoes, fab grip in the winter</li>
+<li><strong>Keen A86</strong> &#8211; Very light (currently testing)</li>
+<li><strong>Merrell True Glove</strong> &#8211; Barefoot shoes with 0mm drop (currently testing)</li>
+</ul>
+
+
+<p>My footwear journey from heavy boots to lightweight trail runners is perfectly captured in the top picture. Along the way I&#8217;ve had various knee problems and have worn custom made insoles. The Podiatrist described my feet as the worst he had seen other than his own (he was talking about my overpronation). The picture of the insoles below should give an idea of how bad.</p>
+
+<p><img src="http://dl.dropbox.com/u/2657852/website/images/Insoles-003.jpg" alt="Custom insoles compare to regular insoles" />
+<img src="http://dl.dropbox.com/u/2657852/website/images/Insoles-006.jpg" alt="Custom insole compare to regular insoles" /></p>
+
+<p>The custom insoles regularly cause blisters due to the slippy heat reflecting surface used to make them. In recent months I&#8217;ve started walking differently, no longer heal striking and have not used insoles for the last few months. So far I&#8217;ve had no knee pain, minimalist shoes have allowed me to get back to our natural way of walking and running.</p>
+
+<p>Maybe eventually I can run barefoot but this will require some foot strengthening, the <a href="http://www.webtogs.co.uk/Keen_Mens_A86_TR_Trail_Runners_102848.html">A86s</a> and <a href="http://www.purekit.com/merrell-true-glove-barefoot-shoe-prod31665/">True Gloves</a> are helping to make this transition. Not that I have plans to go backpacking barefoot.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Highland ZigZag]]></title>
+    <link href="http://stevenhorner.github.com/blog/2011/04/10/the-highland-zigzag/"/>
+    <updated>2011-04-10T23:07:07+01:00</updated>
+    <id>http://stevenhorner.github.com/blog/2011/04/10/the-highland-zigzag</id>
+    <content type="html"><![CDATA[<iframe Title="The Highland ZigZag Route" src="http://www.everytrail.com/iframe2.php?trip_id=1036591&#038;width=600&#038;height=400" marginheight="0" marginwidth="0" frameborder="0" scrolling="no" width="600" height="400"></iframe>
+
+
+<p>After realising I was unlikely to get a place on the <a href="http://www.tgochallenge.pwp.blueyonder.co.uk/">TGO Challenge</a> from position 66 on the standby list, I needed a new plan. I started with a list of a few Munros I would like to walk and tried to link them up. Many had to be dropped due to the distance from each other and the intention to walk for 2 weeks.</p>
+
+<!-- more -->
+
+
+<p>I had almost decided on a route when a text from <a href="http://www.lightweightoutdoors.com/">Phil Turner</a> asked if my route included Skye, it didn&#8217;t. Several texts and emails later my trip had become 3 weeks and now included the first 4 days of[ Phils route](http://lightweightoutdoors.com/?p=1924</p>
+
+<p>The route on the map above is roughly 210 miles and includes 35 Munros, including Aonach Eagach, the Grey Corries, South Glen Shiel Ridge, the Black Mount traverse and many other famous routes. This is the core of the route but I have many extra sections planned if I feel like doing them. Before the main route starts I intend to wander up one of the Black Cuillin on Skye, most likely Sgurr nan Gillean. It should be a nice warm up before 4 non-Munro days with Phil and give me a change to get back into the swing of a long trip before I start on the pointy bits for real.</p>
+
+<p>The extra sections (not shown) are from the Black Mount west to Ben Starav and further East and South of the shown end point (Bridge of Orchy). This could be up to another 12 Munros.</p>
+
+<p>To many this may look ridiculous but over the last few months I&#8217;ve spent a lot of time thinking over why I like walking brought on by having heart surgery. This could influence a large part of this trip, I&#8217;m unsure if the operation was a success. I&#8217;ve had several more episodes since, but instead of using it as an excuse to sit on my bum and bin the trip. I am now more determined than ever to do it. At the same time I would not count it as a failure if I end the trip early or alter it in any major way, I just want to get out there.</p>
+
+<p>Over the next few weeks until I leave for Scotland on the 7th May I will be deciding on which gear to take and pondering over where to send supplies. I&#8217;m sure several posts will follow before the off.</p>
+
+<p>My dad has called me jokingly a dreamer recently, due to several planned trips not happening. If we didn&#8217;t dream and turn many of them into reality, we would get nowhere in life. This one I&#8217;m determined will be more than just a dream.</p>
+]]></content>
+  </entry>
+  
+</feed>
