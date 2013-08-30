@@ -4,7 +4,7 @@
   <title><![CDATA[StevenHorner.com]]></title>
   <link href="http://stevenhorner.github.com/atom.xml" rel="self"/>
   <link href="http://stevenhorner.github.com/"/>
-  <updated>2013-08-30T12:08:33+01:00</updated>
+  <updated>2013-08-30T20:05:50+01:00</updated>
   <id>http://stevenhorner.github.com/</id>
   <author>
     <name><![CDATA[Steven Horner]]></name>
@@ -12,6 +12,108 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Most Visible Mountain in Scotland]]></title>
+    <link href="http://stevenhorner.github.com/blog/2013/08/30/the-most-visible-mountain-in-scotland/"/>
+    <updated>2013-08-30T18:31:00+01:00</updated>
+    <id>http://stevenhorner.github.com/blog/2013/08/30/the-most-visible-mountain-in-scotland</id>
+    <content type="html"><![CDATA[<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/Schiehallion_viewshed.jpg" alt="Schiehallion Viewshed" /></p>
+
+<p>On a recent trip to the West Highlands I pointed out what I believed to be Schiehallion in the distance as we crossed Rannoch Moor in the car. I recalled how I had been told it was the mountain you could see from the most places in Scotland.
+I decided that I would test if this was really true. I had a feeling it wasn&#8217;t.</p>
+
+<h3>How do you do that?</h3>
+
+<p>Obviously I am not going to stand in every spot in Scotland and work out what mountains I can see, I would need several life times. Instead I will use <a href="http://www.qgis.org/" title="Quantum GIS">Quantum GIS (QGIS)</a> on a computer along with elevation data and a handy plugin or 2. I had recently read <a href="https://twitter.com/MikeRSpencer" title="Michael Spencer on Twitter">Michael Spencers</a> <a href="http://scottishsnow.wordpress.com/2013/06/21/caleb-arthurs/" title="Caleb's List">blog post</a> regarding <a href="http://scottishsnow.wordpress.com/2013/06/21/caleb-arthurs/" title="Caleb's List">Caleb&#8217;s List</a> which gave some helpful information, have a look at what it <a href="http://scottishsnow.wordpress.com/2013/06/21/caleb-arthurs/" title="Caleb's List">viewable from Arthurs Seat</a>.</p>
+
+<h3>This could take a long time&#8230;</h3>
+
+<p>I said I would need several life times to do this without a computer, but even using a standard computer it takes a long time. I worked out how far to the horizon and I would work out my calcuation based on seeing the top of the mountain, or more accurately someone stood on the top.
+My first run with the full data took 2.5 days just to work out where in Scotland you could view someone stood on the top of Schiehallion. When I looked at the data annoyingly it hadn&#8217;t done it correctly and half of the data was missing. Here&#8217;s what was produced.
+Remember I wanted to find out which mountain was the most visible in Scotland, within my criteria which you can read in the Additional Technical Details further down this post. I decided to limit the mountains to only Munros initially, this would mean that I have to run the same process that I tried on Schiehallion for each Munro.</p>
+
+<pre><code>2.5 days * 282 Munros = A long time (705 days)
+</code></pre>
+
+<p>I am not the most patient person, 2015 for an answer is more than I am willing to wait.</p>
+
+<h3>Additional Technical Details</h3>
+
+<h4>Software used:</h4>
+
+<ul>
+<li><a href="http://www.qgis.org/" title="Quantum GIS">Quantum GIS</a></li>
+<li><a href="http://pyqgis.org/repo/contributed" title="QGIS Visibility Analysis">Visibility Analysis plugin</a></li>
+<li><a href="http://grass.osgeo.org/grass64/manuals/r.los.html" title="r.los GRASS module">r.los GRASS module</a></li>
+</ul>
+
+
+<h4>Data used:</h4>
+
+<ul>
+<li><a href="http://www.ordnancesurvey.co.uk/business-and-government/products/terrain-50.html" title="OS Terrain 50">OS Terrain 50</a></li>
+<li><a href="http://www.ordnancesurvey.co.uk/business-and-government/products/boundary-line.html" title="OS Boundary-Line">OS Boundry-line</a></li>
+</ul>
+
+
+<h4>Extra data needed for calculation:</h4>
+
+<ul>
+<li>Calculated horizon: 90 miles (from Ben Nevis)</li>
+<li>Limit to only the 282 Munros</li>
+</ul>
+
+
+<p>The software used was <a href="http://www.qgis.org/" title="Quantum GIS">Quantum GIS (QGIS)</a>, I tried both the <a href="http://pyqgis.org/repo/contributed" title="QGIS Visibility Analysis">QGIS Visibility Analysis plugin</a> and the <a href="http://grass.osgeo.org/grass64/manuals/r.los.html" title="r.los GRASS module">GRASS Line of Sight (r.los) module</a> within the Sextante plugin.</p>
+
+<p>The Terrain data is <a href="http://www.ordnancesurvey.co.uk/business-and-government/products/terrain-50.html" title="OS Terrain 50">OS Terrain 50</a> Grid which I merged together to produce one large terrain TIF for Scotland, I then clipped this using the Scottish boundary (probably didn&#8217;t need to do this).</p>
+
+<p>I used <a href="http://www.boatsafe.com/tools/horizon.htm" title="Boatsafe Horizon Calculator">Boatsafe website</a> to calculate the horizon. This is different depending on your height, if you are stood on the top of Ben Nevis obviously you can see further than if you were at sea level. I decided to use 2 metres above the height of Ben Nevis, 1346m for all mountains. This calculated that the horizon would be just under 90 miles away, which I rounded up to 90. In reality the chances of actually being able to see that far are almost zero.</p>
+
+<p>I also decided that I would use the following scenario, that if someone stood on the top of a mountain could they be seen within 90 miles without the direct line of sight being blocked by other hills. I have no way to calcuate trees or man made structures blocking the view and this would only increase the time taken to calculate.</p>
+
+<p>The QGIS Visibility Analysis took 2.5 days to complete on my Core i5 3.2Ghz with 8GB RAM machine. Annoying <a href="http://www.qgis.org/" title="Quantum GIS">QGIS</a> is only a 32 bit program and only uses a single core rather than the 4 available. For some reason it didn&#8217;t complete correctly, but even with half of the results it was still interesting to see how far away Schiehallion can potentially be seen.</p>
+
+<p>I decided to try the <a href="http://grass.osgeo.org/grass64/manuals/r.los.html" title="r.los GRASS module">GRASS line of sight (r.los) module</a> in the <a href="http://sextantegis.com/" title="Sextante">Sextante plugin</a>. I have found GRASS to be faster in the past than some of the built-in functions. This time I ran a test with a 25 mile view and this completed in 10 minutes.
+Running the full 90 mile range in GRASS took 20 hours, the image at the top of this post is the returned data overlaid on Google Terrain.</p>
+
+<p>To complete this using <a href="http://grass.osgeo.org/grass64/manuals/r.los.html" title="r.los GRASS module">r.los</a> is still going to take 235 days, unless I can build a multi-threaded version of QGIS (<a href="http://faunaliagis.wordpress.com/2013/08/26/qgis-64bit-for-windows-is-ready-to-test/" title="64bit QGIS">64 bit test version</a>, not mulithreaded just released). This isn&#8217;t planned until at least version 2.1, 2.0 is the next release. In the interim I will test with different viewable distances to find an acceptable processing time. The full 90 miles is further than anyone realistically could ever see anyway.</p>
+
+<p>Once each mountains visibility is calculated, I convert the raster output to vector, crop using the Scottish Boundary-line data (removes visility at sea) then calculate the total area. This gives an easy figure to compare between each mountain. This figure could then be given as a percentage of the total area of Scotland eg.</p>
+
+<pre><code>Schiehallion is viewable from 0.0105% of Scotland.
+</code></pre>
+
+<p>I have also ran the above for Ben Nevis which can be seen below</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/BenNevis_Viewable.jpg" alt="Ben Nevis Viewshed" /></p>
+
+<pre><code>Ben Nevis is viewable from 0.0151% of Scotland
+</code></pre>
+
+<p>You can already see if the above is correct Ben Nevis is viewable from a large percentage of Scotland. I think other mountains maybe more visible than Ben Nevis.</p>
+
+<h3>The Most Viewable Mountains (So far)..</h3>
+
+<ol>
+<li>Ben Nevis (0.0151%)</li>
+<li>Schiehallion (0.0105%)</li>
+<li>TBC&#8230;</li>
+</ol>
+
+
+<h3>Fixes</h3>
+
+<p>After generating the Ben Nevis and Schiehallion data I realised a couple of potential errors. I had calculated the Horizon from the top of Ben Nevis and used this for Schiehallion too, 261m higher than it actually is although this wouldn&#8217;t actually alter the end results (Schiehallions height is used for the calcuation). Originally I used the <a href="http://pyqgis.org/repo/contributed" title="QGIS Visibility Analysis">QGIS visibility plugin</a> which doesn&#8217;t allow for the Earth&#8217;s curvature (I don&#8217;t think), <a href="http://grass.osgeo.org/grass64/manuals/r.los.html" title="r.los GRASS module">r.los</a> does allow me to choose this. I will re-run both Schiehallion and Ben Nevis without limiting the viewable range and enable the Earths curvature.</p>
+
+<p>Ben Dolphin (<a href="https://twitter.com/CountrysideBen" title="Ben Dolphin">@CountrysideBen</a>) pointed out an excellent site <a href="http://www.viewfinderpanoramas.org/panoramas.html" title="Panoramas">Panoramas</a> where you can view and download computer generated Panoramas of many mountains around the world, including Scotland. They are fantastic and happily the Ben Nevis ones look very close to my findings.</p>
+
+<h3>Help and suggestions</h3>
+
+<p>I am not a mathematician, geographer, cartographer or scientist just someone who loves mountains, maps and computers. I would be very surprised if I haven&#8217;t made many mistakes in my calculations. If you are aware of any, please let me know or if you can provide any help. I find it fascinating and hope others do.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Open Maps]]></title>
@@ -982,33 +1084,6 @@ Munros = 2</p>
 <p>The custom insoles regularly cause blisters due to the slippy heat reflecting surface used to make them. In recent months I&#8217;ve started walking differently, no longer heal striking and have not used insoles for the last few months. So far I&#8217;ve had no knee pain, minimalist shoes have allowed me to get back to our natural way of walking and running.</p>
 
 <p>Maybe eventually I can run barefoot but this will require some foot strengthening, the <a href="http://www.webtogs.co.uk/Keen_Mens_A86_TR_Trail_Runners_102848.html">A86s</a> and <a href="http://www.purekit.com/merrell-true-glove-barefoot-shoe-prod31665/">True Gloves</a> are helping to make this transition. Not that I have plans to go backpacking barefoot.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Highland ZigZag]]></title>
-    <link href="http://stevenhorner.github.com/blog/2011/04/10/the-highland-zigzag/"/>
-    <updated>2011-04-10T23:07:07+01:00</updated>
-    <id>http://stevenhorner.github.com/blog/2011/04/10/the-highland-zigzag</id>
-    <content type="html"><![CDATA[<iframe Title="The Highland ZigZag Route" src="http://www.everytrail.com/iframe2.php?trip_id=1036591&#038;width=600&#038;height=400" marginheight="0" marginwidth="0" frameborder="0" scrolling="no" width="600" height="400"></iframe>
-
-
-<p>After realising I was unlikely to get a place on the <a href="http://www.tgochallenge.pwp.blueyonder.co.uk/">TGO Challenge</a> from position 66 on the standby list, I needed a new plan. I started with a list of a few Munros I would like to walk and tried to link them up. Many had to be dropped due to the distance from each other and the intention to walk for 2 weeks.</p>
-
-<!-- more -->
-
-
-<p>I had almost decided on a route when a text from <a href="http://www.lightweightoutdoors.com/">Phil Turner</a> asked if my route included Skye, it didn&#8217;t. Several texts and emails later my trip had become 3 weeks and now included the first 4 days of[ Phils route](http://lightweightoutdoors.com/?p=1924</p>
-
-<p>The route on the map above is roughly 210 miles and includes 35 Munros, including Aonach Eagach, the Grey Corries, South Glen Shiel Ridge, the Black Mount traverse and many other famous routes. This is the core of the route but I have many extra sections planned if I feel like doing them. Before the main route starts I intend to wander up one of the Black Cuillin on Skye, most likely Sgurr nan Gillean. It should be a nice warm up before 4 non-Munro days with Phil and give me a change to get back into the swing of a long trip before I start on the pointy bits for real.</p>
-
-<p>The extra sections (not shown) are from the Black Mount west to Ben Starav and further East and South of the shown end point (Bridge of Orchy). This could be up to another 12 Munros.</p>
-
-<p>To many this may look ridiculous but over the last few months I&#8217;ve spent a lot of time thinking over why I like walking brought on by having heart surgery. This could influence a large part of this trip, I&#8217;m unsure if the operation was a success. I&#8217;ve had several more episodes since, but instead of using it as an excuse to sit on my bum and bin the trip. I am now more determined than ever to do it. At the same time I would not count it as a failure if I end the trip early or alter it in any major way, I just want to get out there.</p>
-
-<p>Over the next few weeks until I leave for Scotland on the 7th May I will be deciding on which gear to take and pondering over where to send supplies. I&#8217;m sure several posts will follow before the off.</p>
-
-<p>My dad has called me jokingly a dreamer recently, due to several planned trips not happening. If we didn&#8217;t dream and turn many of them into reality, we would get nowhere in life. This one I&#8217;m determined will be more than just a dream.</p>
 ]]></content>
   </entry>
   

@@ -1,0 +1,386 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>The Most Visible Mountain in Scotland - StevenHorner.com</title>
+  <meta name="author" content="Steven Horner">
+
+  
+  <meta name="description" content="On a recent trip to the West Highlands I pointed out what I believed to be Schiehallion in the distance as we crossed Rannoch Moor in the car. I &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://stevenhorner.github.com/blog/2013/08/30/the-most-visible-mountain-in-scotland/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="StevenHorner.com" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-43332055-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <h1><a href="/">StevenHorner.com</a></h1>
+  
+    <h2>A Lover of the Outdoors</h2>
+  
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:stevenhorner.github.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/about">About</a></li>
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/categories/gear">Gear Reviews</a></li>
+  <li><a href="/blog/categories/trip-report">Trip Reports</a></li>
+  <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">The Most Visible Mountain in Scotland</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-08-30T18:31:00+01:00" pubdate data-updated="true">Aug 30<span>th</span>, 2013</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/Schiehallion_viewshed.jpg" alt="Schiehallion Viewshed" /></p>
+
+<p>On a recent trip to the West Highlands I pointed out what I believed to be Schiehallion in the distance as we crossed Rannoch Moor in the car. I recalled how I had been told it was the mountain you could see from the most places in Scotland.
+I decided that I would test if this was really true. I had a feeling it wasn&#8217;t.</p>
+
+<h3>How do you do that?</h3>
+
+<p>Obviously I am not going to stand in every spot in Scotland and work out what mountains I can see, I would need several life times. Instead I will use <a href="http://www.qgis.org/" title="Quantum GIS">Quantum GIS (QGIS)</a> on a computer along with elevation data and a handy plugin or 2. I had recently read <a href="https://twitter.com/MikeRSpencer" title="Michael Spencer on Twitter">Michael Spencers</a> <a href="http://scottishsnow.wordpress.com/2013/06/21/caleb-arthurs/" title="Caleb's List">blog post</a> regarding <a href="http://scottishsnow.wordpress.com/2013/06/21/caleb-arthurs/" title="Caleb's List">Caleb&#8217;s List</a> which gave some helpful information, have a look at what it <a href="http://scottishsnow.wordpress.com/2013/06/21/caleb-arthurs/" title="Caleb's List">viewable from Arthurs Seat</a>.</p>
+
+<h3>This could take a long time&#8230;</h3>
+
+<p>I said I would need several life times to do this without a computer, but even using a standard computer it takes a long time. I worked out how far to the horizon and I would work out my calcuation based on seeing the top of the mountain, or more accurately someone stood on the top.
+My first run with the full data took 2.5 days just to work out where in Scotland you could view someone stood on the top of Schiehallion. When I looked at the data annoyingly it hadn&#8217;t done it correctly and half of the data was missing. Here&#8217;s what was produced.
+Remember I wanted to find out which mountain was the most visible in Scotland, within my criteria which you can read in the Additional Technical Details further down this post. I decided to limit the mountains to only Munros initially, this would mean that I have to run the same process that I tried on Schiehallion for each Munro.</p>
+
+<pre><code>2.5 days * 282 Munros = A long time (705 days)
+</code></pre>
+
+<p>I am not the most patient person, 2015 for an answer is more than I am willing to wait.</p>
+
+<h3>Additional Technical Details</h3>
+
+<h4>Software used:</h4>
+
+<ul>
+<li><a href="http://www.qgis.org/" title="Quantum GIS">Quantum GIS</a></li>
+<li><a href="http://pyqgis.org/repo/contributed" title="QGIS Visibility Analysis">Visibility Analysis plugin</a></li>
+<li><a href="http://grass.osgeo.org/grass64/manuals/r.los.html" title="r.los GRASS module">r.los GRASS module</a></li>
+</ul>
+
+
+<h4>Data used:</h4>
+
+<ul>
+<li><a href="http://www.ordnancesurvey.co.uk/business-and-government/products/terrain-50.html" title="OS Terrain 50">OS Terrain 50</a></li>
+<li><a href="http://www.ordnancesurvey.co.uk/business-and-government/products/boundary-line.html" title="OS Boundary-Line">OS Boundry-line</a></li>
+</ul>
+
+
+<h4>Extra data needed for calculation:</h4>
+
+<ul>
+<li>Calculated horizon: 90 miles (from Ben Nevis)</li>
+<li>Limit to only the 282 Munros</li>
+</ul>
+
+
+<p>The software used was <a href="http://www.qgis.org/" title="Quantum GIS">Quantum GIS (QGIS)</a>, I tried both the <a href="http://pyqgis.org/repo/contributed" title="QGIS Visibility Analysis">QGIS Visibility Analysis plugin</a> and the <a href="http://grass.osgeo.org/grass64/manuals/r.los.html" title="r.los GRASS module">GRASS Line of Sight (r.los) module</a> within the Sextante plugin.</p>
+
+<p>The Terrain data is <a href="http://www.ordnancesurvey.co.uk/business-and-government/products/terrain-50.html" title="OS Terrain 50">OS Terrain 50</a> Grid which I merged together to produce one large terrain TIF for Scotland, I then clipped this using the Scottish boundary (probably didn&#8217;t need to do this).</p>
+
+<p>I used <a href="http://www.boatsafe.com/tools/horizon.htm" title="Boatsafe Horizon Calculator">Boatsafe website</a> to calculate the horizon. This is different depending on your height, if you are stood on the top of Ben Nevis obviously you can see further than if you were at sea level. I decided to use 2 metres above the height of Ben Nevis, 1346m for all mountains. This calculated that the horizon would be just under 90 miles away, which I rounded up to 90. In reality the chances of actually being able to see that far are almost zero.</p>
+
+<p>I also decided that I would use the following scenario, that if someone stood on the top of a mountain could they be seen within 90 miles without the direct line of sight being blocked by other hills. I have no way to calcuate trees or man made structures blocking the view and this would only increase the time taken to calculate.</p>
+
+<p>The QGIS Visibility Analysis took 2.5 days to complete on my Core i5 3.2Ghz with 8GB RAM machine. Annoying <a href="http://www.qgis.org/" title="Quantum GIS">QGIS</a> is only a 32 bit program and only uses a single core rather than the 4 available. For some reason it didn&#8217;t complete correctly, but even with half of the results it was still interesting to see how far away Schiehallion can potentially be seen.</p>
+
+<p>I decided to try the <a href="http://grass.osgeo.org/grass64/manuals/r.los.html" title="r.los GRASS module">GRASS line of sight (r.los) module</a> in the <a href="http://sextantegis.com/" title="Sextante">Sextante plugin</a>. I have found GRASS to be faster in the past than some of the built-in functions. This time I ran a test with a 25 mile view and this completed in 10 minutes.
+Running the full 90 mile range in GRASS took 20 hours, the image at the top of this post is the returned data overlaid on Google Terrain.</p>
+
+<p>To complete this using <a href="http://grass.osgeo.org/grass64/manuals/r.los.html" title="r.los GRASS module">r.los</a> is still going to take 235 days, unless I can build a multi-threaded version of QGIS (<a href="http://faunaliagis.wordpress.com/2013/08/26/qgis-64bit-for-windows-is-ready-to-test/" title="64bit QGIS">64 bit test version</a>, not mulithreaded just released). This isn&#8217;t planned until at least version 2.1, 2.0 is the next release. In the interim I will test with different viewable distances to find an acceptable processing time. The full 90 miles is further than anyone realistically could ever see anyway.</p>
+
+<p>Once each mountains visibility is calculated, I convert the raster output to vector, crop using the Scottish Boundary-line data (removes visility at sea) then calculate the total area. This gives an easy figure to compare between each mountain. This figure could then be given as a percentage of the total area of Scotland eg.</p>
+
+<pre><code>Schiehallion is viewable from 0.0105% of Scotland.
+</code></pre>
+
+<p>I have also ran the above for Ben Nevis which can be seen below</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/BenNevis_Viewable.jpg" alt="Ben Nevis Viewshed" /></p>
+
+<pre><code>Ben Nevis is viewable from 0.0151% of Scotland
+</code></pre>
+
+<p>You can already see if the above is correct Ben Nevis is viewable from a large percentage of Scotland. I think other mountains maybe more visible than Ben Nevis.</p>
+
+<h3>The Most Viewable Mountains (So far)..</h3>
+
+<ol>
+<li>Ben Nevis (0.0151%)</li>
+<li>Schiehallion (0.0105%)</li>
+<li>TBC&#8230;</li>
+</ol>
+
+
+<h3>Fixes</h3>
+
+<p>After generating the Ben Nevis and Schiehallion data I realised a couple of potential errors. I had calculated the Horizon from the top of Ben Nevis and used this for Schiehallion too, 261m higher than it actually is although this wouldn&#8217;t actually alter the end results (Schiehallions height is used for the calcuation). Originally I used the <a href="http://pyqgis.org/repo/contributed" title="QGIS Visibility Analysis">QGIS visibility plugin</a> which doesn&#8217;t allow for the Earth&#8217;s curvature (I don&#8217;t think), <a href="http://grass.osgeo.org/grass64/manuals/r.los.html" title="r.los GRASS module">r.los</a> does allow me to choose this. I will re-run both Schiehallion and Ben Nevis without limiting the viewable range and enable the Earths curvature.</p>
+
+<p>Ben Dolphin (<a href="https://twitter.com/CountrysideBen" title="Ben Dolphin">@CountrysideBen</a>) pointed out an excellent site <a href="http://www.viewfinderpanoramas.org/panoramas.html" title="Panoramas">Panoramas</a> where you can view and download computer generated Panoramas of many mountains around the world, including Scotland. They are fantastic and happily the Ben Nevis ones look very close to my findings.</p>
+
+<h3>Help and suggestions</h3>
+
+<p>I am not a mathematician, geographer, cartographer or scientist just someone who loves mountains, maps and computers. I would be very surprised if I haven&#8217;t made many mistakes in my calculations. If you are aware of any, please let me know or if you can provide any help. I find it fascinating and hope others do.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Steven Horner</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-08-30T18:31:00+01:00" pubdate data-updated="true">Aug 30<span>th</span>, 2013</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/gis/'>gis</a>, <a class='category' href='/blog/categories/maps-/'>maps,</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://stevenhorner.github.com/blog/2013/08/30/the-most-visible-mountain-in-scotland/" data-via="stevenhorner" data-counturl="http://stevenhorner.github.com/blog/2013/08/30/the-most-visible-mountain-in-scotland/" >Tweet</a>
+  
+  
+  <div class="g-plusone" data-size="medium"></div>
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2013/08/26/open-maps/" title="Previous Post: Open Maps">&laquo; Open Maps</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/blog/2013/08/30/the-most-visible-mountain-in-scotland/">The Most Visible Mountain in Scotland</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/08/26/open-maps/">Open Maps</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/08/18/map-subscription-service/">Map Subscription Service?</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/12/17/new-website-finally/">New Website: Finally</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2012/06/06/kittys-wood-public-rights-of-way/">Kitty's Wood & Public Rights Of Way</a>
+      </li>
+    
+  </ul>
+</section>
+
+
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("stevenhorner", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/stevenhorner" class="twitter-follow-button" data-show-count="false">Follow @stevenhorner</a>
+  
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Steven Horner -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'stevenhorner';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://stevenhorner.github.com/blog/2013/08/30/the-most-visible-mountain-in-scotland/';
+        var disqus_url = 'http://stevenhorner.github.com/blog/2013/08/30/the-most-visible-mountain-in-scotland/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+  <script type="text/javascript">
+    (function() {
+      var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+      script.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+    })();
+  </script>
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
