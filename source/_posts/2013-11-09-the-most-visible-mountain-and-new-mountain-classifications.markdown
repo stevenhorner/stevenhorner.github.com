@@ -4,7 +4,6 @@ title: "The Most Visible Mountain &amp; New Mountain Classifications"
 date: 2013-11-09 17:22
 comments: true
 categories: 
-published: false
 ---
 
 ![The Most Visible Mountain in Scotland](https://dl.dropboxusercontent.com/u/2657852/website/images/StobBinnein.png)
