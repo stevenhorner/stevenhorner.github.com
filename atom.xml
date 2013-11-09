@@ -4,7 +4,7 @@
   <title><![CDATA[StevenHorner.com]]></title>
   <link href="http://stevenhorner.github.com/atom.xml" rel="self"/>
   <link href="http://stevenhorner.github.com/"/>
-  <updated>2013-09-07T20:42:58+01:00</updated>
+  <updated>2013-11-09T18:43:52+00:00</updated>
   <id>http://stevenhorner.github.com/</id>
   <author>
     <name><![CDATA[Steven Horner]]></name>
@@ -12,6 +12,595 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Most Visible Mountain &amp; New Mountain Classifications]]></title>
+    <link href="http://stevenhorner.github.com/blog/2013/11/09/the-most-visible-mountain-and-new-mountain-classifications/"/>
+    <updated>2013-11-09T17:22:00+00:00</updated>
+    <id>http://stevenhorner.github.com/blog/2013/11/09/the-most-visible-mountain-and-new-mountain-classifications</id>
+    <content type="html"><![CDATA[<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/StobBinnein.png" alt="The Most Visible Mountain in Scotland" /></p>
+
+<p>The most successful projects, to me at least, are those where you learn so much more than you ever expected to. I started the Peak Visibility project to find the answer to what seamed like a very simple question &#8220;Which Scottish Mountain can you see the most?&#8221;. You can find out how this question arose in the <a href="http://stevenhorner.com/blog/2013/08/30/the-most-visible-mountain-in-scotland/" title="First Peak Visiblity Post">first Peak Visibility post</a> or at the end of this post.</p>
+
+<p>It was not quite as simple as I had thought, the first thing was to define the question more specifically.</p>
+
+<p>I decided to limit my criteria to Munro (mountains in Scotland over 3000 feet), this reduced the list considerably down to 282 mountains at the current count. I then set the criteria, which I defined as &#8220;If I stood on the highest point of the mountain (summit) what land would be visible&#8221;, this would give me the answer &#8220;Which summits could I see from any point in Scotland&#8221;. I also decided I could also work out &#8220;If I stood on a Munro summit which other summits could I see&#8221;.</p>
+
+<h2>The Top 10 most visible Munro in Scotland.</h2>
+
+<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/PeakVisibilityTop10.png" alt="Top 10 Visible Scottish Munro" /></p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 600px;">
+            <thead>
+                <tr>
+                    <th scope="col">
+                        No.</th>
+                    <th scope="col">
+                        Name</th>
+                    <th scope="col">
+                        Height (metres)</th>
+                    <th scope="col">
+                        Height (feet)</th>
+                    <th scope="col">
+                        <p>
+                            Visible Area (km2)</p>
+                    </th>
+                    <th scope="col">
+                        Visible Munro</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <span style="color:#ff0000;"><span style="font-family: arial, sans, sans-serif; font-size: 13px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">1</span></span></td>
+                    <td>
+                        <span style="color:#ff0000;"><span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">Stob Binnein</span></span></td>
+                    <td>
+                        <span style="color:#ff0000;"><span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1165</span></span></td>
+                    <td>
+                        <span style="color:#ff0000;"><span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3822</span></span></td>
+                    <td>
+                        <span style="color:#ff0000;"><span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">5454.05</span></span></td>
+                    <td>
+                        <span style="color:#ff0000;"><span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">174</span></span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">2</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Ben More</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1174</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3852</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">5395.04</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">178</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">3</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Ben Lawers</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1214</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3983</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">5284.86</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">205</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">4</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Ben Macdui</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1309</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">4295</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">4570.33</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">216</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">5</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Lochnagar</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1155</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3789</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">4178.17</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">147</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">6</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Cairn Gorm</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1244</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">4081</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">4038.33</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">180</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">7</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Ben Cruachan</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1126</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3694</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3851.54</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">187</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">8</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Ben Lui</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1130</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3707</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3782.59</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">143</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">9</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Braeriach</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1296</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">4252</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3686.65</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">113</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">10</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Ben Nevis</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1344</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">4409</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3454.84</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">205</span></td>
+                </tr>
+            </tbody>
+        </table>
+
+
+<p>The table above may be different to many would have expected, yes Ben Nevis and Ben Macdui are in there. When you actually think about it they both have some very large neighbours which block the view. Both also have quite large summit plateaus. For a view on Ben Nevis I have always walked away from the summit, close to the edge. I am still waiting to see anything though after 7 cloudy summit visits.</p>
+
+<p>The top 2 Stob Binnein and Ben More are next to each other and are often tackled in a <a href="http://www.walkhighlands.co.uk/lochlomond/ben-more.shtml" title="Stob Binnein &amp; Ben More walk">single day walk</a>. There are not too many other high mountains within the immediate vicinity. If you ignore the few Munro to the South West, the next closest Munro is 5 miles away (Sgiath Chuil) and is quite low.</p>
+
+<p>Compare that to Ben Macdui which has Braeriach and Cairn Gorm very close along with a host of other Munro in all directions, these block the viewability yet Ben Macdui still manages position number 4.</p>
+
+<h2>The Least visible Munro in Scotland</h2>
+
+<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/Bottom10.png" alt="The Bottom 10 Visible Munro" /></p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 600px;">
+            <thead>
+                <tr>
+                    <th scope="col">
+                        No.</th>
+                    <th scope="col">
+                        Name</th>
+                    <th scope="col">
+                        Height (metres)</th>
+                    <th scope="col">
+                        Height (feet)</th>
+                    <th scope="col">
+                        <p>
+                            Visible Area (km2)</p>
+                    </th>
+                    <th scope="col">
+                        Visible Munro</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <span style="font-family: arial, sans, sans-serif; font-size: 13px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">273</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Beinn Liath Mhor</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">926</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3038</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">162.63</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">33</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">274</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Beinn a&#39;Chaorainn</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1052</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3451</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">154.92</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">28</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">275</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Ciste Dhubh</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">979</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3212</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">144.54</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">39</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">276</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">The Devil&#39;s Point</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1004</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3294</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">138.94</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">19</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">277</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Stob Poite Coire Ardair</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1054</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3458</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">136.16</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">15</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">278</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Sgurr na Carnach</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1002</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3287</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">126.99</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">34</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <font face="arial, sans, sans-serif" size="2">279</font></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">An Socach</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">921</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3022</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">114.43</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">27</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">280</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Sgurr na Sgine</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">946</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3104</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">102.14</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">43</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">281</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Meall Garbh</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">968</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3176</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">95.88</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">43</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">282</span></td>
+                    <td>
+                        <span style="font-family: arial, sans, sans-serif; font-size: 13px; white-space: pre-wrap; background-color: rgb(255, 255, 255);">Carn Aosda</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">917</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3009</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">30.21</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">9</span></td>
+                </tr>
+            </tbody>
+        </table>
+
+
+<p>The Visible Area column of the 2 tables above show the number of square Kilometres the summits can be viewed from (or be seen from). The higher the number the larger the area it can be seen from. Something to note, these figures are on land only. I masked the sea, but does includes visibility from land locked lochs.</p>
+
+<h2>Highest number of visible Munro</h2>
+
+<p>I mentioned that I could work out which other Munro you could see from the top of each Munro. Looking at the data this way gives a different list.</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 600px;">
+            <thead>
+                <tr>
+                    <th scope="col">
+                        No.</th>
+                    <th scope="col">
+                        Name</th>
+                    <th scope="col">
+                        Height (metres)</th>
+                    <th scope="col">
+                        Height (feet)</th>
+                    <th scope="col">
+                        <p>
+                            Visible Area (km2)</p>
+                    </th>
+                    <th scope="col">
+                        Visible Munro</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        1</td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Ben Macdui</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1309</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">4295</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">4570.33</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">216</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        2</td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Geal-charn</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1132</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3714</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1903.89</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">213</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        3=</td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Ben Lawers</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1214</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3983</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">5284.86</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">205</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        3=</td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Ben Nevis</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1344</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">4409</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3454.84</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">205</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        5</td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Creag Meagaidh</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1128</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3701</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1986.23</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">198</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        6</td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Stob Choire Claurigh</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1177</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3862</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">2114.97</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">193</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        7</td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Ben Alder</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1148</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3766</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">2082.27</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">190</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        8=</td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Cairn Toul</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1291</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">4236</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">2574.53</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">189</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        8=</td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Aonach Beag</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1115.7</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3660</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1466.08</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">189</span></td>
+                </tr>
+                <tr>
+                    <td>
+                        10</td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif;">Monadh Mor</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1113</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">3652</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">1710.43</span></td>
+                    <td>
+                        <span style="font-size: 13px; font-family: arial, sans, sans-serif; text-align: right;">188</span></td>
+                </tr>
+            </tbody>
+        </table>
+
+
+<p>There are a few similar names in the list, Ben Macdui, Ben Nevis and Ben Lawers but Geal-charn?</p>
+
+<p>I will be honest that I had never heard of Geal-charn yet there are actually 4 Munros with the same name, 2 &#8220;Geal-charn&#8221; and 2 spelt &#8220;Geal charn&#8221; without the hyphen. The one in the table above is North West of Ben Alder at grid ref NN469746. This almost topped the list, until I re-ran the data in newer software it was relegated to Number 2.</p>
+
+<h2>New Classifications</h2>
+
+<p>For a bit of fun I decided that from the data I have produced I would create 2 new Classifications like Munro, Marilyns, Wainwrights etc. The new ones are Horners and Tracis.</p>
+
+<h3>Mountains Classified as Horners</h3>
+
+<div><script src="https://embed.github.com/view/geojson/stevenhorner/PeakVisibility/master/Horners/Horners.geojson"></script></div>
+
+
+<p>A mountain summit which can be viewed from 1000 square Kilometres excluding from the sea. There are currently 112 Horners and if you have completed the Munros then you have done them. This will change though and will expand to include all of Great Britain (Scotland, England and Wales).</p>
+
+<p>Why create more classifications, becuase many of us like lists and these are slightly different to the thers which are normally based on height and/or drop.</p>
+
+<p>You can download the list of Horners below, this list can easily be linked to The Database of British and Irish Hills by using the Number column (it is their number).</p>
+
+<p>Download the Horners in the following formats: <a href="https://raw.github.com/stevenhorner/PeakVisibility/master/Horners/Horners.csv" title="Horners CSV">CSV</a>, <a href="https://github.com/stevenhorner/PeakVisibility/blob/master/Horners/Horners.zip?raw=true" title="Horners Shapefile">SHP</a>, <a href="https://raw.github.com/stevenhorner/PeakVisibility/master/Horners/Horners.geojson" title="Horners geojson">GeoJSON</a>.</p>
+
+<h3>Mountains Classified as Tracis</h3>
+
+<div><script src="https://embed.github.com/view/geojson/stevenhorner/PeakVisibility/master/Tracis/Tracis.geojson"></script></div>
+
+
+<p>A 3000 foot mountain summit where you can view at least 100 other 3000 foot mountain summits. There are currently 75 Tracis all in Scotland. It doesn&#8217;t take a genius to work out that there will be none in England or Wales because there aren&#8217;t enough mountains over 3000 feet there to make the grade unless you can see enough of the Scottish Munro from the Skiddaw.</p>
+
+<p>Why call these Tracis, they are named after my long suffering Girlfriend who has had to put up with me working for weeks/months on the Peak Visibility Project often late into the night while she is trying to sleep with me randomly talking to myself working out heights, distances, projections and various other related stuff. The Tracis are also something special just like her, oh and she will likely have to put up with me dragging her up all of them.</p>
+
+<p>You can download the list of Tracis below, this list can easily be linked to The Database of British and Irish Hills by using the Number column (it is their number).</p>
+
+<p>Download the Tracis in the following formats: <a href="https://raw.github.com/stevenhorner/PeakVisibility/master/Tracis/Tracis.csv" title="Tracis CSV">CSV</a>, <a href="https://github.com/stevenhorner/PeakVisibility/blob/master/Tracis/Tracis(shp).zip?raw=true" title="Tracis shapefile">SHP</a>, <a href="https://raw.github.com/stevenhorner/PeakVisibility/master/Tracis/Tracis.geojson" title="Tracis geojson">GeoJSON</a>.</p>
+
+<h2>Schiehallion?</h2>
+
+<p>So what happened to Schiehallion?</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/2657852/website/images/schiehallion.png" alt="Schiehallion rank" /></p>
+
+<p>Schiehallion is down there in position number 83 on Visibility. Something to be aware of is that the whole data is worked out on the visibility of the actual summit. If you have ever walked up Ben Nevis via the tourist route you will know you can&#8217;t see the summit until near the end of the walk. The summit is completely hidden by the mass of the mountain. So thinking about it a mountain that is pointy, quite high and not surrounded by too many high mountains should rank highly.</p>
+
+<h2>Errors, thanks and stuff</h2>
+
+<p>I will start by saying I am confident this data is not 100% accurate. Much like the Munro tables were not accurate and have been gradually updated over the years, so will the Peak Visibility Project along with the Horner and Traci classifications.
+I will go into more detail over on the <a href="https://github.com/stevenhorner/PeakVisibility/" title="Peak Visibility Project on Github">Peak Visibility Github page</a> over the coming weeks, where you can also find much of the raw data and results but I&#8217;m going to take a little break from it, so don&#8217;t expect to to see full explanations in the next couple of days.</p>
+
+<p>I Would like to thank Michael Spencer (<a href="http://scottishsnow.wordpress.com/" title="Scottishsnow">Scottishsnow</a>) for a few helpful pointers early on in the process and his <a href="http://scottishsnow.wordpress.com/2013/06/21/caleb-arthurs/" title="Caleb's List">Caleb&#8217;s List post</a> which gave me the spark I needed. His site is well worth following. I also need to thank or blame <a href="http://twitter.com/PhilOutdoors" title="Phil Turner">Phil Turner</a> who if he reads this will probably wonder why, he pointed out Schiehallion one winter while walking from Bridge of Orchy to Kinlochleven and mentioned it being one of the most visible mountains, that stuck.</p>
+
+<p>I mentioned at the start that the most sucessful projects are those where you learn, in the course of this project I have worked with Virtualization, Ubuntu server, Ubuntu Desktop, QGIS (1.8, 2.0.1, 2.1.0), GDAL, GRASS, python, projections and a multitude of other stuff. I thoroughly enjoyed the process.</p>
+
+<p>To produce the data and results I have used a variety of data from the following sources:</p>
+
+<ul>
+<li><a href="http://www.ordnancesurvey.co.uk" title="Ordnance Survey">Ordnance Survey</a></li>
+<li><a href="http://www.hills-database.co.uk/" title="The Database of British and Irish Hills">The Database of British and Irish Hills</a></li>
+<li><a href="http://www.qgis.org/" title="QGIS">QGIS</a></li>
+</ul>
+
+
+<p>Maps on this page use Ordnance Survey OpenData which is © Crown copyright and database right 2013.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mountain Leader Training]]></title>
@@ -1076,67 +1665,6 @@ Munros = 2</p>
 <p>I&#8217;m hoping the map at the top of the page actually works from Monday using the magic of <a href="http://new.socialhiking.org.uk">Social Hiking</a>, updates to the map may be few and far between due to signal and battery issues.</p>
 
 <p>So keep an eye on <a href="http://www.twitter.com/stevenhorner">my tweets</a> and I will write it all up when I return. Thanks for taking the time to read this and apologies if it doesn&#8217;t make a lot of sense (written on my phone).</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Keen A86 Trail Runners Review]]></title>
-    <link href="http://stevenhorner.github.com/blog/2011/04/28/keen-a86-trail-runners-review/"/>
-    <updated>2011-04-28T19:30:25+01:00</updated>
-    <id>http://stevenhorner.github.com/blog/2011/04/28/keen-a86-trail-runners-review</id>
-    <content type="html"><![CDATA[<p><img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20110402_125935.jpg" alt="Keen A86 Trail Runners" /></p>
-
-<p><strong>Price:</strong> £67.49
-<strong>Weight:</strong> 238g (UK 8.5) - my scales
-<strong>Product Link:</strong> <a href="http://www.webtogs.co.uk/Keen_Mens_A86_TR_Trail_Runners_102848-22942.html">Webtogs</a></p>
-
-<p>I was asked by <a href="http://www.webtogs.co.uk/">Webtogs</a> if I would like to review some Keen shoes and to be honest I was going to say No. I own a pair of Keen boots and some slippers which are comfy, but they have thick soles and are what I&#8217;m generally trying to get away from to improve my gait (see <a href="http://www.stevenhorner.com/?p=1406">previous post</a>). As I was thinking about how to say No politely, I remembered seeing some pictures of some very lightweight Trail runners announced a couple of months ago. Damn pleased I checked the website first.</p>
-
-<!-- more -->
-
-
-<p>The A86s are a big change for Keen, the brand is normally easily identifiable due to the big toe bumpers and large cushioned soles. The A86 are also easily identifiable as Keen footwear but in this case due to the huge brand name on the side.</p>
-
-<p>These are very light (238g per shoe in UK 8.5). I was walking out the door wearing a pair of Montrail Continental Divides for the last time before sending them to their shoe grave when the postman arrived with the A86s. I quickly ditched the Montrails and the weight difference and feel was unbelievable. I&#8217;m sure I&#8217;ve got some thick socks that feel heavier. These are the most comfortable shoes I&#8217;ve ever slipped onto my feet. They make you want to run, which I did several times carrying a full pack (a lightweight one obviously).</p>
-
-<p><img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20110402_130147.jpg" alt="Keen A86 TR" /></p>
-
-<p><strong>Fit</strong></p>
-
-<p>The A86s unlike some other makes, don&#8217;t feel like I&#8217;m wearing clown shoes and my feet have a bit more room in the toe box than Inov-8 212s which feel longer and slightly narrower. Those crazy curved laces aren&#8217;t just for show, they do an excellent job of fitting the shoe snugly to your foot, yet never feel like they are gripping too tight. The heel cup grips firmly giving you confidence without being uncomfortable.</p>
-
-<p><strong>Grips</strong></p>
-
-<p>The grips can be best described as odd, from pictures it&#8217;s hard to get a sense of how they actually look. They are not flat circles but are angled (side photos are better for illustration). Keen call it &#8220;the dot matrix, multidirectional 3 mm traction lugs&#8221; This should allow them to cut into the ground. I was very dubious at first and on my initial walk I found the grips completely covered and clogged with mud but to be fair this would of happened to all but the most aggressive soles. On every other surface that day, grass, gravel, dirt track etc there were no issues. To test the grips further I decided to have a wander along Striding Edge, not somewhere you want to slip. No matter how hard I tried they never failed me, until I came to a nice scree run off Catstye Cam. In comparison to my partners boots these were like a fly in a spiders web, sticking to the ground.</p>
-
-<p><img src="http://dl.dropbox.com/u/2657852/website/images/IMG_20110402_130959.jpg" alt="Oh No they might get muddy" /></p>
-
-<p>After my initial skepticism I&#8217;ve been impressed, although the last few weeks have been very dry and I&#8217;ve had no real opportunity to test on wet rock.</p>
-
-<p><img src="http://dl.dropbox.com/u/2657852/website/images/Footwear-and-Weardale-Skyline-beta-026.jpg" alt="Slight wear" /></p>
-
-<p>The angled design of the grips presents a narrow edge to the ground which is going to wear quite quickly on harder surfaces. I can see the edges have worn very slightly after the 60+ miles I&#8217;ve done in them.</p>
-
-<p><strong>Uppers</strong></p>
-
-<p>The uppers are made of very fine mesh which you can see through if you hold them up to the light. This is excellent for ventilation which has been needed on recent trips. This also allows for very quick drying when crossing streams. There&#8217;s also minimal toe protecting with small toe bumpers and thicker material to prevent toe bashing (I had no problems on Striding Edge). Strangely Keens website says &#8220;Weather: Wet - water resistant&#8221;. They can&#8217;t have any lining I can see straight through them. Oh that mesh does let quite a bit of dust in the shoes, my feet were black.</p>
-
-<p><img src="http://dl.dropbox.com/u/2657852/website/images/Footwear-and-Weardale-Skyline-beta-0211.jpg" alt="Keen A86 Trail Runners" /></p>
-
-<p><strong>Design</strong></p>
-
-<p>The design may not be to everyone tastes, they do shout &#8220;Look At Me&#8221;. Shoes are the few items of clothing that I tend to choose quite loud colours, my <a href="http://www.inov-8.com/Products-Detail.asp?PG=PG1&amp;L=26&amp;P=5050973079">OROC Banana shoes</a> are a perfect example. I really love the design and there are 4 to choose from, although most UK shops only have 2 (the best ones). I wore them one night to the pub and they didn&#8217;t look out of place. <a href="http://www.keenfootwear.com/product/ss11/shoes/men/trailhead/a86%20tr/classic%20blue!keen%20yellow">Keens website</a> lets you see what they look like with different coloured jeans!</p>
-
-<p><img src="http://dl.dropbox.com/u/2657852/website/images/Striding-Edge-Swirral-Edge-April-2011-085.jpg" alt="Keen A86 gripping on Swirral Edge" /></p>
-
-<p><strong>Pros:</strong> very light, glove like fit, looks <BR>
-<strong>Cons:</strong> grips may wear quickly?</p>
-
-<p><strong>Conclusion</strong></p>
-
-<p>The best way to sum up my feelings about the A86s is to mention they have caused me a huge dilemma. I was all ready to do my forthcoming <a href="http://www.stevenhorner.com/?p=1393">Highland ZigZag walk</a> in my trusty Terrocs but the A86s feel so comfortable that I&#8217;m really struggling to make a decision. I do need to mention that I am used to walking in lightweight shoes and if you jump into these from a pair of big Scarpa boots you may find feeling the ground uncomfortable at first. These are now picked as my first choice shoes when going out walking. I will buy another pair when these eventually do wear out (hopefully not for some time)</p>
-
-<p>You really need to try these on, take advantage of Wegtogs 365 days return policy. I doubt you will want to return them &lt;&#8211; They didn&#8217;t ask me to say any of this, I genuinely love their service and <a href="http://www.webtogs.co.uk/help/Why_Buy_From_Webtogs.html">policies</a>.</p>
 ]]></content>
   </entry>
   
